@@ -1,0 +1,10 @@
+_site/
+.quarto/
+.cache/
+.config/
+.deno/
+.home/
+.local/
+
+/.quarto/
+**/*.quarto_ipynb

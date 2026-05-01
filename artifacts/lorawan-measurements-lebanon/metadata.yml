@@ -1,0 +1,20 @@
+title: "LoRaWAN Measurement Campaigns in Lebanon"
+summary: "Open LoRaWAN propagation measurements in indoor, suburban, urban, and rural environments used to derive path-loss models and evaluate LPWAN coverage."
+authors:
+  - "Rida El Chall"
+  - "Samer Lahoud"
+  - "Melhem El Helou"
+year: 2018
+status: "public"
+paper_title: "LoRaWAN Network: Radio Propagation Models and Performance Evaluation in Various Environments in Lebanon"
+paper_url: "https://samer.lahoud.fr/pub-pdf/jiot-19.pdf"
+artifact_url: "https://zenodo.org/records/1560654"
+code_url: ""
+preview_image: "preview.png"
+tags:
+  - LPWAN
+  - LoRaWAN
+  - Propagation
+  - Measurement
+  - Dataset
+maintainer: "Samer Lahoud"

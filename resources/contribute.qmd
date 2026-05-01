@@ -1,0 +1,59 @@
+---
+title: "Contributing Resources"
+---
+
+Students can contribute new lab resources by adding a new folder under `artifacts/` and following the shared template.
+
+## Recommended structure
+
+```text
+artifacts/
+  artifact-slug/
+    metadata.yml
+    README.md
+    preview.png
+    scripts/
+    data/
+```
+
+## What to include
+
+- `metadata.yml`: basic structured information for the artifact
+- `README.md`: a human-readable description and usage notes
+- `preview.png`: one representative figure, screenshot, or result
+- `scripts/`: code, notebooks, or helper material
+- `data/`: only small example files if appropriate
+
+Large datasets should usually be hosted elsewhere and linked from the metadata and README.
+
+## Minimum metadata
+
+```yaml
+title: "Artifact title"
+summary: "One-sentence description."
+authors:
+  - "Student Name"
+  - "Samer Lahoud"
+year: 2026
+status: "public"
+paper_title: "Related paper title"
+paper_url: "https://example.org/paper"
+artifact_url: "https://example.org/resource"
+code_url: "https://github.com/example/repo"
+preview_image: "preview.png"
+tags:
+  - LPWAN
+  - Wireless IoT
+maintainer: "Student Name"
+```
+
+## Publishing workflow
+
+1. Add a new folder under `artifacts/`.
+2. Fill in `metadata.yml` and `README.md`.
+3. Add one preview image or example output.
+4. Open a git commit or pull request with the new material.
+5. Add a public-facing page to the `resources/` section when the artifact is ready to share.
+
+This keeps the repository structured while making it easy to review and publish student contributions.
+

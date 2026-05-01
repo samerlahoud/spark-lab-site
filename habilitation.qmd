@@ -1,0 +1,24 @@
+---
+title: "Habilitation Thesis"
+---
+
+I defended my habilitation thesis (*Habilitation a diriger des recherches*), **Optimizing Resource Allocation in Cellular Wireless Networks**, on **February 24, 2023** at **Université Paris-Saclay**.
+
+<iframe width="100%" height="420" src="https://www.youtube.com/embed/oak98OLHk5c?si=W7yZ21_zACVU8eZu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Summary
+
+In this presentation, I discuss how our research contributes to advancing the state of the art in radio resource management for cellular wireless networks. I present original models, algorithms, and performance evaluations that tackle major challenges in the field. Our work aims to narrow the gap between what is expected from wireless technologies and what they deliver in real-world scenarios.
+
+The first challenge is related to spectral and energy efficiency. I present our work on full-duplex communications. With the help of our scheduling and power allocation algorithms, full-duplex communications can almost double user throughput and cut waiting delay in half.
+
+The second challenge is related to the heterogeneity and densification of deployment. I address spectrum allocation and user association in heterogeneous networks with macro cells, small cells, mmWave, and traditional sub-6 GHz technologies. This work offers useful guidelines for HetNet design and yields load-aware resource management that avoids over-dimensioning radio resources and defectively associating users to crowded cells.
+
+The third challenge is related to massive connectivity. I focus on LoRaWAN wireless access for the Internet of Things. I introduce a path loss model for LoRaWAN based on extensive measurement campaigns, then describe our work on improving LoRaWAN scalability. In particular, our optimization algorithms compute the distribution of nodes over spreading factors in a way that mitigates collisions. These contributions are tailored for dense gateway deployments in both single-operator and multi-operator settings.
+
+I conclude by showing how these challenges help analyze the future evolution of cellular wireless networks and highlight promising future directions.
+
+## Slides and Video
+
+- [Defense recording](https://www.youtube.com/watch?v=oak98OLHk5c)
+- [Slides](http://samer.lahoud.fr/pub-pdf/hdr-samerlahoud-24-2-23.pdf)

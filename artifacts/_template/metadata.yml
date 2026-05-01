@@ -1,0 +1,17 @@
+title: "Artifact title"
+summary: "One-sentence description."
+authors:
+  - "Student Name"
+  - "Samer Lahoud"
+year: 2026
+status: "public"
+paper_title: "Related paper title"
+paper_url: "https://example.org/paper"
+artifact_url: "https://example.org/resource"
+code_url: "https://github.com/example/repo"
+preview_image: "preview.png"
+tags:
+  - Wireless
+  - Example
+maintainer: "Student Name"
+

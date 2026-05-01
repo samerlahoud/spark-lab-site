@@ -1,0 +1,57 @@
+---
+title: "Publications"
+---
+
+<!-- Generated automatically from {{ bib_path }} by scripts/generate_publications.py -->
+
+<div class="pub-view-switch" role="tablist" aria-label="Publication sorting">
+  <button class="pub-view-button is-active" type="button" data-view-target="year">By year</button>
+  <button class="pub-view-button" type="button" data-view-target="category">By category</button>
+</div>
+
+<div class="pub-view" data-view-panel="category" hidden>
+{% for type_key, type_name in type_order %}
+{% if entries_by_type.get(type_key) %}
+## {{ type_name }}
+
+{% for entry in entries_by_type[type_key] %}
+<a id="{{ entry.id }}"></a>
+[{{ loop.index }}] {{ entry.citation }}{% if entry.doi %} [doi](https://doi.org/{{ entry.doi }}){% endif %}{% if entry.url %} [url]({{ entry.url }}){% endif %}{% if entry.pdf %} [pdf]({{ entry.pdf }}){% endif %}
+
+{% endfor %}
+{% endif %}
+{% endfor %}
+</div>
+
+<div class="pub-view" data-view-panel="year">
+{% for year_group in entries_by_year %}
+## {{ year_group.year }}
+
+{% for entry in year_group.entries %}
+<a id="{{ entry.id }}-year"></a>
+[{{ loop.index }}] {{ entry.citation }}{% if entry.doi %} [doi](https://doi.org/{{ entry.doi }}){% endif %}{% if entry.url %} [url]({{ entry.url }}){% endif %}{% if entry.pdf %} [pdf]({{ entry.pdf }}){% endif %}
+
+{% endfor %}
+{% endfor %}
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const buttons = document.querySelectorAll(".pub-view-button");
+  const panels = document.querySelectorAll(".pub-view");
+
+  buttons.forEach((button) => {
+    button.addEventListener("click", function () {
+      const target = button.getAttribute("data-view-target");
+
+      buttons.forEach((item) => {
+        item.classList.toggle("is-active", item === button);
+      });
+
+      panels.forEach((panel) => {
+        panel.hidden = panel.getAttribute("data-view-panel") !== target;
+      });
+    });
+  });
+});
+</script>

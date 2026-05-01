@@ -1,0 +1,41 @@
+---
+title: "Research"
+---
+
+This simplified page captures the main research themes from the current site and lab materials.
+
+## 1. LPWAN Radio Propagation
+
+We studied radio propagation in the sub-GHz band through indoor, outdoor, urban, and rural measurement campaigns. This work produced path loss models tailored to LoRaWAN and helped improve realistic coverage estimation in low power wide area deployments.
+
+## 2. LPWAN Performance and Reliability
+
+Our work on LoRaWAN and related LPWAN technologies focuses on:
+
+- spreading factor selection
+- multi-gateway optimization
+- energy efficiency
+- reinforcement learning for autonomous configuration
+- multi-operator coexistence
+
+This line of work combines optimization, simulation, and machine learning to improve scalability in dense deployments.
+
+## 3. Full-Duplex Wireless Communications
+
+We studied scheduling and power allocation in full-duplex wireless systems, showing how careful radio resource management can significantly improve throughput and reduce delay. This research includes queue-aware scheduling, reinforcement learning approaches, and multi-cell resource allocation.
+
+## 4. Game-Theoretic Wireless Networks
+
+We used game-theoretic models to study how network entities make resource allocation decisions in settings such as:
+
+- spectrum allocation
+- user association
+- power control
+- network slicing
+- federated learning on constrained IoT devices
+
+These models help explain distributed behavior and guide efficient algorithm design.
+
+## 5. Dissemination and Training
+
+This research program has also included tutorials, keynotes, joint educational initiatives, and public outreach activities in IoT and wireless systems.

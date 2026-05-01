@@ -1,0 +1,49 @@
+---
+title: "Resources"
+---
+
+This section highlights open research artifacts produced in Spark Lab, including datasets, scripts, reproducibility material, and example results connected to our publications.
+
+::: {.resource-intro}
+These resources are meant to support reuse, reproducibility, and follow-up research. Each entry is designed to connect an artifact to the paper, measurements, scripts, or outputs that make the work easier to understand and build on.
+:::
+
+## What You Will Find Here
+
+::: {.resource-pillars}
+::: {.resource-pillar}
+### Open artifacts
+
+Public datasets, scripts, and reproducibility material released by the lab.
+:::
+
+::: {.resource-pillar}
+### Research context
+
+Each resource is tied to a paper, project, or experimental contribution.
+:::
+
+::: {.resource-pillar}
+### Example outputs
+
+Representative figures or results that help others understand how the artifact can be used.
+:::
+:::
+
+## Available Resources
+
+::: {.resource-card}
+### [LoRaWAN Measurement Campaigns in Lebanon](lorawan-measurements-lebanon.qmd)
+
+Open LoRaWAN propagation measurements collected in indoor, suburban, urban, and rural environments in Lebanon, used to derive path-loss models and evaluate LPWAN coverage.
+
+`LPWAN` `LoRaWAN` `Propagation` `Measurement`
+
+[View resource](lorawan-measurements-lebanon.qmd)
+:::
+
+## For Lab Members
+
+The internal contribution workflow and artifact template are documented here:
+
+[Contribution guide](contribute.qmd)

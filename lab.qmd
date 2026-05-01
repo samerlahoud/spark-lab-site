@@ -1,0 +1,92 @@
+---
+title: "Spark Lab"
+---
+
+At **Spark Lab**, I lead a team of researchers and students focused on advancing wireless networks. My training philosophy centers around clear communication, breaking barriers, and open sharing of knowledge. I believe these principles create a collaborative and inclusive environment where all students can contribute and learn.
+
+The name **Spark** honors the technology used by Marconi for the [first transatlantic radio transmission in 1902](https://ewh.ieee.org/reg/7/millennium/radio/radio_differences.html), which connected Glace Bay, Nova Scotia, to Poldhu, UK.
+
+The lab combines theory, optimization, measurement, simulation, and learning-based methods to address current challenges in wireless IoT, mobile systems, and radio resource management.
+
+## Current Research Directions
+
+- Anomaly detection in wireless networks
+- Low Power Wide Area Networks for wireless IoT
+- Wireless coexistence in unlicensed spectrum
+- Seamless transitions between cellular networks
+
+## Faculty
+
+- **Samer Lahoud** — Associate Professor, Lab Director
+- **Kinda Khawam** — Adjunct Professor, Paris-Saclay University
+
+## Current PhD Students
+
+- **Jingxiang Huang** — Intelligent LPWAN coexistence techniques using machine learning
+- **Juliana El Rayess** — Modelling and optimization of reliability in LPWANs
+- **Alexis Delplace** — AI-driven techniques for radio map estimation and applications in the unlicensed sub-GHz spectrum
+- **Xinyi Li** — Federated anti-jamming techniques for low-power wide area networks
+
+## Current Undergraduate Students
+
+- **Nathan Chappe** — Halifax digital twin
+- **Noah Jehanno** — Halifax digital twin
+
+## Recent Undergraduate Students
+
+- **Juliette Savard** — Reproducible interference rejection for LPWAN technologies
+- **Anas Alhadi** — Robust header compression in wireless IoT networks
+- **Maeva Donatien** — AI/ML functions in 5G open radio access networks
+- **Kenzo Froger** — WiFi fingerprinting
+- **Morgan Mootoosamy** — WiFi fingerprinting
+- **Daniel Faigle** — Low power relays in LoRaWAN networks
+- **Malek Achour** — Prototype of an AI-enabled radio access network
+- **Mohamed Djoncounda Sissoko** — Jamming of frequency hopping communications in LoRaWAN networks
+- **Quentin Henon** — Jamming of frequency hopping communications in LoRaWAN networks
+
+## Recent Postdoctoral Researchers
+
+- **Farah Yassine** — Federated learning for channel sensing in wireless IoT networks
+- **Hassan Fawaz** — Multi-operator LoRaWAN deployments
+- **Duc-Tuyen Ta** — Machine learning for LoRaWAN
+
+## Alumni
+
+### PhD Alumni
+
+- **Zeina Awada** — Resource management for network slicing, March 2025
+- **Ali Loubany** — LoRaWAN performance optimization: toward efficient IoT networks, June 2023
+- **Farah Yassine** — Radio Resource Management in NB-IoT Networks, July 2023
+- **Hussein Taleb** — User Association and RRH Clustering Techniques in Cloud-Radio Access Networks, July 2021
+- **Bachir Lahad** — Joint Uplink and Downlink Radio Resource Allocation for Heterogeneous TDD Cellular Networks, December 2020
+- **Hassan Fawaz** — Radio Resource Allocation in Full-Duplex Cellular OFDMA Networks, November 2019
+- **Rabah Guedrez** — Traffic Engineering for Segment Routing, December 2018
+- **Soha Farhat** — Access Selection and Pricing in Multi-Operator Wireless Networks, July 2016
+- **Mohamad Yassin** — Interference Coordination in Wireless Cellular Networks, November 2015
+- **Farah Moety** — Joint Minimization of Power and Delay in Wireless Access Networks, December 2014
+- **Melhem El Helou** — Radio Access Technology Selection in Heterogeneous Wireless Networks, November 2014
+- **Emna Salhi** — Detection and Localization of Link-Level Network Anomalies Using End-to-End Path Monitoring, February 2013
+- **Ahmed Frikha** — QoS and Reliability for Next-Generation Networks: Multi-Domain QoS Routing and Multicast Reliability, September 2012
+- **Nabil Djarallah** — Network Architectures for Inter-Carrier QoS-Capable Services, November 2011
+- **Alia Bellabas** — Quality of Service Multicast Routing Subject to Multiple Constraints, October 2011
+
+### Master's Alumni
+
+- **Ronald Touma** — Explainable and Privacy-Preserving Wi-Fi Fingerprinting for Urban Outdoor Positioning, 2025
+- **Alexis Delplace** — Radio Propagation Models for LPWAN: A LoRaWAN Deployment in Halifax, 2024
+- **Ibrahim Ayoub** — Machine Learning for Low Power Wide Area Networks, 2021
+- **Zahraa El Attar** — Comparison of resource abstraction methods in network virtualization solutions for network slicing, 2021
+- **Juliana El Rayess** — Irregular Repetition in Aloha for LoRaWAN, 2021
+- **Ali Loubany** — Adaptive Algorithm for Spreading Factor Selection in LoRaWAN Network with Multiple Gateways, 2019
+- **Wissam Eid** — Capacity and Coverage Planning for IoT Access Networks Based on LoRaWAN, 2018
+- **Mahdi Yaakoub** — Low Power Wide Area Wireless Networks for IoT: Performance Comparison between LoRaWAN and NB-IoT, 2017
+- **Joe Saad** — Power Control in 5G Full-Duplex Cellular Networks, 2016
+- **Hassan Fawaz** — Scheduling in 5G Full-Duplex Cellular Networks, 2016
+- **Karen Boulos** — Dynamic Clustering for Cloud Radio Access Networks, 2015
+- **Mohamad Yassin** — Dynamic and Distributed Radio Resource Allocation in Heterogeneous Wireless Networks, 2012
+- **Farah Moety** — Distributed Heuristics for Radio Access Technology Selection, 2011
+- **Kamel Moad** — Stability of QoS Routing, 2011
+- **Siwar Said** — Monitoring Multi-Domain Communications, 2010
+- **Ahmed Frikha** — QoS Path Computation in Multi-Domain Networks, 2009
+- **Nabil Djarallah** — Traffic Engineering in MPLS Multi-Domain Networks, 2008
+- **Rasha Hasan** — Toolbox for Traffic Engineering in MPLS Networks, 2008

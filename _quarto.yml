@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render: python3 scripts/generate_publications.py
+
+website:
+  title: "Samer Lahoud"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: lab.qmd
+        text: Spark Lab
+      - href: resources/index.qmd
+        text: Resources
+      - href: publications.qmd
+        text: Publications
+      - href: habilitation.qmd
+        text: Habilitation
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
