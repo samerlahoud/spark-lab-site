@@ -2,7 +2,9 @@
 
 This repository hosts the public Quarto website for Samer Lahoud and Spark Lab.
 
-Student contributions are welcome, especially in the `Resources` section.
+Student and lab member contributions are welcome, especially in the `Resources`
+section. Team members can use this repository to describe datasets, scripts,
+notebooks, reproducibility packages, and other research material.
 
 ## Contribution model
 
@@ -11,8 +13,16 @@ Please contribute through a git branch and pull request rather than pushing dire
 Typical workflow:
 
 ```bash
-git clone git@github.com:samerlahoud/<repo-name>.git
-cd <repo-name>
+git clone git@github.com:samerlahoud/spark-lab-site.git
+cd spark-lab-site
+git checkout -b add-my-resource
+```
+
+If you do not use SSH with GitHub, clone with HTTPS instead:
+
+```bash
+git clone https://github.com/samerlahoud/spark-lab-site.git
+cd spark-lab-site
 git checkout -b add-my-resource
 ```
 
@@ -49,6 +59,8 @@ resources/
   your-resource-slug.qmd
 ```
 
+Use a short lowercase slug with hyphens, for example `lorawan-measurements-lebanon`.
+
 ## Minimum expectations for a resource
 
 Each resource should include:
@@ -60,6 +72,22 @@ Each resource should include:
 - a link to the artifact, dataset, code, or script
 - one preview figure, screenshot, or example result
 - a maintainer name
+
+For datasets, please describe:
+
+- what the data contains
+- how it was collected or generated
+- file formats and important columns or fields
+- where the full dataset is hosted, if it is too large for git
+- how the dataset should be cited or acknowledged
+
+For scripts or notebooks, please describe:
+
+- what the script does
+- required software, packages, or input files
+- how to run it
+- expected outputs
+- known limitations or assumptions
 
 ## Public vs internal material
 
@@ -81,6 +109,9 @@ Before opening a pull request, please check that your contribution includes:
 - links that work
 - clean filenames and folder names
 
+If the material is still being prepared, it is fine to open a draft pull request
+with only the `artifacts/` folder and explain what is missing.
+
 ## Rendering locally
 
 To preview the site locally:
@@ -100,4 +131,3 @@ The publications page is generated automatically before render from the BibTeX d
 ## Questions
 
 If you are unsure whether a resource is ready for the public site, open a draft pull request first and describe the current state of the material.
-

@@ -2,7 +2,13 @@
 title: "Contributing Resources"
 ---
 
-Students can contribute new lab resources by adding a new folder under `artifacts/` and following the shared template.
+Students and lab members can contribute new resources by describing their
+datasets, scripts, notebooks, or reproducibility material in this repository:
+
+[https://github.com/samerlahoud/spark-lab-site](https://github.com/samerlahoud/spark-lab-site)
+
+Start with an artifact description under `artifacts/`. Add a public page under
+`resources/` when the material is ready to appear on the website.
 
 ## Recommended structure
 
@@ -14,7 +20,14 @@ artifacts/
     preview.png
     scripts/
     data/
+
+resources/
+  artifact-slug.qmd
 ```
+
+Use a short lowercase slug for the folder and page name, with words separated by
+hyphens. For example, use `lorawan-measurements-lebanon` instead of a long title
+with spaces.
 
 ## What to include
 
@@ -25,6 +38,22 @@ artifacts/
 - `data/`: only small example files if appropriate
 
 Large datasets should usually be hosted elsewhere and linked from the metadata and README.
+
+For datasets, describe:
+
+- what the data contains
+- how it was collected or generated
+- file formats and important columns or fields
+- expected size and whether the full data is stored elsewhere
+- how someone should cite or acknowledge the dataset
+
+For scripts or notebooks, describe:
+
+- what the script does
+- required software, packages, or input files
+- how to run it
+- expected outputs
+- any limitations, assumptions, or known issues
 
 ## Minimum metadata
 
@@ -49,11 +78,71 @@ maintainer: "Student Name"
 
 ## Publishing workflow
 
-1. Add a new folder under `artifacts/`.
-2. Fill in `metadata.yml` and `README.md`.
-3. Add one preview image or example output.
-4. Open a git commit or pull request with the new material.
-5. Add a public-facing page to the `resources/` section when the artifact is ready to share.
+1. Clone the repository from GitHub.
+
+```bash
+git clone git@github.com:samerlahoud/spark-lab-site.git
+cd spark-lab-site
+```
+
+If you do not use SSH with GitHub, clone with HTTPS instead:
+
+```bash
+git clone https://github.com/samerlahoud/spark-lab-site.git
+cd spark-lab-site
+```
+
+2. Create a branch for your contribution.
+
+```bash
+git checkout -b add-my-resource
+```
+
+3. Add a new folder under `artifacts/`.
+
+```text
+artifacts/
+  my-resource-slug/
+    metadata.yml
+    README.md
+    preview.png
+```
+
+4. Fill in `metadata.yml` and `README.md`.
+5. Add one preview image, figure, screenshot, or representative result.
+6. If the resource is ready to be public, add `resources/my-resource-slug.qmd`.
+7. Add the resource to `resources/index.qmd` so it appears on the Resources page.
+8. Build or preview the site locally.
+
+```bash
+quarto preview
+```
+
+9. Commit your changes and push the branch.
+
+```bash
+git add artifacts/my-resource-slug resources/my-resource-slug.qmd resources/index.qmd
+git commit -m "Add resource: short descriptive title"
+git push origin add-my-resource
+```
+
+If you are only adding the artifact description for now, omit the `resources/`
+files from `git add`.
+
+10. Open a pull request on GitHub.
 
 This keeps the repository structured while making it easy to review and publish student contributions.
 
+## Public page checklist
+
+The public page under `resources/` should include:
+
+- a short overview
+- what is included
+- access or download instructions
+- a related paper, report, or project if available
+- one example figure, screenshot, or result
+- a citation or acknowledgement note if available
+
+If the material is not ready to publish yet, contribute only the `artifacts/`
+folder first and explain the current state in the pull request.

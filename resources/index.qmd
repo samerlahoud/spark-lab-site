@@ -44,6 +44,13 @@ Open LoRaWAN propagation measurements collected in indoor, suburban, urban, and 
 
 ## For Lab Members
 
-The internal contribution workflow and artifact template are documented here:
+Team members can contribute new datasets, scripts, notebooks, and reproducibility
+material through the GitHub repository:
+
+[https://github.com/samerlahoud/spark-lab-site](https://github.com/samerlahoud/spark-lab-site)
+
+Start by describing the material in a new folder under `artifacts/`. When the
+material is ready for the public website, add a matching page under `resources/`
+and link it from this page.
 
 [Contribution guide](contribute.qmd)

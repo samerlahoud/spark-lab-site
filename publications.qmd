@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-<!-- Generated automatically from /Users/simurgh/Documents/Codex/2026-04-24-recreate-my-web-site-and-my/data/samer-lahoud-ref-db.bib by scripts/generate_publications.py -->
+<!-- Generated automatically from /Users/simurgh/Documents/Codex/spark-lab-site/data/samer-lahoud-ref-db.bib by scripts/generate_publications.py -->
 
 <div class="pub-view-switch" role="tablist" aria-label="Publication sorting">
   <button class="pub-view-button is-active" type="button" data-view-target="year">By year</button>
