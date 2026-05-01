@@ -1,18 +1,32 @@
-# Simple Quarto Website
+# Spark Lab Website
 
-This directory contains a simplified Quarto recreation of the existing website at:
+This repository contains the public Quarto website for Samer Lahoud and Spark Lab.
+It is a simplified, maintainable recreation of the existing site at:
 
 - https://web.cs.dal.ca/~lahoud/site/
 
-## Run locally
+The site includes profile, lab, research, resources, publications, habilitation,
+and contact pages. Publications are generated from a BibTeX database before each
+render.
+
+## Requirements
+
+- Quarto
+- Python 3
+- Python packages used by `scripts/generate_publications.py`:
+  - `jinja2`
+  - `latexcodec`
+  - `pybtex`
+
+## Preview Locally
 
 ```bash
 quarto preview
 ```
 
-The publications page is generated automatically before each render from the BibTeX file used by `scripts/generate_publications.py`.
+Quarto will run the pre-render publication generator automatically.
 
-## Build
+## Build the Site
 
 ```bash
 quarto render
@@ -20,7 +34,39 @@ quarto render
 
 The rendered site is written to `_site/`.
 
-## Deploy
+## Publications
+
+The publications page is generated from:
+
+- `data/samer-lahoud-ref-db.bib`
+
+The generator script is:
+
+- `scripts/generate_publications.py`
+
+The generator also supports the legacy BibTeX location:
+
+- `/Applications/MAMP/htdocs/mywebpage/docs/img/samer-lahoud-ref-db.bib`
+
+To regenerate publications manually with a specific BibTeX file:
+
+```bash
+python3 scripts/generate_publications.py /path/to/publications.bib
+```
+
+## Resources and Artifacts
+
+Student and lab contributions should normally add:
+
+- one artifact folder under `artifacts/`
+- one public-facing page under `resources/`
+- one entry in `resources/index.qmd`
+
+Use `artifacts/_template/` as the starting point for new research artifacts.
+See `CONTRIBUTING.md` for the recommended pull request workflow and resource
+checklist.
+
+## Deploy the Site
 
 To render and upload the site to your Dalhousie account:
 
@@ -38,23 +84,23 @@ You can override the destination if needed:
 REMOTE_USER=lahoud REMOTE_HOST=timberlea.cs.dal.ca REMOTE_PATH=public_html/ ./scripts/deploy.sh
 ```
 
-## GitHub collaboration
+## Repository Layout
 
-Students should contribute through pull requests.
-
-- See [CONTRIBUTING.md](CONTRIBUTING.md) for the recommended workflow
-- Use the `artifacts/` structure for new research materials
-- Add polished public entries under `resources/`
-
-## Publications Source
-
-By default, the generator looks for the BibTeX database in one of these locations:
-
-- `data/samer-lahoud-ref-db.bib`
-- `/Applications/MAMP/htdocs/mywebpage/docs/img/samer-lahoud-ref-db.bib`
-
-You can also run it manually with an explicit path:
-
-```bash
-python3 scripts/generate_publications.py /path/to/publications.bib
+```text
+.
+├── _quarto.yml
+├── data/
+├── resources/
+├── artifacts/
+├── scripts/
+├── _templates/
+└── _site/
 ```
+
+- `_quarto.yml` configures the Quarto website and navigation.
+- `data/` stores the BibTeX publication source.
+- `resources/` contains polished public resource pages.
+- `artifacts/` contains structured research material prepared through git.
+- `scripts/` contains publication generation and deployment scripts.
+- `_templates/` contains the publication page template.
+- `_site/` contains the rendered website output.
