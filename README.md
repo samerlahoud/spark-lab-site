@@ -36,17 +36,34 @@ The rendered site is written to `_site/`.
 
 ## Publish with Cloudflare Pages
 
-This repository is ready to be connected to Cloudflare Pages through GitHub:
+For this small static site, the simplest Cloudflare Pages workflow is to render
+locally, commit `_site/`, and let Cloudflare serve the committed output.
+
+Before pushing an update, run:
+
+```bash
+quarto render
+```
+
+Then commit both the source files and the rendered `_site/` files:
+
+```bash
+git add .
+git commit -m "Update website"
+git push
+```
+
+Connect this repository to Cloudflare Pages through GitHub:
 
 - GitHub repository: `https://github.com/samerlahoud/spark-lab-site`
 - Production branch: `main`
 - Framework preset: `None`
-- Build command: `bash scripts/build-cloudflare-pages.sh`
+- Build command: leave blank
 - Build output directory: `_site`
 - Root directory: `/`
 
-The Cloudflare build script installs Quarto in the build environment, installs
-the Python dependencies from `requirements.txt`, and runs `quarto render`.
+In some Cloudflare interfaces the output directory may be shown as `/_site`.
+Use `_site` if the field expects a relative path.
 
 After creating the Pages project, add the custom domain in Cloudflare Pages:
 
@@ -66,12 +83,14 @@ shown by Cloudflare.
 After setup, the normal update workflow is:
 
 ```bash
+quarto render
 git add .
 git commit -m "Update website"
 git push
 ```
 
-Cloudflare Pages will rebuild and redeploy the site after each push to `main`.
+Cloudflare Pages will redeploy the committed `_site/` output after each push to
+`main`.
 
 ## Publications
 
