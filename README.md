@@ -34,6 +34,45 @@ quarto render
 
 The rendered site is written to `_site/`.
 
+## Publish with Cloudflare Pages
+
+This repository is ready to be connected to Cloudflare Pages through GitHub:
+
+- GitHub repository: `https://github.com/samerlahoud/spark-lab-site`
+- Production branch: `main`
+- Framework preset: `None`
+- Build command: `bash scripts/build-cloudflare-pages.sh`
+- Build output directory: `_site`
+- Root directory: `/`
+
+The Cloudflare build script installs Quarto in the build environment, installs
+the Python dependencies from `requirements.txt`, and runs `quarto render`.
+
+After creating the Pages project, add the custom domain in Cloudflare Pages:
+
+- `samer.lahoud.fr`
+
+If DNS remains managed at OVH, create a CNAME record:
+
+```text
+Type: CNAME
+Subdomain: samer
+Target: your-cloudflare-pages-project.pages.dev.
+```
+
+Replace `your-cloudflare-pages-project.pages.dev.` with the actual Pages URL
+shown by Cloudflare.
+
+After setup, the normal update workflow is:
+
+```bash
+git add .
+git commit -m "Update website"
+git push
+```
+
+Cloudflare Pages will rebuild and redeploy the site after each push to `main`.
+
 ## Publications
 
 The publications page is generated from:
@@ -93,6 +132,7 @@ REMOTE_USER=lahoud REMOTE_HOST=timberlea.cs.dal.ca REMOTE_PATH=public_html/ ./sc
 ├── resources/
 ├── artifacts/
 ├── scripts/
+├── requirements.txt
 ├── _templates/
 └── _site/
 ```
@@ -102,5 +142,6 @@ REMOTE_USER=lahoud REMOTE_HOST=timberlea.cs.dal.ca REMOTE_PATH=public_html/ ./sc
 - `resources/` contains polished public resource pages.
 - `artifacts/` contains structured research material prepared through git.
 - `scripts/` contains publication generation and deployment scripts.
+- `requirements.txt` lists Python dependencies needed during rendering.
 - `_templates/` contains the publication page template.
 - `_site/` contains the rendered website output.

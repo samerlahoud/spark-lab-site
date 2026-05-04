@@ -5,6 +5,7 @@ project:
 
 website:
   title: "Samer Lahoud"
+  site-url: "https://samer.lahoud.fr"
   navbar:
     left:
       - href: index.qmd
