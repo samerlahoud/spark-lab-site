@@ -21,7 +21,7 @@ I hold a PhD in Computer Science from IMT Atlantique, Rennes and a [habilitation
 
 ::: {.lab-highlight}
 ::: {.lab-highlight-media}
-![Spark Lab Team](team-summer-24.jpeg)
+![](team-summer-24.jpeg)
 :::
 
 ::: {.lab-highlight-text}

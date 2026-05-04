@@ -2,10 +2,9 @@
 set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
-REMOTE_HOST="${REMOTE_HOST:-timberlea.cs.dal.ca}"
-REMOTE_USER="${REMOTE_USER:-lahoud}"
-REMOTE_PATH="${REMOTE_PATH:-public_html/}"
-RSYNC_RSH="${RSYNC_RSH:-ssh}"
+REMOTE_NAME="${REMOTE_NAME:-origin}"
+BRANCH_NAME="${BRANCH_NAME:-$(git -C "$ROOT_DIR" branch --show-current)}"
+COMMIT_MESSAGE="${COMMIT_MESSAGE:-Update rendered website}"
 
 cd "$ROOT_DIR"
 
@@ -18,6 +17,14 @@ export DENO_DIR="$ROOT_DIR/.deno"
 
 quarto render
 
-rsync -avz --delete -e "$RSYNC_RSH" _site/ "${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_PATH}"
+git add -A
 
-echo "Deployment complete: ${REMOTE_USER}@${REMOTE_HOST}:${REMOTE_PATH}"
+if git diff --cached --quiet; then
+  echo "No changes to commit after rendering."
+  exit 0
+fi
+
+git commit -m "$COMMIT_MESSAGE"
+git push "$REMOTE_NAME" "$BRANCH_NAME"
+
+echo "Pushed rendered site to ${REMOTE_NAME}/${BRANCH_NAME}."

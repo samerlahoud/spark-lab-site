@@ -126,20 +126,24 @@ checklist.
 
 ## Deploy the Site
 
-To render and upload the site to your Dalhousie account:
+The deploy script now publishes through GitHub only. It renders the Quarto site,
+stages the source and `_site/` output, creates a commit if anything changed, and
+pushes to the configured GitHub remote.
 
 ```bash
 ./scripts/deploy.sh
 ```
 
-By default this deploys to:
+Defaults:
 
-- `lahoud@timberlea.cs.dal.ca:public_html/`
+- remote: `origin`
+- branch: current git branch
+- commit message: `Update rendered website`
 
-You can override the destination if needed:
+You can override these values if needed:
 
 ```bash
-REMOTE_USER=lahoud REMOTE_HOST=timberlea.cs.dal.ca REMOTE_PATH=public_html/ ./scripts/deploy.sh
+COMMIT_MESSAGE="Update publications" REMOTE_NAME=origin BRANCH_NAME=main ./scripts/deploy.sh
 ```
 
 ## Repository Layout
