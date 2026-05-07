@@ -186,7 +186,7 @@ title: "Publications"
 
 
 <a id="Delp2605%3ARealistic"></a>
-[1] A. Delplace, S. Lahoud, K. Khawam, D. Quadri, **Towards Realistic Waveform-Level IoT Network Simulation via IQ Mixing**, *2026 IEEE International Symposium on Spectrum Innovation (DySPAN) (IEEE DySPAN 2026)*, Washington, USA, pp. 4.96, May 2026.
+[1] A. Delplace, S. Lahoud, K. Khawam, D. Quadri, **Towards Realistic Waveform-Level IoT Network Simulation via IQ Mixing**, *2026 IEEE International Symposium on Spectrum Innovation (DySPAN) (IEEE DySPAN 2026)*, Washington, USA, May 2026.
 
 
 <a id="11366306"></a>
@@ -194,7 +194,7 @@ title: "Publications"
 
 
 <a id="Huan2604%3AAnalysis"></a>
-[3] J. Huang, S. Lahoud, **Design and Analysis of Chirp-Layered Superposition Coding for LoRa**, *2026 22nd Annual IEEE International Conference on Sensing, Communication, and Networking (SECON) (SECON 2026)*, Pisa, Italy, pp. 7.97, June 2026.
+[3] J. Huang, S. Lahoud, **Design and Analysis of Chirp-Layered Superposition Coding for LoRa**, *2026 22nd Annual IEEE International Conference on Sensing, Communication, and Networking (SECON) (SECON 2026)*, Pisa, Italy, June 2026.
 
 
 <a id="11297558"></a>
@@ -202,7 +202,7 @@ title: "Publications"
 
 
 <a id="Laho2512%3ASemantic"></a>
-[5] S. Lahoud, K. Khawam, **Semantic Communication with Distribution Learning through Sequential Observations**, *2025 IEEE Globecom Workshops (GC Wkshps): Workshop on Semantic Communications Meets Wireless in AI Era (GC Wkshps 2025-SC WAIE)*, Taipei, Taiwan, pp. 5.99, December 2025.
+[5] S. Lahoud, K. Khawam, **Semantic Communication with Distribution Learning through Sequential Observations**, *2025 IEEE Globecom Workshops (GC Wkshps): Workshop on Semantic Communications Meets Wireless in AI Era (GC Wkshps 2025-SC WAIE)*, Taipei, Taiwan, December 2025.
 
 
 <a id="11308886"></a>
@@ -707,7 +707,7 @@ title: "Publications"
 
 
 <a id="Delp2605%3ARealistic-year"></a>
-[1] A. Delplace, S. Lahoud, K. Khawam, D. Quadri, **Towards Realistic Waveform-Level IoT Network Simulation via IQ Mixing**, *2026 IEEE International Symposium on Spectrum Innovation (DySPAN) (IEEE DySPAN 2026)*, Washington, USA, pp. 4.96, May 2026.
+[1] A. Delplace, S. Lahoud, K. Khawam, D. Quadri, **Towards Realistic Waveform-Level IoT Network Simulation via IQ Mixing**, *2026 IEEE International Symposium on Spectrum Innovation (DySPAN) (IEEE DySPAN 2026)*, Washington, USA, May 2026.
 
 
 <a id="11366306-year"></a>
@@ -715,7 +715,7 @@ title: "Publications"
 
 
 <a id="Huan2604%3AAnalysis-year"></a>
-[3] J. Huang, S. Lahoud, **Design and Analysis of Chirp-Layered Superposition Coding for LoRa**, *2026 22nd Annual IEEE International Conference on Sensing, Communication, and Networking (SECON) (SECON 2026)*, Pisa, Italy, pp. 7.97, June 2026.
+[3] J. Huang, S. Lahoud, **Design and Analysis of Chirp-Layered Superposition Coding for LoRa**, *2026 22nd Annual IEEE International Conference on Sensing, Communication, and Networking (SECON) (SECON 2026)*, Pisa, Italy, June 2026.
 
 
 
@@ -727,7 +727,7 @@ title: "Publications"
 
 
 <a id="Laho2512%3ASemantic-year"></a>
-[2] S. Lahoud, K. Khawam, **Semantic Communication with Distribution Learning through Sequential Observations**, *2025 IEEE Globecom Workshops (GC Wkshps): Workshop on Semantic Communications Meets Wireless in AI Era (GC Wkshps 2025-SC WAIE)*, Taipei, Taiwan, pp. 5.99, December 2025.
+[2] S. Lahoud, K. Khawam, **Semantic Communication with Distribution Learning through Sequential Observations**, *2025 IEEE Globecom Workshops (GC Wkshps): Workshop on Semantic Communications Meets Wireless in AI Era (GC Wkshps 2025-SC WAIE)*, Taipei, Taiwan, December 2025.
 
 
 <a id="11308886-year"></a>
