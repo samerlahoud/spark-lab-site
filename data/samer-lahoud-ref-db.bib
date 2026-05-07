@@ -3839,4 +3839,65 @@ equipment throughput and reduces the waiting delay.},
   	statistical learning in semantic communication and offer design principles
   	for systems that balance immediate performance with adaptation capability."
   }
+  
+  @INPROCEEDINGS{Huan2604:Analysis,
+  	AUTHOR="Jingxiang Huang and Samer Lahoud",
+  	TITLE="Design and Analysis of {Chirp-Layered} Superposition Coding for {LoRa}",
+  	BOOKTITLE="2026 22nd Annual IEEE International Conference on Sensing, Communication,
+  	and Networking (SECON) (SECON 2026)",
+  	ADDRESS="Pisa, Italy",
+  	PAGES="7.97",
+  	DAYS=25,
+  	MONTH=jun,
+  	YEAR=2026,
+  	ABSTRACT="This paper investigates the design of chirp-layered superposition coding
+  	for LoRa, where an additional waveform is linearly superposed on a standard
+  	LoRa transmission while causing only minimal impact on the LoRa
+  	demodulation process. We first show that any non-zero superposed signal
+  	perturbs the output of the standard dechirp-and-DFT demodulator, and then
+  	characterize the class of superposed waveforms that minimize this
+  	degradation under a given power budget. In particular, we show that a high
+  	spreading factor (high-SF) LoRa waveform superimposed on a low-SF signal
+  	(e.g., SF12 on SF7) can be designed so that its impact on the standard LoRa
+  	demodulation remains small. As a result, within each low-SF symbol
+  	interval, the high-SF segment can be treated as a quasi-narrowband carrier
+  	that conveys an additional BPSK stream. We derive analytical error-rate
+  	expressions for both the low-SF LoRa layer and the superposed high-SF
+  	layer, and validate them through Monte Carlo simulations. The proposed
+  	chirp-layered superposition coding scheme improves the spectral efficiency
+  	of LoRa-based links and uses a relatively simple transceiver architecture."
+  }
+  
+  @INPROCEEDINGS{Delp2605:Realistic,
+  	AUTHOR="Alexis Delplace and Samer Lahoud and Kinda Khawam and Dominique Quadri",
+  	TITLE="Towards Realistic {Waveform-Level} {IoT} Network Simulation via {IQ} Mixing",
+  	BOOKTITLE="2026 IEEE International Symposium on Spectrum Innovation (DySPAN) (IEEE
+  	DySPAN 2026)",
+  	ADDRESS="Washington, USA",
+  	PAGES="4.96",
+  	DAYS=10,
+  	MONTH=may,
+  	YEAR=2026,
+  	KEYWORDS="wireless simulation; waveform-level simulation; IQ stream mixing;
+  	interference modeling; cross-technology coexistence",
+  	ABSTRACT="Most Internet of Things (IoT) network simulators are packet-level
+  	discrete-event systems in which physical-layer (PHY) behavior is
+  	approximated through analytical interference rules and precomputed error
+  	models. While this enables scalable experiments, it can miss key
+  	waveform-level effects such as adjacent-channel leakage, cross-modulation
+  	interference between coexisting signals, and receiver imperfections, which
+  	are critical in heterogeneous sub-GHz ISM-band coexistence scenarios. This
+  	paper discusses these limitations and introduces IQSim, a simulation
+  	paradigm based on in-phase/quadrature (IQ) stream mixing. Instead of
+  	predicting packet outcomes from abstract collision models, IQSim maintains
+  	a shared complex baseband IQStream into which simulated transmissions are
+  	inserted as IQ waveforms after propagation processing, and then demodulated
+  	by software-based receivers or hardware gateways. We outline the end-to-end
+  	workflow, including online or offline waveform generation, IQ-domain
+  	propagation, waveform superposition, and delivery to gateways. We also
+  	report preliminary prototype results supporting the feasibility of
+  	real-time execution."
+  }
+  
+  
 
