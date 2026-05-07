@@ -185,448 +185,460 @@ title: "Publications"
 ## Conference Papers
 
 
+<a id="Delp2605%3ARealistic"></a>
+[1] A. Delplace, S. Lahoud, K. Khawam, D. Quadri, **Towards Realistic Waveform-Level IoT Network Simulation via IQ Mixing**, *2026 IEEE International Symposium on Spectrum Innovation (DySPAN) (IEEE DySPAN 2026)*, Washington, USA, pp. 4.96, May 2026.
+
+
 <a id="11366306"></a>
-[1] J. El Rayess, K. Khawam, S. Lahoud, M. El Helou, **Modeling and Optimizing Reliability in LR-FHSS Networks with Successive Interference Cancellation**, *2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1-6, 2026. [doi](https://doi.org/10.1109/CCNC65079.2026.11366306)
+[2] J. El Rayess, K. Khawam, S. Lahoud, M. El Helou, **Modeling and Optimizing Reliability in LR-FHSS Networks with Successive Interference Cancellation**, *2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1-6, 2026. [doi](https://doi.org/10.1109/CCNC65079.2026.11366306)
+
+
+<a id="Huan2604%3AAnalysis"></a>
+[3] J. Huang, S. Lahoud, **Design and Analysis of Chirp-Layered Superposition Coding for LoRa**, *2026 22nd Annual IEEE International Conference on Sensing, Communication, and Networking (SECON) (SECON 2026)*, Pisa, Italy, pp. 7.97, June 2026.
 
 
 <a id="11297558"></a>
-[2] X. Li, S. Lahoud, N. Zincir-Heywood, **Unsupervised Anomaly Detection for Wi-Fi Networks using RFFI**, *2025 21st International Conference on Network and Service Management (CNSM)*, pp. 1-5, 2025. [doi](https://doi.org/10.23919/CNSM67658.2025.11297558)
+[4] X. Li, S. Lahoud, N. Zincir-Heywood, **Unsupervised Anomaly Detection for Wi-Fi Networks using RFFI**, *2025 21st International Conference on Network and Service Management (CNSM)*, pp. 1-5, 2025. [doi](https://doi.org/10.23919/CNSM67658.2025.11297558)
+
+
+<a id="Laho2512%3ASemantic"></a>
+[5] S. Lahoud, K. Khawam, **Semantic Communication with Distribution Learning through Sequential Observations**, *2025 IEEE Globecom Workshops (GC Wkshps): Workshop on Semantic Communications Meets Wireless in AI Era (GC Wkshps 2025-SC WAIE)*, Taipei, Taiwan, pp. 5.99, December 2025.
 
 
 <a id="11308886"></a>
-[3] J. Huang, S. Lahoud, **Physical-Layer Analysis of LoRa Robustness in the Presence of Narrowband Interference**, *2025 International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)*, pp. 301-307, 2025. [doi](https://doi.org/10.1109/MSWiM67937.2025.11308886)
+[6] J. Huang, S. Lahoud, **Physical-Layer Analysis of LoRa Robustness in the Presence of Narrowband Interference**, *2025 International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)*, pp. 301-307, 2025. [doi](https://doi.org/10.1109/MSWiM67937.2025.11308886)
 
 
 <a id="11432594"></a>
-[4] S. Lahoud, K. Khawam, **Fragment-Level Macro-Diversity Reception in LoRaWAN Networks with LR-FHSS**, *GLOBECOM 2025 - 2025 IEEE Global Communications Conference*, pp. 3262-3267, 2025. [doi](https://doi.org/10.1109/GLOBECOM59602.2025.11432594)
+[7] S. Lahoud, K. Khawam, **Fragment-Level Macro-Diversity Reception in LoRaWAN Networks with LR-FHSS**, *GLOBECOM 2025 - 2025 IEEE Global Communications Conference*, pp. 3262-3267, 2025. [doi](https://doi.org/10.1109/GLOBECOM59602.2025.11432594)
 
 
 <a id="11123307"></a>
-[5] K. Khawam, F. Yassine, S. Lahoud, Y. Tang, D. Quadri, S. Martin, **Federated Non-Stochastic Multi-Armed Bandit for Channel Sensing in Cognitive Radio Systems**, *2025 23rd International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)*, pp. 1-6, 2025. [doi](https://doi.org/10.23919/WiOpt66569.2025.11123307)
+[8] K. Khawam, F. Yassine, S. Lahoud, Y. Tang, D. Quadri, S. Martin, **Federated Non-Stochastic Multi-Armed Bandit for Channel Sensing in Cognitive Radio Systems**, *2025 23rd International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)*, pp. 1-6, 2025. [doi](https://doi.org/10.23919/WiOpt66569.2025.11123307)
 
 
 <a id="11309099"></a>
-[6] K. Khawam, H. Taleb, S. Lahoud, S. Martin, **Federated Learning Games in Internet of Edges**, *2025 International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)*, pp. 151-159, 2025. [doi](https://doi.org/10.1109/MSWiM67937.2025.11309099)
+[9] K. Khawam, H. Taleb, S. Lahoud, S. Martin, **Federated Learning Games in Internet of Edges**, *2025 International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)*, pp. 151-159, 2025. [doi](https://doi.org/10.1109/MSWiM67937.2025.11309099)
 
 
 <a id="11309920"></a>
-[7] A. Delplace, S. Lahoud, K. Khawam, **Exploring LR-FHSS Modulation for Enhanced IoT Connectivity: A Measurement Campaign**, *2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)*, pp. 1-7, 2025. [doi](https://doi.org/10.1109/VTC2025-Fall65116.2025.11309920)
+[10] A. Delplace, S. Lahoud, K. Khawam, **Exploring LR-FHSS Modulation for Enhanced IoT Connectivity: A Measurement Campaign**, *2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)*, pp. 1-7, 2025. [doi](https://doi.org/10.1109/VTC2025-Fall65116.2025.11309920)
 
 
 <a id="11351070"></a>
-[8] J.E. Rayess, M. El Helou, S. Lahoud, K. Khawam, **Evaluating Energy Efficiency in LR-FHSS Networks under Successive Interference Cancellation**, *2025 28th International Symposium on Wireless Personal Multimedia Communications (WPMC)*, pp. 1-6, 2025. [doi](https://doi.org/10.1109/WPMC67460.2025.11351070)
+[11] J.E. Rayess, M. El Helou, S. Lahoud, K. Khawam, **Evaluating Energy Efficiency in LR-FHSS Networks under Successive Interference Cancellation**, *2025 28th International Symposium on Wireless Personal Multimedia Communications (WPMC)*, pp. 1-6, 2025. [doi](https://doi.org/10.1109/WPMC67460.2025.11351070)
 
 
 <a id="11309935"></a>
-[9] S. Lahoud, K. Khawam, **Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**, *2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)*, pp. 1-5, 2025. [doi](https://doi.org/10.1109/VTC2025-Fall65116.2025.11309935)
+[12] S. Lahoud, K. Khawam, **Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**, *2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)*, pp. 1-5, 2025. [doi](https://doi.org/10.1109/VTC2025-Fall65116.2025.11309935)
 
 
 <a id="11309854"></a>
-[10] K. Khawam, H. Taleb, S. Durand, S. Martin, S. Lahoud, **Adaptive Clustering and Incentive Mechanism for Federated Learning in IoT**, *2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)*, pp. 1-7, 2025. [doi](https://doi.org/10.1109/VTC2025-Fall65116.2025.11309854)
+[13] K. Khawam, H. Taleb, S. Durand, S. Martin, S. Lahoud, **Adaptive Clustering and Incentive Mechanism for Federated Learning in IoT**, *2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)*, pp. 1-7, 2025. [doi](https://doi.org/10.1109/VTC2025-Fall65116.2025.11309854)
 
 
 <a id="Khawam%3A2024lq"></a>
-[11] K. Khawam, H. Taleb, S. Lahoud, H. Fawaz, D. Quadri, S. Martin, **Non-Cooperative Edge Server Selection Game for Federated Learning in IoT**, *NOMS 2024-2024 IEEE Network Operations and Management Symposium*, pp. 1-6, 2024. [doi](https://doi.org/10.1109/NOMS59830.2024.10575406)
+[14] K. Khawam, H. Taleb, S. Lahoud, H. Fawaz, D. Quadri, S. Martin, **Non-Cooperative Edge Server Selection Game for Federated Learning in IoT**, *NOMS 2024-2024 IEEE Network Operations and Management Symposium*, pp. 1-6, 2024. [doi](https://doi.org/10.1109/NOMS59830.2024.10575406)
 
 
 <a id="10575406"></a>
-[12] K. Khawam, H. Taleb, S. Lahoud, H. Fawaz, D. Quadri, S. Martin, **Non-Cooperative Edge Server Selection Game for Federated Learning in IoT**, *NOMS 2024-2024 IEEE Network Operations and Management Symposium*, pp. 1-6, 2024. [doi](https://doi.org/10.1109/NOMS59830.2024.10575406)
+[15] K. Khawam, H. Taleb, S. Lahoud, H. Fawaz, D. Quadri, S. Martin, **Non-Cooperative Edge Server Selection Game for Federated Learning in IoT**, *NOMS 2024-2024 IEEE Network Operations and Management Symposium*, pp. 1-6, 2024. [doi](https://doi.org/10.1109/NOMS59830.2024.10575406)
 
 
 <a id="10817426"></a>
-[13] K. Khawam, H. Taleb, H. Fawaz, S. Lahoud, D. Quadri, S. Martin, **Edge Selection Non-Cooperative Game in IoT Edge Computing**, *2024 IEEE 35th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, pp. 1-6, 2024. [doi](https://doi.org/10.1109/PIMRC59610.2024.10817426)
+[16] K. Khawam, H. Taleb, H. Fawaz, S. Lahoud, D. Quadri, S. Martin, **Edge Selection Non-Cooperative Game in IoT Edge Computing**, *2024 IEEE 35th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, pp. 1-6, 2024. [doi](https://doi.org/10.1109/PIMRC59610.2024.10817426)
 
 
 <a id="Loubany%3A2023yi"></a>
-[14] A. Loubany, S. Lahoud, A.E. Samhat, M.E. Helou, **Throughput Improvement for LoRaWAN Networks Considering IoT Applications Priority**, *2023 6th Conference on Cloud and Internet of Things (CIoT)*, pp. 206-210, 2023. [doi](https://doi.org/10.1109/CIoT57267.2023.10084887)
+[17] A. Loubany, S. Lahoud, A.E. Samhat, M.E. Helou, **Throughput Improvement for LoRaWAN Networks Considering IoT Applications Priority**, *2023 6th Conference on Cloud and Internet of Things (CIoT)*, pp. 206-210, 2023. [doi](https://doi.org/10.1109/CIoT57267.2023.10084887)
 
 
 <a id="Rayess%3A2023bf"></a>
-[15] J.E. Rayess, K. Khawam, S. Lahoud, M.E. Helou, S. Martin, **Study of LoRaWAN Networks Reliability**, *2023 6th Conference on Cloud and Internet of Things (CIoT)*, pp. 200-205, 2023. [doi](https://doi.org/10.1109/CIoT57267.2023.10084880)
+[18] J.E. Rayess, K. Khawam, S. Lahoud, M.E. Helou, S. Martin, **Study of LoRaWAN Networks Reliability**, *2023 6th Conference on Cloud and Internet of Things (CIoT)*, pp. 200-205, 2023. [doi](https://doi.org/10.1109/CIoT57267.2023.10084880)
 
 
 <a id="Rayess%3A2023km"></a>
-[16] J.E. Rayess, K. Khawam, S. Lahoud, M.E. Helou, S. Martin, **RALI: Increasing Reliability in LoRaWAN through Repetition and Iteration**, *2023 IEEE Wireless Communications and Networking Conference (WCNC)*, pp. 1-6, 2023. [doi](https://doi.org/10.1109/WCNC55385.2023.10118962)
+[19] J.E. Rayess, K. Khawam, S. Lahoud, M.E. Helou, S. Martin, **RALI: Increasing Reliability in LoRaWAN through Repetition and Iteration**, *2023 IEEE Wireless Communications and Networking Conference (WCNC)*, pp. 1-6, 2023. [doi](https://doi.org/10.1109/WCNC55385.2023.10118962)
 
 
 <a id="Loubany%3A2023bq"></a>
-[17] A. Loubany, A.E. Samhat, S. Lahoud, M. El Helou, **Energy Efficiency Enhancement for LoRaWAN Networks with Multiple Gateways**, *2023 IEEE International Conference on Communications (ICC): IoT and Sensor Networks Symposium (IEEE ICC'23 - IoTSN Symposium)*, Rome, Italy, May 2023.
+[20] A. Loubany, A.E. Samhat, S. Lahoud, M. El Helou, **Energy Efficiency Enhancement for LoRaWAN Networks with Multiple Gateways**, *2023 IEEE International Conference on Communications (ICC): IoT and Sensor Networks Symposium (IEEE ICC'23 - IoTSN Symposium)*, Rome, Italy, May 2023.
 
 
 <a id="Khawam%3A2023ng"></a>
-[18] K. Khawam, S. Lahoud, C. Adjih, S. Makhoul, R. Al Tawil, S. Martin, **Edge Learning as a Hedonic Game in LoRaWAN**, *2023 IEEE International Conference on Communications (ICC): IoT and Sensor Networks Symposium (IEEE ICC'23 - IoTSN Symposium)*, Rome, Italy, May 2023.
+[21] K. Khawam, S. Lahoud, C. Adjih, S. Makhoul, R. Al Tawil, S. Martin, **Edge Learning as a Hedonic Game in LoRaWAN**, *2023 IEEE International Conference on Communications (ICC): IoT and Sensor Networks Symposium (IEEE ICC'23 - IoTSN Symposium)*, Rome, Italy, May 2023.
 
 
 <a id="Awada%3A2023le"></a>
-[19] Z. Awada, M. El Helou, K. Khawam, S. Lahoud, **Dynamic Multi-Tenant RAN Slicing for eMBB, URLLC, and mMTC in 5G Networks**, *2023 26th International Symposium on Wireless Personal Multimedia Communications (WPMC)*, pp. 1-7, 2023. [doi](https://doi.org/10.1109/WPMC59531.2023.10338951)
+[22] Z. Awada, M. El Helou, K. Khawam, S. Lahoud, **Dynamic Multi-Tenant RAN Slicing for eMBB, URLLC, and mMTC in 5G Networks**, *2023 26th International Symposium on Wireless Personal Multimedia Communications (WPMC)*, pp. 1-7, 2023. [doi](https://doi.org/10.1109/WPMC59531.2023.10338951)
 
 
 <a id="Awada%3A2023dw"></a>
-[20] Z. Awada, K. Khawam, S. Lahoud, M. El Helou, **A Stackelberg Game for Multi-Tenant RAN Slicing in 5G Networks**, *2023 IEEE Symposium on Computers and Communications (ISCC)*, pp. 1058-1061, 2023. [doi](https://doi.org/10.1109/ISCC58397.2023.10218208)
+[23] Z. Awada, K. Khawam, S. Lahoud, M. El Helou, **A Stackelberg Game for Multi-Tenant RAN Slicing in 5G Networks**, *2023 IEEE Symposium on Computers and Communications (ISCC)*, pp. 1058-1061, 2023. [doi](https://doi.org/10.1109/ISCC58397.2023.10218208)
 
 
 <a id="Iskandarani%3A2023jy"></a>
-[21] H. Iskandarani, H.Y. Kanaan, M. Helou, K. Khawam, S. Lahoud, K. Al-Haddad, **A Neural-Network-Based Controller for a Three- Phase Dual-Active-Bridge DC-DC Converter**, *2023 IEEE Conference on Power Electronics and Renewable Energy (CPERE)*, pp. 1-7, 2023. [doi](https://doi.org/10.1109/CPERE56564.2023.10119632)
+[24] H. Iskandarani, H.Y. Kanaan, M. Helou, K. Khawam, S. Lahoud, K. Al-Haddad, **A Neural-Network-Based Controller for a Three- Phase Dual-Active-Bridge DC-DC Converter**, *2023 IEEE Conference on Power Electronics and Renewable Energy (CPERE)*, pp. 1-7, 2023. [doi](https://doi.org/10.1109/CPERE56564.2023.10119632)
 
 
 <a id="Awada%3A2023vf"></a>
-[22] Z. Awada, M. El Helou, K. Khawam, S. Lahoud, **A Multi-Armed Bandit Game for Multi-Tenant RAN Slicing**, *2023 IEEE 4th International Multidisciplinary Conference on Engineering Technology (IMCET)*, pp. 62-68, 2023. [doi](https://doi.org/10.1109/IMCET59736.2023.10368268)
+[25] Z. Awada, M. El Helou, K. Khawam, S. Lahoud, **A Multi-Armed Bandit Game for Multi-Tenant RAN Slicing**, *2023 IEEE 4th International Multidisciplinary Conference on Engineering Technology (IMCET)*, pp. 62-68, 2023. [doi](https://doi.org/10.1109/IMCET59736.2023.10368268)
 
 
 <a id="Loubany%3A2022if"></a>
-[23] A. Loubany, A.E. Samhat, S. Lahoud, M.E. Helou, **Battery-Less LoRaWAN Network using Energy Harvesting: Improving Network Throughput**, *2022 IEEE 33rd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, pp. 1032-1037, 2022. [doi](https://doi.org/10.1109/PIMRC54779.2022.9977716)
+[26] A. Loubany, A.E. Samhat, S. Lahoud, M.E. Helou, **Battery-Less LoRaWAN Network using Energy Harvesting: Improving Network Throughput**, *2022 IEEE 33rd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, pp. 1032-1037, 2022. [doi](https://doi.org/10.1109/PIMRC54779.2022.9977716)
 
 
 <a id="Yassine%3A2021bh"></a>
-[24] F. Yassine, M. El Helou, S. Lahoud, O. Bazzi, **Performance of Narrowband IoT Link Adaptation with Rate and Energy Objectives**, *2021 IEEE 3rd International Multidisciplinary Conference on Engineering Technology (IMCET)*, pp. 6-10, 2021. [doi](https://doi.org/10.1109/IMCET53404.2021.9665562)
+[27] F. Yassine, M. El Helou, S. Lahoud, O. Bazzi, **Performance of Narrowband IoT Link Adaptation with Rate and Energy Objectives**, *2021 IEEE 3rd International Multidisciplinary Conference on Engineering Technology (IMCET)*, pp. 6-10, 2021. [doi](https://doi.org/10.1109/IMCET53404.2021.9665562)
 
 
 <a id="Yassine%3A2021pd"></a>
-[25] F. Yassine, M.E. Helou, O. Bazzi, S. Lahoud, **Investigation on Narrowband IoT Link Adaptation with Rate and Energy Objectives**, *2021 International Wireless Communications and Mobile Computing (IWCMC)*, pp. 412-417, 2021. [doi](https://doi.org/10.1109/IWCMC51323.2021.9498738)
+[28] F. Yassine, M.E. Helou, O. Bazzi, S. Lahoud, **Investigation on Narrowband IoT Link Adaptation with Rate and Energy Objectives**, *2021 International Wireless Communications and Mobile Computing (IWCMC)*, pp. 412-417, 2021. [doi](https://doi.org/10.1109/IWCMC51323.2021.9498738)
 
 
 <a id="Ayoub%3A2021mz"></a>
-[26] I. Ayoub, I. Hmedoush, C. Adjih, K. Khawam, S. Lahoud, **Deep-IRSA: A Deep Reinforcement Learning Approach to Irregular Repetition Slotted ALOHA**, *2021 10th IFIP International Conference on Performance Evaluation and Modeling in Wireless and Wired Networks (PEMWN)*, pp. 1-6, 2021. [doi](https://doi.org/10.23919/PEMWN53042.2021.9664720)
+[29] I. Ayoub, I. Hmedoush, C. Adjih, K. Khawam, S. Lahoud, **Deep-IRSA: A Deep Reinforcement Learning Approach to Irregular Repetition Slotted ALOHA**, *2021 10th IFIP International Conference on Performance Evaluation and Modeling in Wireless and Wired Networks (PEMWN)*, pp. 1-6, 2021. [doi](https://doi.org/10.23919/PEMWN53042.2021.9664720)
 
 
 <a id="Lahad%3A2020ph"></a>
-[27] B. Lahad, M. Ibrahim, S. Lahoud, K. Khawam, S. Martin, **Uplink/Downlink Decoupled Access with Dynamic TDD in 5G HetNets**, *2020 International Wireless Communications and Mobile Computing (IWCMC)*, pp. 1330-1335, 2020. [doi](https://doi.org/10.1109/IWCMC48107.2020.9148375) [pdf](http://samer.lahoud.fr/pub-pdf/iwcmc-20.pdf)
+[30] B. Lahad, M. Ibrahim, S. Lahoud, K. Khawam, S. Martin, **Uplink/Downlink Decoupled Access with Dynamic TDD in 5G HetNets**, *2020 International Wireless Communications and Mobile Computing (IWCMC)*, pp. 1330-1335, 2020. [doi](https://doi.org/10.1109/IWCMC48107.2020.9148375) [pdf](http://samer.lahoud.fr/pub-pdf/iwcmc-20.pdf)
 
 
 <a id="Martinez%3A2020cs"></a>
-[28] I. Martinez, F. Nouvel, S. Lahoud, P. Tanguy, M.E. Helou, **On the Performance Evaluation of LoRaWAN with Re-transmissions under Jamming**, *2020 IEEE Symposium on Computers and Communications (ISCC)*, pp. 1-7, 2020. [doi](https://doi.org/10.1109/ISCC50000.2020.9219644) [pdf](http://samer.lahoud.fr/pub-pdf/iscc-20.pdf)
+[31] I. Martinez, F. Nouvel, S. Lahoud, P. Tanguy, M.E. Helou, **On the Performance Evaluation of LoRaWAN with Re-transmissions under Jamming**, *2020 IEEE Symposium on Computers and Communications (ISCC)*, pp. 1-7, 2020. [doi](https://doi.org/10.1109/ISCC50000.2020.9219644) [pdf](http://samer.lahoud.fr/pub-pdf/iscc-20.pdf)
 
 
 <a id="Ta%3A2019eu"></a>
-[29] D. Ta, K. Khawam, S. Lahoud, C. Adjih, S. Martin, **LoRa-MAB: Toward an Intelligent Resources Allocation Approach for LoRaWAN Networks**, *2019 IEEE Global Communications Conference: Selected Areas in Communications: Internet of Things (Globecom2019 SAC IoT)*, Waikoloa, USA, December 2019. [pdf](http://samer.lahoud.fr/pub-pdf/globecom-19.pdf)
+[32] D. Ta, K. Khawam, S. Lahoud, C. Adjih, S. Martin, **LoRa-MAB: Toward an Intelligent Resources Allocation Approach for LoRaWAN Networks**, *2019 IEEE Global Communications Conference: Selected Areas in Communications: Internet of Things (Globecom2019 SAC IoT)*, Waikoloa, USA, December 2019. [pdf](http://samer.lahoud.fr/pub-pdf/globecom-19.pdf)
 
 
 <a id="Ta%3A2019yg"></a>
-[30] D. Ta, K. Khawam, S. Lahoud, C. Adjih, S. Martin, **LoRa-MAB: A Flexible Simulator for Decentralized Learning Resource Allocation in IoT Networks**, *2019 12th IFIP Wireless and Mobile Networking Conference (WMNC)*, pp. 55-62, Sep. 2019. [doi](https://doi.org/10.23919/WMNC.2019.8881393) [pdf](http://samer.lahoud.fr/pub-pdf/wmnc-19.pdf)
+[33] D. Ta, K. Khawam, S. Lahoud, C. Adjih, S. Martin, **LoRa-MAB: A Flexible Simulator for Decentralized Learning Resource Allocation in IoT Networks**, *2019 12th IFIP Wireless and Mobile Networking Conference (WMNC)*, pp. 55-62, Sep. 2019. [doi](https://doi.org/10.23919/WMNC.2019.8881393) [pdf](http://samer.lahoud.fr/pub-pdf/wmnc-19.pdf)
 
 
 <a id="ben-dhia%3A2019uq"></a>
-[31] I. Ben Dhia, M. Bouhtou, T. En-Najjary, S. Lahoud, X. Lagrange, **Dynamic Access Point Selection and Resource Allocation in Multi-Technology Wireless Network**, *2019 IEEE Wireless Communications and Networking Conference (WCNC) (IEEE WCNC 2019)*, Marrakech, Morocco, April 2019. [pdf](http://samer.lahoud.fr/pub-pdf/wcnc-19.pdf)
+[34] I. Ben Dhia, M. Bouhtou, T. En-Najjary, S. Lahoud, X. Lagrange, **Dynamic Access Point Selection and Resource Allocation in Multi-Technology Wireless Network**, *2019 IEEE Wireless Communications and Networking Conference (WCNC) (IEEE WCNC 2019)*, Marrakech, Morocco, April 2019. [pdf](http://samer.lahoud.fr/pub-pdf/wcnc-19.pdf)
 
 
 <a id="Fawaz%3A2019fv"></a>
-[32] H. Fawaz, K. Khawam, S. Lahoud, M. El Helou, **A Game Theoretic Approach for Power Allocation in Full Duplex Wireless Networks**, *2019 IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC): Track 3: Mobile and Wireless Networks (IEEE PIMRC 2019 - Track 3)*, Istanbul, Turkey, September 2019. [pdf](http://samer.lahoud.fr/pub-pdf/pimrc-19.pdf)
+[35] H. Fawaz, K. Khawam, S. Lahoud, M. El Helou, **A Game Theoretic Approach for Power Allocation in Full Duplex Wireless Networks**, *2019 IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC): Track 3: Mobile and Wireless Networks (IEEE PIMRC 2019 - Track 3)*, Istanbul, Turkey, September 2019. [pdf](http://samer.lahoud.fr/pub-pdf/pimrc-19.pdf)
 
 
 <a id="fawaz%3A2018rt"></a>
-[33] H. Fawaz, S. Lahoud, M. El Helou, M. Ibrahim, **Queue-Aware Scheduling in Full Duplex OFDMA Wireless Networks with Imperfect Channel State Information**, *European Wireless 2018 (EW 2018)*, Catania, Italy, May 2018. [pdf](http://samer.lahoud.fr/pub-pdf/ew-18.pdf)
+[36] H. Fawaz, S. Lahoud, M. El Helou, M. Ibrahim, **Queue-Aware Scheduling in Full Duplex OFDMA Wireless Networks with Imperfect Channel State Information**, *European Wireless 2018 (EW 2018)*, Catania, Italy, May 2018. [pdf](http://samer.lahoud.fr/pub-pdf/ew-18.pdf)
 
 
 <a id="fawaz%3A2018ly"></a>
-[34] H. Fawaz, S. Lahoud, M. El Helou, J. Saad, **Queue-Aware Priority Based Scheduling and Power Allocation in Full-Duplex OFDMA Cellular Networks**, *2018 25th International Conference on Telecommunications (ICT) (ICT 2018)*, Saint Malo, France, June 2018. [pdf](http://samer.lahoud.fr/pub-pdf/ict-a-18.pdf)
+[37] H. Fawaz, S. Lahoud, M. El Helou, J. Saad, **Queue-Aware Priority Based Scheduling and Power Allocation in Full-Duplex OFDMA Cellular Networks**, *2018 25th International Conference on Telecommunications (ICT) (ICT 2018)*, Saint Malo, France, June 2018. [pdf](http://samer.lahoud.fr/pub-pdf/ict-a-18.pdf)
 
 
 <a id="fawaz%3A2018vn"></a>
-[35] H. Fawaz, S. Lahoud, M. El Helou, M. Ibrahim, **Optimal Max-SINR Scheduling in Full-Duplex OFDMA Cellular Networks with Dynamic Arrivals**, *2018 Wireless Days (WD) (WD'18)*, Dubai, United Arab Emirates, April 2018. [pdf](http://samer.lahoud.fr/pub-pdf/wd-18.pdf)
+[38] H. Fawaz, S. Lahoud, M. El Helou, M. Ibrahim, **Optimal Max-SINR Scheduling in Full-Duplex OFDMA Cellular Networks with Dynamic Arrivals**, *2018 Wireless Days (WD) (WD'18)*, Dubai, United Arab Emirates, April 2018. [pdf](http://samer.lahoud.fr/pub-pdf/wd-18.pdf)
 
 
 <a id="taleb%3A2018qf"></a>
-[36] H. Taleb, S. Lahoud, K. Khawam, M. El Helou, S. Martin, **Multi-objective Optimization for RRH clustering in Cloud Radio Access Networks**, *2018 International Conference on Computer and Applications (ICCA) (ICCA-18)*, Beirut, Lebanon, July 2018. [pdf](http://samer.lahoud.fr/pub-pdf/icca-b-18.pdf)
+[39] H. Taleb, S. Lahoud, K. Khawam, M. El Helou, S. Martin, **Multi-objective Optimization for RRH clustering in Cloud Radio Access Networks**, *2018 International Conference on Computer and Applications (ICCA) (ICCA-18)*, Beirut, Lebanon, July 2018. [pdf](http://samer.lahoud.fr/pub-pdf/icca-b-18.pdf)
 
 
 <a id="taleb%3A2018ul"></a>
-[37] H. Taleb, M. El Helou, K. Khawam, S. Lahoud, S. Martin, **Joint User Association and RRH Clustering in Cloud Radio Access Networks**, *2018 Tenth International Conference on Ubiquitous and Future Networks (ICUFN) (ICUFN 2018)*, Prague, Czech Republic, July 2018. [pdf](http://samer.lahoud.fr/pub-pdf/icufn-18.pdf)
+[40] H. Taleb, M. El Helou, K. Khawam, S. Lahoud, S. Martin, **Joint User Association and RRH Clustering in Cloud Radio Access Networks**, *2018 Tenth International Conference on Ubiquitous and Future Networks (ICUFN) (ICUFN 2018)*, Prague, Czech Republic, July 2018. [pdf](http://samer.lahoud.fr/pub-pdf/icufn-18.pdf)
 
 
 <a id="lahad%3A2018pd"></a>
-[38] B. Lahad, M. Ibrahim, S. Lahoud, K. Khawam, S. Martin, **Analytical Evaluation of Decoupled Uplink and Downlink Access in TDD 5G HetNets**, *2018 IEEE 29th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) (IEEE PIMRC 2018)*, Bologna, Italy, September 2018. [pdf](http://samer.lahoud.fr/pub-pdf/pimrc-18.pdf)
+[41] B. Lahad, M. Ibrahim, S. Lahoud, K. Khawam, S. Martin, **Analytical Evaluation of Decoupled Uplink and Downlink Access in TDD 5G HetNets**, *2018 IEEE 29th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) (IEEE PIMRC 2018)*, Bologna, Italy, September 2018. [pdf](http://samer.lahoud.fr/pub-pdf/pimrc-18.pdf)
 
 
 <a id="taleb%3A2018gf"></a>
-[39] H. Taleb, M. El Helou, S. Lahoud, K. Khawam, S. Martin, **An Efficient Heuristic for Joint User Association and RRH Clustering in Cloud Radio Access Networks**, *2018 25th International Conference on Telecommunications (ICT) (ICT 2018)*, Saint Malo, France, June 2018. [pdf](http://samer.lahoud.fr/pub-pdf/ict-b-18.pdf)
+[42] H. Taleb, M. El Helou, S. Lahoud, K. Khawam, S. Martin, **An Efficient Heuristic for Joint User Association and RRH Clustering in Cloud Radio Access Networks**, *2018 25th International Conference on Telecommunications (ICT) (ICT 2018)*, Saint Malo, France, June 2018. [pdf](http://samer.lahoud.fr/pub-pdf/ict-b-18.pdf)
 
 
 <a id="lahad%3A2018ys"></a>
-[40] B. Lahad, M. Ibrahim, K. Khawam, S. Martin, S. Lahoud, **A Statistical Model for Uplink/Downlink Intercell Interference and Cell Capacity in TDD HetNets**, *IEEE ICC 2018 Wireless Communications Symposium (ICC'18 WCS)*, Kansas City, USA, May 2018. [pdf](http://samer.lahoud.fr/pub-pdf/icc-18.pdf)
+[43] B. Lahad, M. Ibrahim, K. Khawam, S. Martin, S. Lahoud, **A Statistical Model for Uplink/Downlink Intercell Interference and Cell Capacity in TDD HetNets**, *IEEE ICC 2018 Wireless Communications Symposium (ICC'18 WCS)*, Kansas City, USA, May 2018. [pdf](http://samer.lahoud.fr/pub-pdf/icc-18.pdf)
 
 
 <a id="fawaz%3A2018ve"></a>
-[41] H. Fawaz, S. Lahoud, M. El Helou, **A Queue-Aware Discrete Scheduling Simulator for Full-Duplex OFDMA Wireless Networks**, *2018 International Conference on Computer and Applications (ICCA) (ICCA-18)*, Beirut, Lebanon, July 2018. [pdf](http://samer.lahoud.fr/pub-pdf/icca-a-18.pdf)
+[44] H. Fawaz, S. Lahoud, M. El Helou, **A Queue-Aware Discrete Scheduling Simulator for Full-Duplex OFDMA Wireless Networks**, *2018 International Conference on Computer and Applications (ICCA) (ICCA-18)*, Beirut, Lebanon, July 2018. [pdf](http://samer.lahoud.fr/pub-pdf/icca-a-18.pdf)
 
 
 <a id="said%3A2017ij"></a>
-[42] S.B.H. Said, B. Cousin, S. Lahoud, **Software defined networking (SDN) for reliable user connectivity in 5G networks**, *2017 IEEE Conference on Network Softwarization (NetSoft)*, pp. 1-5, July 2017. [doi](https://doi.org/10.1109/NETSOFT.2017.8004219) [pdf](http://samer.lahoud.fr/pub-pdf/netsoft-17.pdf)
+[45] S.B.H. Said, B. Cousin, S. Lahoud, **Software defined networking (SDN) for reliable user connectivity in 5G networks**, *2017 IEEE Conference on Network Softwarization (NetSoft)*, pp. 1-5, July 2017. [doi](https://doi.org/10.1109/NETSOFT.2017.8004219) [pdf](http://samer.lahoud.fr/pub-pdf/netsoft-17.pdf)
 
 
 <a id="dhia%3A2017sp"></a>
-[43] I.B. Dhia, M. Bouhtou, T. En-Najjary, S. Lahoud, X. Lagrange, **Optimization of access points selection and resource allocation in heterogeneous wireless network**, *2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)*, pp. 1-7, Oct 2017. [doi](https://doi.org/10.1109/PIMRC.2017.8292261) [pdf](http://samer.lahoud.fr/pub-pdf/pimrc-17.pdf)
+[46] I.B. Dhia, M. Bouhtou, T. En-Najjary, S. Lahoud, X. Lagrange, **Optimization of access points selection and resource allocation in heterogeneous wireless network**, *2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)*, pp. 1-7, Oct 2017. [doi](https://doi.org/10.1109/PIMRC.2017.8292261) [pdf](http://samer.lahoud.fr/pub-pdf/pimrc-17.pdf)
 
 
 <a id="fawaz%3A2017ve"></a>
-[44] H. Fawaz, S. Lahoud, M. El Helou, M. Ibrahim, **On Scheduling in Full-Duplex OFDMA Cellular Networks**, *23th LAAS International Science Conference (LAAS'17)*, Kaslik, Lebanon, pp. 52-53, April 2017. [pdf](http://samer.lahoud.fr/pub-pdf/laas-17.pdf)
+[47] H. Fawaz, S. Lahoud, M. El Helou, M. Ibrahim, **On Scheduling in Full-Duplex OFDMA Cellular Networks**, *23th LAAS International Science Conference (LAAS'17)*, Kaslik, Lebanon, pp. 52-53, April 2017. [pdf](http://samer.lahoud.fr/pub-pdf/laas-17.pdf)
 
 
 <a id="fawaz%3A2017ul"></a>
-[45] H. Fawaz, S. Lahoud, M. Ibrahim, M. El Helou, **Max-SINR Scheduling in Full-Duplex OFDMA Cellular Networks with Dynamic Arrivals**, *2017 IEEE Symposium on Computers and Communications (ISCC) (ISCC 2017)*, Heraklion, Greece, pp. 493-498, July 2017. [pdf](http://samer.lahoud.fr/pub-pdf/iscc-17b.pdf)
+[48] H. Fawaz, S. Lahoud, M. Ibrahim, M. El Helou, **Max-SINR Scheduling in Full-Duplex OFDMA Cellular Networks with Dynamic Arrivals**, *2017 IEEE Symposium on Computers and Communications (ISCC) (ISCC 2017)*, Heraklion, Greece, pp. 493-498, July 2017. [pdf](http://samer.lahoud.fr/pub-pdf/iscc-17b.pdf)
 
 
 <a id="maaz%3A2017ly"></a>
-[46] B. Maaz, K. Khawam, S. Lahoud, J. Nasreddine, S. Tohme, **Joint User Association, Power Control and Scheduling in Multi-Cell 5G Networks**, *2017 IEEE Wireless Communications and Networking Conference (WCNC) (IEEE WCNC 2017)*, San Francisco, USA, March 2017. [pdf](http://samer.lahoud.fr/pub-pdf/wcnc-17.pdf)
+[49] B. Maaz, K. Khawam, S. Lahoud, J. Nasreddine, S. Tohme, **Joint User Association, Power Control and Scheduling in Multi-Cell 5G Networks**, *2017 IEEE Wireless Communications and Networking Conference (WCNC) (IEEE WCNC 2017)*, San Francisco, USA, March 2017. [pdf](http://samer.lahoud.fr/pub-pdf/wcnc-17.pdf)
 
 
 <a id="rabah%3A2017gf"></a>
-[47] G. Rabah, O.D. Dugeon, S. Lahoud, G. Texier, **Demonstration of Segment Routing with SDN Based Label Stack Optimization**, *2017 20th Conference on Innovations in Clouds, Internet and Networks (ICIN) (ICIN 2017)*, Paris, France, pp. 143-145, March 2017. [pdf](http://samer.lahoud.fr/pub-pdf/icin-17.pdf)
+[50] G. Rabah, O.D. Dugeon, S. Lahoud, G. Texier, **Demonstration of Segment Routing with SDN Based Label Stack Optimization**, *2017 20th Conference on Innovations in Clouds, Internet and Networks (ICIN) (ICIN 2017)*, Paris, France, pp. 143-145, March 2017. [pdf](http://samer.lahoud.fr/pub-pdf/icin-17.pdf)
 
 
 <a id="taleb%3A2017qf"></a>
-[48] H. Taleb, K. Khawam, S. Lahoud, M. El Helou, S. Martin, **Centralized and Distributed RRH Clustering in Cloud Radio Access Networks**, *2017 IEEE Symposium on Computers and Communications (ISCC) (ISCC 2017)*, Heraklion, Greece, pp. 1094-1100, July 2017. [pdf](http://samer.lahoud.fr/pub-pdf/iscc-17a.pdf)
+[51] H. Taleb, K. Khawam, S. Lahoud, M. El Helou, S. Martin, **Centralized and Distributed RRH Clustering in Cloud Radio Access Networks**, *2017 IEEE Symposium on Computers and Communications (ISCC) (ISCC 2017)*, Heraklion, Greece, pp. 1094-1100, July 2017. [pdf](http://samer.lahoud.fr/pub-pdf/iscc-17a.pdf)
 
 
 <a id="maaz%3A2017rt"></a>
-[49] B. Maaz, K. Khawam, J. Nasreddine, S. Lahoud, S. Tohme, **Achieving Power and Energy Efficiency in Self-Organizing Networks**, *2017 14th IEEE Annual Consumer Communications & Networking Conference (CCNC) (CCNC 2017)*, Las Vegas, USA, January 2017. [pdf](http://samer.lahoud.fr/pub-pdf/ccnc-17.pdf)
+[52] B. Maaz, K. Khawam, J. Nasreddine, S. Lahoud, S. Tohme, **Achieving Power and Energy Efficiency in Self-Organizing Networks**, *2017 14th IEEE Annual Consumer Communications & Networking Conference (CCNC) (CCNC 2017)*, Las Vegas, USA, January 2017. [pdf](http://samer.lahoud.fr/pub-pdf/ccnc-17.pdf)
 
 
 <a id="guedrez%3A2017hc"></a>
-[50] R. Guedrez, O. Dugeon, S. Lahoud, G. Texier, **A new method for encoding MPLS segment routing TE paths**, *2017 8th International Conference on the Network of the Future (NOF)*, pp. 58-65, Nov 2017. [doi](https://doi.org/10.1109/NOF.2017.8251221) [pdf](http://samer.lahoud.fr/pub-pdf/nof-17.pdf)
+[53] R. Guedrez, O. Dugeon, S. Lahoud, G. Texier, **A new method for encoding MPLS segment routing TE paths**, *2017 8th International Conference on the Network of the Future (NOF)*, pp. 58-65, Nov 2017. [doi](https://doi.org/10.1109/NOF.2017.8251221) [pdf](http://samer.lahoud.fr/pub-pdf/nof-17.pdf)
 
 
 <a id="guedrez%3A2016yq"></a>
-[51] R. Guedrez, O. Dugeon, S. Lahoud, G. Texier, **Label encoding algorithm for MPLS Segment Routing**, *2016 IEEE 15th International Symposium on Network Computing and Applications (NCA)*, pp. 113-117, Oct 2016. [doi](https://doi.org/10.1109/NCA.2016.7778603) [pdf](http://samer.lahoud.fr/pub-pdf/nca-16.pdf)
+[54] R. Guedrez, O. Dugeon, S. Lahoud, G. Texier, **Label encoding algorithm for MPLS Segment Routing**, *2016 IEEE 15th International Symposium on Network Computing and Applications (NCA)*, pp. 113-117, Oct 2016. [doi](https://doi.org/10.1109/NCA.2016.7778603) [pdf](http://samer.lahoud.fr/pub-pdf/nca-16.pdf)
 
 
 <a id="maaz%3A2016vn"></a>
-[52] B. Maaz, K. Khawam, Y. Hayel, S. Lahoud, S. Martin, D. Quadri, **Joint user association, scheduling and power control in multi-cell networks**, *2016 IEEE 12th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)*, pp. 1-7, Oct 2016. [doi](https://doi.org/10.1109/WiMOB.2016.7763205) [pdf](http://samer.lahoud.fr/pub-pdf/wimob-16.pdf)
+[55] B. Maaz, K. Khawam, Y. Hayel, S. Lahoud, S. Martin, D. Quadri, **Joint user association, scheduling and power control in multi-cell networks**, *2016 IEEE 12th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)*, pp. 1-7, Oct 2016. [doi](https://doi.org/10.1109/WiMOB.2016.7763205) [pdf](http://samer.lahoud.fr/pub-pdf/wimob-16.pdf)
 
 
 <a id="yassin%3A2016uq"></a>
-[53] M. Yassin, S. Lahoud, M. Ibrahim, K. Khawam, D. Mezher, B. Cousin, **Centralized multi-cell resource and power allocation for multiuser OFDMA networks**, *2016 IFIP Networking Conference (IFIP Networking) and Workshops*, pp. 162-170, May 2016. [doi](https://doi.org/10.1109/IFIPNetworking.2016.7497211) [pdf](http://samer.lahoud.fr/pub-pdf/networking-16.pdf)
+[56] M. Yassin, S. Lahoud, M. Ibrahim, K. Khawam, D. Mezher, B. Cousin, **Centralized multi-cell resource and power allocation for multiuser OFDMA networks**, *2016 IFIP Networking Conference (IFIP Networking) and Workshops*, pp. 162-170, May 2016. [doi](https://doi.org/10.1109/IFIPNetworking.2016.7497211) [pdf](http://samer.lahoud.fr/pub-pdf/networking-16.pdf)
 
 
 <a id="boulos%3A2015zv"></a>
-[54] K. Boulos, M. El Helou, S. Lahoud, **RRH clustering in cloud radio access networks**, *Applied Research in Computer Science and Engineering (ICAR), 2015 International Conference on*, pp. 1-6, Oct 2015. [doi](https://doi.org/10.1109/ARCSE.2015.7338135) [pdf](http://samer.lahoud.fr/pub-pdf/icar-15a.pdf)
+[57] K. Boulos, M. El Helou, S. Lahoud, **RRH clustering in cloud radio access networks**, *Applied Research in Computer Science and Engineering (ICAR), 2015 International Conference on*, pp. 1-6, Oct 2015. [doi](https://doi.org/10.1109/ARCSE.2015.7338135) [pdf](http://samer.lahoud.fr/pub-pdf/icar-15a.pdf)
 
 
 <a id="farhat%3A2015sw"></a>
-[55] S. Farhat, A.E. Samhat, S. Lahoud, B. Cousin, **Pricing Strategies in Multi-Operator Heterogeneous Wireless Networks**, *NTMS'2015 - Mobility & Wireless Networks Track (NTMS'2015 Mobility & Wireless Networks Track)*, Paris, France, July 2015. [pdf](http://samer.lahoud.fr/pub-pdf/ntms-15a.pdf)
+[58] S. Farhat, A.E. Samhat, S. Lahoud, B. Cousin, **Pricing Strategies in Multi-Operator Heterogeneous Wireless Networks**, *NTMS'2015 - Mobility & Wireless Networks Track (NTMS'2015 Mobility & Wireless Networks Track)*, Paris, France, July 2015. [pdf](http://samer.lahoud.fr/pub-pdf/ntms-15a.pdf)
 
 
 <a id="yassin%3A2015xd"></a>
-[56] M. Yassin, S. Lahoud, M. Ibrahim, K. Khawam, D. Mezher, B. Cousin, **Non-Cooperative Inter-Cell Interference Coordination Technique for Increasing Throughput Fairness in LTE Networks**, *VTC Spring 2015*, 2015. [pdf](http://samer.lahoud.fr/pub-pdf/vtc-15.pdf)
+[59] M. Yassin, S. Lahoud, M. Ibrahim, K. Khawam, D. Mezher, B. Cousin, **Non-Cooperative Inter-Cell Interference Coordination Technique for Increasing Throughput Fairness in LTE Networks**, *VTC Spring 2015*, 2015. [pdf](http://samer.lahoud.fr/pub-pdf/vtc-15.pdf)
 
 
 <a id="maaz%3A2015qy"></a>
-[57] B. Maaz, K. Khawam, S. Tohme, S. Martin, S. Lahoud, J. Nasreddine, **Joint scheduling and power control in multi-cell networks for inter-cell interference coordination**, *Wireless and Mobile Computing, Networking and Communications (WiMob), 2015 IEEE 11th International Conference on*, pp. 778-785, Oct 2015. [doi](https://doi.org/10.1109/WiMOB.2015.7348041) [pdf](http://samer.lahoud.fr/pub-pdf/wimob-15.pdf)
+[60] B. Maaz, K. Khawam, S. Tohme, S. Martin, S. Lahoud, J. Nasreddine, **Joint scheduling and power control in multi-cell networks for inter-cell interference coordination**, *Wireless and Mobile Computing, Networking and Communications (WiMob), 2015 IEEE 11th International Conference on*, pp. 778-785, Oct 2015. [doi](https://doi.org/10.1109/WiMOB.2015.7348041) [pdf](http://samer.lahoud.fr/pub-pdf/wimob-15.pdf)
 
 
 <a id="maaz%3A2015px"></a>
-[58] B. Maaz, K. Khawam, S. Tohme, S. Lahoud, J. Nasreddine, **Inter-cell interference coordination based on power control for self-organized 4G systems**, *Digital Information and Communication Technology and its Applications (DICTAP), 2015 Fifth International Conference on*, pp. 149-154, April 2015. [doi](https://doi.org/10.1109/DICTAP.2015.7113188) [pdf](http://samer.lahoud.fr/pub-pdf/dictap-15b.pdf)
+[61] B. Maaz, K. Khawam, S. Tohme, S. Lahoud, J. Nasreddine, **Inter-cell interference coordination based on power control for self-organized 4G systems**, *Digital Information and Communication Technology and its Applications (DICTAP), 2015 Fifth International Conference on*, pp. 149-154, April 2015. [doi](https://doi.org/10.1109/DICTAP.2015.7113188) [pdf](http://samer.lahoud.fr/pub-pdf/dictap-15b.pdf)
 
 
 <a id="farhat%3A2015hs"></a>
-[59] S. Farhat, A. Samhat, S. Lahoud, B. Cousin, **Comparison between access selection algorithms in multi-operator wireless networks**, *Applied Research in Computer Science and Engineering (ICAR), 2015 International Conference on*, pp. 1-8, Oct 2015. [doi](https://doi.org/10.1109/ARCSE.2015.7338132) [pdf](http://samer.lahoud.fr/pub-pdf/icar-15b.pdf)
+[62] S. Farhat, A. Samhat, S. Lahoud, B. Cousin, **Comparison between access selection algorithms in multi-operator wireless networks**, *Applied Research in Computer Science and Engineering (ICAR), 2015 International Conference on*, pp. 1-8, Oct 2015. [doi](https://doi.org/10.1109/ARCSE.2015.7338132) [pdf](http://samer.lahoud.fr/pub-pdf/icar-15b.pdf)
 
 
 <a id="aboulhassan%3A2015et"></a>
-[60] M.A. AboulHassan, M. Yassin, S. Lahoud, M. Ibrahim, D. Mezher, B. Cousin, E. Sourour, **Classification and Comparative Analysis of Inter-Cell Interference Coordination Techniques in LTE Networks**, *NTMS'2015 - Mobility & Wireless Networks Track (NTMS'2015 Mobility & Wireless Networks Track)*, Paris, France, July 2015. [pdf](http://samer.lahoud.fr/pub-pdf/ntms-15b.pdf)
+[63] M.A. AboulHassan, M. Yassin, S. Lahoud, M. Ibrahim, D. Mezher, B. Cousin, E. Sourour, **Classification and Comparative Analysis of Inter-Cell Interference Coordination Techniques in LTE Networks**, *NTMS'2015 - Mobility & Wireless Networks Track (NTMS'2015 Mobility & Wireless Networks Track)*, Paris, France, July 2015. [pdf](http://samer.lahoud.fr/pub-pdf/ntms-15b.pdf)
 
 
 <a id="farhat%3A2015fh"></a>
-[61] S. Farhat, Z. Chahine, A. Samhat, S. Lahoud, B. Cousin, **Access selection and joint pricing in multi-operator wireless networks: A Stackelberg game**, *Digital Information and Communication Technology and its Applications (DICTAP), 2015 Fifth International Conference on*, pp. 38-43, April 2015. [doi](https://doi.org/10.1109/DICTAP.2015.7113167) [pdf](http://samer.lahoud.fr/pub-pdf/dictap-15a.pdf)
+[64] S. Farhat, Z. Chahine, A. Samhat, S. Lahoud, B. Cousin, **Access selection and joint pricing in multi-operator wireless networks: A Stackelberg game**, *Digital Information and Communication Technology and its Applications (DICTAP), 2015 Fifth International Conference on*, pp. 38-43, April 2015. [doi](https://doi.org/10.1109/DICTAP.2015.7113167) [pdf](http://samer.lahoud.fr/pub-pdf/dictap-15a.pdf)
 
 
 <a id="yassin%3A2015lo"></a>
-[62] M. Yassin, Y. Dirani, M. Ibrahim, S. Lahoud, D. Mezher, B. Cousin, **A Novel Dynamic Inter-Cell Interference Coordination Technique for LTE Networks**, *2015 IEEE 26th International Symposium on Personal, Indoor and Mobile Radio Communications - (PIMRC): Mobile and Wireless Networks (IEEE PIMRC2015 Mobile & Wireless)*, Hong Kong, P.R. China, pp. 1742-1747, August 2015. [pdf](http://samer.lahoud.fr/pub-pdf/pimrc-15.pdf)
+[65] M. Yassin, Y. Dirani, M. Ibrahim, S. Lahoud, D. Mezher, B. Cousin, **A Novel Dynamic Inter-Cell Interference Coordination Technique for LTE Networks**, *2015 IEEE 26th International Symposium on Personal, Indoor and Mobile Radio Communications - (PIMRC): Mobile and Wireless Networks (IEEE PIMRC2015 Mobile & Wireless)*, Hong Kong, P.R. China, pp. 1742-1747, August 2015. [pdf](http://samer.lahoud.fr/pub-pdf/pimrc-15.pdf)
 
 
 <a id="moety%3A2015pr"></a>
-[63] F. Moety, S. Lahoud, B. Cousin, K. Khawam, **A Heuristic Algorithm for Joint Power-Delay Minimization in Green Wireless Access Networks**, *2015 International Conference on Computing, Networking and Communications (ICNC), Workshop on Computing, Networking and Communications (CNC) (ICNC'15 CNC Workshop)*, Anaheim, USA, February 2015. [pdf](http://samer.lahoud.fr/pub-pdf/cnc-14.pdf)
+[66] F. Moety, S. Lahoud, B. Cousin, K. Khawam, **A Heuristic Algorithm for Joint Power-Delay Minimization in Green Wireless Access Networks**, *2015 International Conference on Computing, Networking and Communications (ICNC), Workshop on Computing, Networking and Communications (CNC) (ICNC'15 CNC Workshop)*, Anaheim, USA, February 2015. [pdf](http://samer.lahoud.fr/pub-pdf/cnc-14.pdf)
 
 
 <a id="el-helou%3A2014bx"></a>
-[64] M. El Helou, M. Ibrahim, S. Lahoud, K. Khawam, **Optimizing Network Information for Radio Access Technology Selection**, *19th IEEE Symposium on Computers and Communications (IEEE ISCC 2014)*, Madeira, Portugal, June 2014. [pdf](http://samer.lahoud.fr/pub-pdf/iscc-14.pdf)
+[67] M. El Helou, M. Ibrahim, S. Lahoud, K. Khawam, **Optimizing Network Information for Radio Access Technology Selection**, *19th IEEE Symposium on Computers and Communications (IEEE ISCC 2014)*, Madeira, Portugal, June 2014. [pdf](http://samer.lahoud.fr/pub-pdf/iscc-14.pdf)
 
 
 <a id="moety%3A2014le"></a>
-[65] F. Moety, S. Lahoud, B. Cousin, K. Khawam, **Joint Power-Delay Minimization in 4G Wireless Networks**, *2014 Wireless Days conference (WD'14)*, Rio de Janeiro, Brazil, November 2014. [pdf](http://samer.lahoud.fr/pub-pdf/wd-14.pdf)
+[68] F. Moety, S. Lahoud, B. Cousin, K. Khawam, **Joint Power-Delay Minimization in 4G Wireless Networks**, *2014 Wireless Days conference (WD'14)*, Rio de Janeiro, Brazil, November 2014. [pdf](http://samer.lahoud.fr/pub-pdf/wd-14.pdf)
 
 
 <a id="farhat%3A2014ya"></a>
-[66] S. Farhat, A.E. Samhat, S. Lahoud, **Hybrid Decision Algorithm for Access Selection in Multi-Operator Networks**, *IEEE WCNC'14 Track 3 (Mobile and Wireless Networks) (IEEE WCNC'14 Track 3 : NET)*, Istanbul, Turkey, April 2014. [pdf](http://samer.lahoud.fr/pub-pdf/wcnc-14.pdf)
+[69] S. Farhat, A.E. Samhat, S. Lahoud, **Hybrid Decision Algorithm for Access Selection in Multi-Operator Networks**, *IEEE WCNC'14 Track 3 (Mobile and Wireless Networks) (IEEE WCNC'14 Track 3 : NET)*, Istanbul, Turkey, April 2014. [pdf](http://samer.lahoud.fr/pub-pdf/wcnc-14.pdf)
 
 
 <a id="khawam%3A2014wb"></a>
-[67] K. Khawam, A. Adouane, S. Lahoud, S. Tohme, J. Cohen, **Game Theoretic Framework for Power Control in InterCell Interference Coordination**, *IFIP Networking 2014 Conference (Networking 2014)*, Trondheim, Norway, June 2014. [pdf](http://samer.lahoud.fr/pub-pdf/networking-14.pdf)
+[70] K. Khawam, A. Adouane, S. Lahoud, S. Tohme, J. Cohen, **Game Theoretic Framework for Power Control in InterCell Interference Coordination**, *IFIP Networking 2014 Conference (Networking 2014)*, Trondheim, Norway, June 2014. [pdf](http://samer.lahoud.fr/pub-pdf/networking-14.pdf)
 
 
 <a id="farhat%3A2014oa"></a>
-[68] S. Farhat, A. Samhat, S. Lahoud, B. Cousin, **Best operator policy in a heterogeneous wireless network**, *e-Technologies and Networks for Development (ICeND), 2014 Third International Conference on*, pp. 53-57, April 2014. [doi](https://doi.org/10.1109/ICeND.2014.6991192) [pdf](http://samer.lahoud.fr/pub-pdf/icend-14.pdf)
+[71] S. Farhat, A. Samhat, S. Lahoud, B. Cousin, **Best operator policy in a heterogeneous wireless network**, *e-Technologies and Networks for Development (ICeND), 2014 Third International Conference on*, pp. 53-57, April 2014. [doi](https://doi.org/10.1109/ICeND.2014.6991192) [pdf](http://samer.lahoud.fr/pub-pdf/icend-14.pdf)
 
 
 <a id="yassin%3A2014ct"></a>
-[69] M. Yassin, S. Lahoud, M. Ibrahim, K. Khawam, **A Downlink Power Control Heuristic Algorithm for LTE Networks**, *21st International Conference on Telecommunications (ICT 2014)*, Lisbon, Portugal, May 2014. [pdf](http://samer.lahoud.fr/pub-pdf/ict-14.pdf)
+[72] M. Yassin, S. Lahoud, M. Ibrahim, K. Khawam, **A Downlink Power Control Heuristic Algorithm for LTE Networks**, *21st International Conference on Telecommunications (ICT 2014)*, Lisbon, Portugal, May 2014. [pdf](http://samer.lahoud.fr/pub-pdf/ict-14.pdf)
 
 
 <a id="el-helou%3A2013sh"></a>
-[70] M. El Helou, S. Lahoud, M. Ibrahim, K. Khawam, **Satisfaction-based Radio Access Technology Selection in Heterogeneous Wireless Networks**, *Wireless Days (WD), 2013 IFIP*, pp. 1-4, 2013. [doi](https://doi.org/10.1109/WD.2013.6686461) [pdf](http://samer.lahoud.fr/pub-pdf/wd-13.pdf)
+[73] M. El Helou, S. Lahoud, M. Ibrahim, K. Khawam, **Satisfaction-based Radio Access Technology Selection in Heterogeneous Wireless Networks**, *Wireless Days (WD), 2013 IFIP*, pp. 1-4, 2013. [doi](https://doi.org/10.1109/WD.2013.6686461) [pdf](http://samer.lahoud.fr/pub-pdf/wd-13.pdf)
 
 
 <a id="el-helou%3A2013xi"></a>
-[71] M. El Helou, M. Ibrahim, S. Lahoud, K. Khawam, **Radio Access Selection Approaches in Heterogeneous Wireless Networks**, *2013 IEEE 9th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob) (WiMob'2013)*, Lyon, France, October 2013. [pdf](http://samer.lahoud.fr/pub-pdf/wimob-13.pdf)
+[74] M. El Helou, M. Ibrahim, S. Lahoud, K. Khawam, **Radio Access Selection Approaches in Heterogeneous Wireless Networks**, *2013 IEEE 9th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob) (WiMob'2013)*, Lyon, France, October 2013. [pdf](http://samer.lahoud.fr/pub-pdf/wimob-13.pdf)
 
 
 <a id="moety%3A2013jh"></a>
-[72] F. Moety, S. Lahoud, B. Cousin, K. Khawam, **Power-Delay Tradeoffs in Green Wireless Access Networks**, *VTC Fall 2013*, Las Vegas, USA, 2013. [pdf](http://samer.lahoud.fr/pub-pdf/vtc-13.pdf)
+[75] F. Moety, S. Lahoud, B. Cousin, K. Khawam, **Power-Delay Tradeoffs in Green Wireless Access Networks**, *VTC Fall 2013*, Las Vegas, USA, 2013. [pdf](http://samer.lahoud.fr/pub-pdf/vtc-13.pdf)
 
 
 <a id="moety%3A2013ri"></a>
-[73] F. Moety, S. Lahoud, K. Khawam, B. Cousin, **Joint Power-Delay Minimization in Green Wireless Access Networks**, *2013 IEEE 24th International Symposium on Personal, Indoor and Mobile Radio Communications: Mobile and Wireless Networks (PIMRC'13 - Mobile and Wireless Networks)*, London, United Kingdom, September 2013. [pdf](http://samer.lahoud.fr/pub-pdf/pimrc-13a.pdf)
+[76] F. Moety, S. Lahoud, K. Khawam, B. Cousin, **Joint Power-Delay Minimization in Green Wireless Access Networks**, *2013 IEEE 24th International Symposium on Personal, Indoor and Mobile Radio Communications: Mobile and Wireless Networks (PIMRC'13 - Mobile and Wireless Networks)*, London, United Kingdom, September 2013. [pdf](http://samer.lahoud.fr/pub-pdf/pimrc-13a.pdf)
 
 
 <a id="khawam%3A2013wm"></a>
-[74] K. Khawam, J. Cohen, S. Lahoud, P. Muhlethaler, S. Tohme, **AP association in a IEEE 802.11 WLAN**, *Personal Indoor and Mobile Radio Communications (PIMRC), 2013 IEEE 24th International Symposium on*, pp. 2142-2147, Sept 2013. [pdf](http://samer.lahoud.fr/pub-pdf/pimrc-13b.pdf)
+[77] K. Khawam, J. Cohen, S. Lahoud, P. Muhlethaler, S. Tohme, **AP association in a IEEE 802.11 WLAN**, *Personal Indoor and Mobile Radio Communications (PIMRC), 2013 IEEE 24th International Symposium on*, pp. 2142-2147, Sept 2013. [pdf](http://samer.lahoud.fr/pub-pdf/pimrc-13b.pdf)
 
 
 <a id="el-helou%3A2013pz"></a>
-[75] M. El Helou, S. Lahoud, M. Ibrahim, K. Khawam, **A Hybrid Approach for Radio Access Technology Selection in Heterogeneous Wireless Networks**, *European Wireless 2013 (EW2013)*, Guildford, United Kingdom, April 2013. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/ew-13.pdf)
+[78] M. El Helou, S. Lahoud, M. Ibrahim, K. Khawam, **A Hybrid Approach for Radio Access Technology Selection in Heterogeneous Wireless Networks**, *European Wireless 2013 (EW2013)*, Guildford, United Kingdom, April 2013. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/ew-13.pdf)
 
 
 <a id="yassin%3A2013mq"></a>
-[76] M. Yassin, S. Lahoud, M. Ibrahim, **A Hybrid Approach for RAT Selection in Wireless Heterogeneous Networks**, *The 3rd International Conference on Communications and Information Technology (ICCIT-2013): Wireless Communications and Signal Processing (ICCIT-2013 WCSP)*, Beirut, Lebanon, June 2013. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/iccit-13.pdf)
+[79] M. Yassin, S. Lahoud, M. Ibrahim, **A Hybrid Approach for RAT Selection in Wireless Heterogeneous Networks**, *The 3rd International Conference on Communications and Information Technology (ICCIT-2013): Wireless Communications and Signal Processing (ICCIT-2013 WCSP)*, Beirut, Lebanon, June 2013. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/iccit-13.pdf)
 
 
 <a id="frikha%3A2012xh"></a>
-[77] A. Frikha, S. Lahoud, B. Cousin, M. Molnar, **Reliable Multicast Sessions Provisioning in Sparse Light-Splitting DWDM Networks using P-Cycles**, *2012 Annual IEEE Communications Quality and Reliability International Workshop (CQR2012)*, San Diego CA, USA, May 2012. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/cqr-12.pdf)
+[80] A. Frikha, S. Lahoud, B. Cousin, M. Molnar, **Reliable Multicast Sessions Provisioning in Sparse Light-Splitting DWDM Networks using P-Cycles**, *2012 Annual IEEE Communications Quality and Reliability International Workshop (CQR2012)*, San Diego CA, USA, May 2012. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/cqr-12.pdf)
 
 
 <a id="belghith%3A2012oy"></a>
-[78] A. Belghith, S.B. Said, B. Cousin, S. Lahoud, **QoS Fault Detection and Localization Mechanisms (FDLM) in Multi-domain Networks Adapted to Export Methods**, *4th International Conference on Advanced Communication Technology 2012 (ICACT 2012)*, PyeongChang, Korea, 2012. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icact-12.pdf)
+[81] A. Belghith, S.B. Said, B. Cousin, S. Lahoud, **QoS Fault Detection and Localization Mechanisms (FDLM) in Multi-domain Networks Adapted to Export Methods**, *4th International Conference on Advanced Communication Technology 2012 (ICACT 2012)*, PyeongChang, Korea, 2012. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icact-12.pdf)
 
 
 <a id="belghith%3A2012pt"></a>
-[79] A. Belghith, S.B. Said, B. Cousin, S. Lahoud, **Proactive and Reactive Collaboration Schemes for Multi-domain Networks Monitoring**, *Engineering-IT applications 2012 (EITA 2012)*, Hong Kong, P.R. China, 2012. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/comcomap-12.pdf)
+[82] A. Belghith, S.B. Said, B. Cousin, S. Lahoud, **Proactive and Reactive Collaboration Schemes for Multi-domain Networks Monitoring**, *Engineering-IT applications 2012 (EITA 2012)*, Hong Kong, P.R. China, 2012. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/comcomap-12.pdf)
 
 
 <a id="salhi%3A2012bu"></a>
-[80] E. Salhi, S. Lahoud, B. Cousin, **Localization of Single Link-Level Network Anomalies**, *21st International Conference on Computer Communications and Networks (ICCCN 2012)*, Munich, Germany, July 2012. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icccn-12.pdf)
+[83] E. Salhi, S. Lahoud, B. Cousin, **Localization of Single Link-Level Network Anomalies**, *21st International Conference on Computer Communications and Networks (ICCCN 2012)*, Munich, Germany, July 2012. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icccn-12.pdf)
 
 
 <a id="moety%3A2012wa"></a>
-[81] F. Moety, M. Ibrahim, S. Lahoud, K. Khawam, **Distributed Heuristic Algorithms for RAT Selection in Wireless Heterogeneous Networks**, *2012 IEEE Wireless Communications and Networking Conference: Mobile and Wireless Networks (IEEE WCNC 2012 Track 3 Mobile & Wireless)*, Paris, France, April 2012. [pdf](http://dl.dropbox.com/u/45967765/Publications/wcnc-12.pdf)
+[84] F. Moety, M. Ibrahim, S. Lahoud, K. Khawam, **Distributed Heuristic Algorithms for RAT Selection in Wireless Heterogeneous Networks**, *2012 IEEE Wireless Communications and Networking Conference: Mobile and Wireless Networks (IEEE WCNC 2012 Track 3 Mobile & Wireless)*, Paris, France, April 2012. [pdf](http://dl.dropbox.com/u/45967765/Publications/wcnc-12.pdf)
 
 
 <a id="frikha%3A2012dl"></a>
-[82] A. Frikha, S. Lahoud, B. Cousin, **Candidate-Cycle-based Heuristic Algorithm for Node-and-Link Protection of Dynamic Multicast Traffic in Optical DWDM Networks**, *The International Conference on Information Networking (ICOIN 2012)*, Bali, Indonesia, February 2012. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icoin-12.pdf)
+[85] A. Frikha, S. Lahoud, B. Cousin, **Candidate-Cycle-based Heuristic Algorithm for Node-and-Link Protection of Dynamic Multicast Traffic in Optical DWDM Networks**, *The International Conference on Information Networking (ICOIN 2012)*, Bali, Indonesia, February 2012. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icoin-12.pdf)
 
 
 <a id="jawhar%3A2011nq"></a>
-[83] S. Jawhar, B. Cousin, S. Lahoud, **Required Density of Multicast Capable Optical Cross-Connects to Assure Efficient Multicasting**, *First International Conference on Networking and Future Internet (ICNFI 2011)*, Paris, France, 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icnfi-11.pdf)
+[86] S. Jawhar, B. Cousin, S. Lahoud, **Required Density of Multicast Capable Optical Cross-Connects to Assure Efficient Multicasting**, *First International Conference on Networking and Future Internet (ICNFI 2011)*, Paris, France, 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icnfi-11.pdf)
 
 
 <a id="belghith%3A2011ix"></a>
-[84] A. Belghith, B. Cousin, S. Lahoud, S.B. Said, **Proposal for the Configuration of multi-domain Network Monitoring Architecture**, *The International Conference on Information Networking (ICOIN 2011)*, Kuala Lumpur, Malaysia, pp. 7 - 12, January 2011. [doi](https://doi.org/10.1109/ICOIN.2011.5723105) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icoin-11.pdf)
+[87] A. Belghith, B. Cousin, S. Lahoud, S.B. Said, **Proposal for the Configuration of multi-domain Network Monitoring Architecture**, *The International Conference on Information Networking (ICOIN 2011)*, Kuala Lumpur, Malaysia, pp. 7 - 12, January 2011. [doi](https://doi.org/10.1109/ICOIN.2011.5723105) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icoin-11.pdf)
 
 
 <a id="jawhar%3A2011gd"></a>
-[85] S. Jawhar, B. Cousin, S. Lahoud, **Placement of Light Splitters in Optical Networks**, *Deuxième colloque sur les réseaux large bande et Internet rapide*, Beirut, Lebanon, March 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/relabira-11.pdf)
+[88] S. Jawhar, B. Cousin, S. Lahoud, **Placement of Light Splitters in Optical Networks**, *Deuxième colloque sur les réseaux large bande et Internet rapide*, Beirut, Lebanon, March 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/relabira-11.pdf)
 
 
 <a id="frikha%3A2011qz"></a>
-[86] A. Frikha, S. Lahoud, **Performance Evaluation of Pre-computation Algorithms for Inter-Domain QoS Routing**, *The 18th International Conference on Telecommunications, ICT 2011*, Ayia Napa, Cyprus, 5 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/ict-11.pdf)
+[89] A. Frikha, S. Lahoud, **Performance Evaluation of Pre-computation Algorithms for Inter-Domain QoS Routing**, *The 18th International Conference on Telecommunications, ICT 2011*, Ayia Napa, Cyprus, 5 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/ict-11.pdf)
 
 
 <a id="khawam%3A2011gs"></a>
-[87] K. Khawam, M. Ibrahim, J. Cohen, S. Lahoud, S. Tohme, **Individual vs. Global Radio Resource Management in a Hybrid Broadband Network**, *ICC 2011 Wireless Networking Symposium, ICC'11 WNS*, kyoto, Japan, 6 2011. [pdf](http://dl.dropbox.com/u/45967765/Publications/icc-11a.pdf)
+[90] K. Khawam, M. Ibrahim, J. Cohen, S. Lahoud, S. Tohme, **Individual vs. Global Radio Resource Management in a Hybrid Broadband Network**, *ICC 2011 Wireless Networking Symposium, ICC'11 WNS*, kyoto, Japan, 6 2011. [pdf](http://dl.dropbox.com/u/45967765/Publications/icc-11a.pdf)
 
 
 <a id="salhi%3A2011ov"></a>
-[88] E. Salhi, S. Lahoud, B. Cousin, **Heuristics for Joint Optimization of Monitor Location and Network Anomaly Detection**, *ICC 2011 Communications QoS, Reliability and Modeling Symposium (ICC'11 CQRM)*, Kyoto, Japan, 6 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icc-11b.pdf)
+[91] E. Salhi, S. Lahoud, B. Cousin, **Heuristics for Joint Optimization of Monitor Location and Network Anomaly Detection**, *ICC 2011 Communications QoS, Reliability and Modeling Symposium (ICC'11 CQRM)*, Kyoto, Japan, 6 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icc-11b.pdf)
 
 
 <a id="salhi%3A2011wq"></a>
-[89] E. Salhi, S. Lahoud, B. Cousin, **Global Vs. Per-Domain Monitoring of Multi-Domain Networks**, *36th Annual IEEE Conference on Local Computer Networks (LCN 2011)*, Bonn, Germany, pp. 391 - 398, 2011. [doi](https://doi.org/10.1109/LCN.2011.6115321) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/lcn-11b.pdf)
+[92] E. Salhi, S. Lahoud, B. Cousin, **Global Vs. Per-Domain Monitoring of Multi-Domain Networks**, *36th Annual IEEE Conference on Local Computer Networks (LCN 2011)*, Bonn, Germany, pp. 391 - 398, 2011. [doi](https://doi.org/10.1109/LCN.2011.6115321) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/lcn-11b.pdf)
 
 
 <a id="frikha%3A2011km"></a>
-[90] A. Frikha, B. Cousin, S. Lahoud, **Extending node protection concept of p-cycles for an efficient resource utilization in multicast traffic**, *Local Computer Networks (LCN), 2011 IEEE 36th Conference on*, Bonn, Germany, pp. 175 -178, oct. 2011. [doi](https://doi.org/10.1109/LCN.2011.6115180) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/lcn-11a.pdf)
+[93] A. Frikha, B. Cousin, S. Lahoud, **Extending node protection concept of p-cycles for an efficient resource utilization in multicast traffic**, *Local Computer Networks (LCN), 2011 IEEE 36th Conference on*, Bonn, Germany, pp. 175 -178, oct. 2011. [doi](https://doi.org/10.1109/LCN.2011.6115180) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/lcn-11a.pdf)
 
 
 <a id="jawhar%3A2011rw"></a>
-[91] S. Jawhar, B. Cousin, S. Lahoud, **Effect of Splitting Factor on the Generated Multicast Trees in Optical Networks**, *International Conference on Network Communication and Computer (ICNCC 2011)*, New Delhi, India, pp. 127 - 130, 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icncc-11.pdf)
+[94] S. Jawhar, B. Cousin, S. Lahoud, **Effect of Splitting Factor on the Generated Multicast Trees in Optical Networks**, *International Conference on Network Communication and Computer (ICNCC 2011)*, New Delhi, India, pp. 127 - 130, 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icncc-11.pdf)
 
 
 <a id="djarallah%3A2011dd"></a>
-[92] N. Djarallah, N.L. Sauze, H. Pouyllau, S. Lahoud, B. Cousin, **Distributed E2E QoS-Based Path Computation Algorithm Over Multiple Inter-Domain Routes**, *Sixth International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC 2011)*, BARCELONA, Spain, pp. 169 - 176, 2011. [doi](https://doi.org/10.1109/3PGCIC.2011.34) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/3pgcic-11.pdf)
+[95] N. Djarallah, N.L. Sauze, H. Pouyllau, S. Lahoud, B. Cousin, **Distributed E2E QoS-Based Path Computation Algorithm Over Multiple Inter-Domain Routes**, *Sixth International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC 2011)*, BARCELONA, Spain, pp. 169 - 176, 2011. [doi](https://doi.org/10.1109/3PGCIC.2011.34) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/3pgcic-11.pdf)
 
 
 <a id="drid%3A2011zp"></a>
-[93] H. Drid, L. Gonczy, S. Lahoud, G. Bergmann, M. Molnar, **Dependable Routing Protocol Considering the k-Coverage Problem for Wireless Sensor Networks**, *ICNS 2011: The Seventh International Conference on Networking and Services*, Venice, Italy, 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icns-11.pdf)
+[96] H. Drid, L. Gonczy, S. Lahoud, G. Bergmann, M. Molnar, **Dependable Routing Protocol Considering the k-Coverage Problem for Wireless Sensor Networks**, *ICNS 2011: The Seventh International Conference on Networking and Services*, Venice, Italy, 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icns-11.pdf)
 
 
 <a id="bellabas%3A2011rp"></a>
-[94] A. Bellabas, G. Texier, S. Lahoud, A. Najah, **Convergent IPTV Services over IP Multimedia Subsystem**, *The 14th International Symposium on Wireless Personal Multimedia Communications (WPMC'11)*, Brest, France, 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/wpmc-11.pdf)
+[97] A. Bellabas, G. Texier, S. Lahoud, A. Najah, **Convergent IPTV Services over IP Multimedia Subsystem**, *The 14th International Symposium on Wireless Personal Multimedia Communications (WPMC'11)*, Brest, France, 2011. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/wpmc-11.pdf)
 
 
 <a id="frikha%3A2010yi"></a>
-[95] A. Frikha, S. Lahoud, **Pre-computation based heuristic for inter-domain QoS routing**, *Fourth IEEE International Conference on Advanced Networks and Telecommunication Systems (ANTS) (IEEE ANTS 2010)*, Mumbai, India, pp. 61 -63, dec. 2010. [doi](https://doi.org/10.1109/ANTS.2010.5983529) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/ants-10.pdf)
+[98] A. Frikha, S. Lahoud, **Pre-computation based heuristic for inter-domain QoS routing**, *Fourth IEEE International Conference on Advanced Networks and Telecommunication Systems (ANTS) (IEEE ANTS 2010)*, Mumbai, India, pp. 61 -63, dec. 2010. [doi](https://doi.org/10.1109/ANTS.2010.5983529) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/ants-10.pdf)
 
 
 <a id="salhi%3A2010km"></a>
-[96] E. Salhi, S. Lahoud, B. Cousin, **Joint Optimization of Monitor Location and Network Anomaly Detection**, *35th Annual IEEE Conference on Local Computer Networks, LCN 2010*, Denver, Colorado, USA, pp. 204-207, October 2010. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/lcn-10.pdf)
+[99] E. Salhi, S. Lahoud, B. Cousin, **Joint Optimization of Monitor Location and Network Anomaly Detection**, *35th Annual IEEE Conference on Local Computer Networks, LCN 2010*, Denver, Colorado, USA, pp. 204-207, October 2010. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/lcn-10.pdf)
 
 
 <a id="bellabas%3A2010yj"></a>
-[97] A. Bellabas, S. Lahoud, M. Molnar, **Fast Heuristics for the QoS Multicast Routing Problem**, *IEEE Globecom 2010 - Communications QoS, Reliability and Modelling Symposium (GC10 - CQRM)*, Miami, Florida, USA, December 2010. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/globecom-10.pdf)
+[100] A. Bellabas, S. Lahoud, M. Molnar, **Fast Heuristics for the QoS Multicast Routing Problem**, *IEEE Globecom 2010 - Communications QoS, Reliability and Modelling Symposium (GC10 - CQRM)*, Miami, Florida, USA, December 2010. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/globecom-10.pdf)
 
 
 <a id="jawhar%3A2010hc"></a>
-[98] S. Jawhar, B. Cousin, S. Lahoud, **Efficient Placement of Light Splitters for Heterogeneous Multicast Traffic in Optical Networks**, *High Capacity Optical Networks and Enabling Technologies (HONET)*, Cairo, Egypt, pp. 204 - 209, 2010. [doi](https://doi.org/10.1109/HONET.2010.5715774) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/honet-10.pdf)
+[101] S. Jawhar, B. Cousin, S. Lahoud, **Efficient Placement of Light Splitters for Heterogeneous Multicast Traffic in Optical Networks**, *High Capacity Optical Networks and Enabling Technologies (HONET)*, Cairo, Egypt, pp. 204 - 209, 2010. [doi](https://doi.org/10.1109/HONET.2010.5715774) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/honet-10.pdf)
 
 
 <a id="bellabas%3A2009mk"></a>
-[99] A. Bellabas, G. Bertrand, S. Lahoud, G. Texier, M. Molnar, **Quality of Service Routing in Next Generation Networks**, *Colloque Francophone sur l'Ingenierie des Protocoles*, Strasbourg, France, 2009. [pdf](http://hal.inria.fr/inria-00538269/en/)
+[102] A. Bellabas, G. Bertrand, S. Lahoud, G. Texier, M. Molnar, **Quality of Service Routing in Next Generation Networks**, *Colloque Francophone sur l'Ingenierie des Protocoles*, Strasbourg, France, 2009. [pdf](http://hal.inria.fr/inria-00538269/en/)
 
 
 <a id="bellabas%3A2009yg"></a>
-[100] A. Bellabas, M. Molnar, S. Lahoud, **Heuristiques pour le routage multicritère**, *MAnifestation des JEunes Chercheurs en Sciences et Technologies de l'Information et de la Communication*, Avigon, France, 2009. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/majecstic-09.pdf)
+[103] A. Bellabas, M. Molnar, S. Lahoud, **Heuristiques pour le routage multicritère**, *MAnifestation des JEunes Chercheurs en Sciences et Technologies de l'Information et de la Communication*, Avigon, France, 2009. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/majecstic-09.pdf)
 
 
 <a id="bellabas%3A2009tg"></a>
-[101] A. Bellabas, M. Molnar, S. Lahoud, **Heuristics for the Multicriteria Routing Problem**, *Mosharaka International Conference on Communications Computers and Applications*, Amman, Jordan, 2009. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/miccca-09.pdf)
+[104] A. Bellabas, M. Molnar, S. Lahoud, **Heuristics for the Multicriteria Routing Problem**, *Mosharaka International Conference on Communications Computers and Applications*, Amman, Jordan, 2009. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/miccca-09.pdf)
 
 
 <a id="bertrand%3A2009qm"></a>
-[102] G. Bertrand, S. Lahoud, G. Texier, M. Molnar, **Computation of Multi-Constrained Paths in Multi-Domain MPLS-TE Networks**, *Next Generation Internet Networks, NGI '09*, Aveiro, Portugal, pp. 1 -8, July 2009. [doi](https://doi.org/10.1109/NGI.2009.5175757) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/ngi-09.pdf)
+[105] G. Bertrand, S. Lahoud, G. Texier, M. Molnar, **Computation of Multi-Constrained Paths in Multi-Domain MPLS-TE Networks**, *Next Generation Internet Networks, NGI '09*, Aveiro, Portugal, pp. 1 -8, July 2009. [doi](https://doi.org/10.1109/NGI.2009.5175757) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/ngi-09.pdf)
 
 
 <a id="drid%3A2009fd"></a>
-[103] H. Drid, S. Lahoud, B. Cousin, M. Molnar, **A Topology Aggregation Model for Survivability in Multi-Domain Optical Networks Using p-Cycles**, *Sixth IFIP Inter ional Conference on Network and Parallel Computing, 2009, NPC '09*, Gold Coast, Australia, pp. 211 -218, October 2009. [doi](https://doi.org/10.1109/NPC.2009.21) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/npc-09.pdf)
+[106] H. Drid, S. Lahoud, B. Cousin, M. Molnar, **A Topology Aggregation Model for Survivability in Multi-Domain Optical Networks Using p-Cycles**, *Sixth IFIP Inter ional Conference on Network and Parallel Computing, 2009, NPC '09*, Gold Coast, Australia, pp. 211 -218, October 2009. [doi](https://doi.org/10.1109/NPC.2009.21) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/npc-09.pdf)
 
 
 <a id="drid%3A2008vp"></a>
-[104] H. Drid, B. Cousin, S. Lahoud, M. Molnar, **Multi-criteria p-cycle network design**, *33rd IEEE Conference on Local Computer Networks, LCN 2008*, Montréal, Canada, pp. 361 -366, October 2008. [doi](https://doi.org/10.1109/LCN.2008.4664191) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/lcn-08.pdf)
+[107] H. Drid, B. Cousin, S. Lahoud, M. Molnar, **Multi-criteria p-cycle network design**, *33rd IEEE Conference on Local Computer Networks, LCN 2008*, Montréal, Canada, pp. 361 -366, October 2008. [doi](https://doi.org/10.1109/LCN.2008.4664191) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/lcn-08.pdf)
 
 
 <a id="lahoud%3A2006rp"></a>
-[105] S. Lahoud, G. Texier, L. Toutain, **Flow Allocation with Path Protection in Next Generation Internet Networks**, *IEEE International Conference on Communications, ICC '06*, Istanbul, Turkey, pp. 860 -865, June 2006. [doi](https://doi.org/10.1109/ICC.2006.254815) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icc-06.pdf)
+[108] S. Lahoud, G. Texier, L. Toutain, **Flow Allocation with Path Protection in Next Generation Internet Networks**, *IEEE International Conference on Communications, ICC '06*, Istanbul, Turkey, pp. 860 -865, June 2006. [doi](https://doi.org/10.1109/ICC.2006.254815) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/icc-06.pdf)
 
 
 <a id="lahoud%3A2006zl"></a>
-[106] S. Lahoud, G. Texier, L. Toutain, **Approximation algorithm for minimum cost flow allocation with varied survivability**, *2nd Conference on Next Generation Internet Design and Engineering, NGI '06*, Valencia, Spain, pp. 8 pp. -299, 2006. [doi](https://doi.org/10.1109/NGI.2006.1678254) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/ngi-06.pdf)
+[109] S. Lahoud, G. Texier, L. Toutain, **Approximation algorithm for minimum cost flow allocation with varied survivability**, *2nd Conference on Next Generation Internet Design and Engineering, NGI '06*, Valencia, Spain, pp. 8 pp. -299, 2006. [doi](https://doi.org/10.1109/NGI.2006.1678254) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/ngi-06.pdf)
 
 
 <a id="lahoud%3A2005ws"></a>
-[107] S. Lahoud, G. Texier, L. Toutain, **Off-line Flow Allocation for Traffic Engineering in MPLS Networks**, *Third International Working Conference on Performance Modelling and Evaluation of Heterogeneous Networks, HET-NETs*, West Yorkshire, U.K, 2005. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/hetnets-05.pdf)
+[110] S. Lahoud, G. Texier, L. Toutain, **Off-line Flow Allocation for Traffic Engineering in MPLS Networks**, *Third International Working Conference on Performance Modelling and Evaluation of Heterogeneous Networks, HET-NETs*, West Yorkshire, U.K, 2005. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/hetnets-05.pdf)
 
 
 <a id="lahoud%3A2005sh"></a>
-[108] S. Lahoud, **Fully polynomial approximation for survivable flow allocation with max-min fairness**, *CoNEXT '05: Proceedings of the 2005 ACM conference on Emerging network experiment and technology*, Toulouse, France, pp. 262–263, 2005. [doi](https://doi.org/10.1145/1095921.1095971) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/conext-05.pdf)
+[111] S. Lahoud, **Fully polynomial approximation for survivable flow allocation with max-min fairness**, *CoNEXT '05: Proceedings of the 2005 ACM conference on Emerging network experiment and technology*, Toulouse, France, pp. 262–263, 2005. [doi](https://doi.org/10.1145/1095921.1095971) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/conext-05.pdf)
 
 
 <a id="lahoud%3A2005kv"></a>
-[109] S. Lahoud, G. Texier, L. Toutain, **FATE: a polynomial time framework for flow allocation in MPLS-TE networks**, *The 14th IEEE Workshop on Local and Metropolitan Area Networks, LANMAN 2005*, Crete, Greece, pp. 6 pp. -6, September 2005. [doi](https://doi.org/10.1109/LANMAN.2005.1541532) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/lanman-05.pdf)
+[112] S. Lahoud, G. Texier, L. Toutain, **FATE: a polynomial time framework for flow allocation in MPLS-TE networks**, *The 14th IEEE Workshop on Local and Metropolitan Area Networks, LANMAN 2005*, Crete, Greece, pp. 6 pp. -6, September 2005. [doi](https://doi.org/10.1109/LANMAN.2005.1541532) [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/lanman-05.pdf)
 
 
 <a id="lahoud%3A2004dg"></a>
-[110] S. Lahoud, G. Texier, L. Toutain, **Serveur de Topologie OSPF**, *6èmes Journées Doctorales Informatique et Réseau, JDIR*, Lannion, France, 2004. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/jdir-04.pdf)
+[113] S. Lahoud, G. Texier, L. Toutain, **Serveur de Topologie OSPF**, *6èmes Journées Doctorales Informatique et Réseau, JDIR*, Lannion, France, 2004. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/jdir-04.pdf)
 
 
 <a id="lahoud%3A2004ht"></a>
-[111] S. Lahoud, G. Texier, L. Toutain, **Classification and Evaluation of Constraint-Based Routing Algorithms for MPLS Traffic Engineering**, *6èmes rencontres francophones sur les aspects algorithmiques des télécommunications, Algotel*, Batz-sur-mer, France, 2004. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/algotel-04.pdf)
+[114] S. Lahoud, G. Texier, L. Toutain, **Classification and Evaluation of Constraint-Based Routing Algorithms for MPLS Traffic Engineering**, *6èmes rencontres francophones sur les aspects algorithmiques des télécommunications, Algotel*, Batz-sur-mer, France, 2004. [pdf](http://dl.dropboxusercontent.com/u/45967765/Publications/algotel-04.pdf)
 
 
 
@@ -694,8 +706,16 @@ title: "Publications"
 ## 2026
 
 
+<a id="Delp2605%3ARealistic-year"></a>
+[1] A. Delplace, S. Lahoud, K. Khawam, D. Quadri, **Towards Realistic Waveform-Level IoT Network Simulation via IQ Mixing**, *2026 IEEE International Symposium on Spectrum Innovation (DySPAN) (IEEE DySPAN 2026)*, Washington, USA, pp. 4.96, May 2026.
+
+
 <a id="11366306-year"></a>
-[1] J. El Rayess, K. Khawam, S. Lahoud, M. El Helou, **Modeling and Optimizing Reliability in LR-FHSS Networks with Successive Interference Cancellation**, *2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1-6, 2026. [doi](https://doi.org/10.1109/CCNC65079.2026.11366306)
+[2] J. El Rayess, K. Khawam, S. Lahoud, M. El Helou, **Modeling and Optimizing Reliability in LR-FHSS Networks with Successive Interference Cancellation**, *2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC)*, pp. 1-6, 2026. [doi](https://doi.org/10.1109/CCNC65079.2026.11366306)
+
+
+<a id="Huan2604%3AAnalysis-year"></a>
+[3] J. Huang, S. Lahoud, **Design and Analysis of Chirp-Layered Superposition Coding for LoRa**, *2026 22nd Annual IEEE International Conference on Sensing, Communication, and Networking (SECON) (SECON 2026)*, Pisa, Italy, pp. 7.97, June 2026.
 
 
 
@@ -706,40 +726,44 @@ title: "Publications"
 [1] X. Li, S. Lahoud, N. Zincir-Heywood, **Unsupervised Anomaly Detection for Wi-Fi Networks using RFFI**, *2025 21st International Conference on Network and Service Management (CNSM)*, pp. 1-5, 2025. [doi](https://doi.org/10.23919/CNSM67658.2025.11297558)
 
 
+<a id="Laho2512%3ASemantic-year"></a>
+[2] S. Lahoud, K. Khawam, **Semantic Communication with Distribution Learning through Sequential Observations**, *2025 IEEE Globecom Workshops (GC Wkshps): Workshop on Semantic Communications Meets Wireless in AI Era (GC Wkshps 2025-SC WAIE)*, Taipei, Taiwan, pp. 5.99, December 2025.
+
+
 <a id="11308886-year"></a>
-[2] J. Huang, S. Lahoud, **Physical-Layer Analysis of LoRa Robustness in the Presence of Narrowband Interference**, *2025 International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)*, pp. 301-307, 2025. [doi](https://doi.org/10.1109/MSWiM67937.2025.11308886)
+[3] J. Huang, S. Lahoud, **Physical-Layer Analysis of LoRa Robustness in the Presence of Narrowband Interference**, *2025 International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)*, pp. 301-307, 2025. [doi](https://doi.org/10.1109/MSWiM67937.2025.11308886)
 
 
 <a id="11432594-year"></a>
-[3] S. Lahoud, K. Khawam, **Fragment-Level Macro-Diversity Reception in LoRaWAN Networks with LR-FHSS**, *GLOBECOM 2025 - 2025 IEEE Global Communications Conference*, pp. 3262-3267, 2025. [doi](https://doi.org/10.1109/GLOBECOM59602.2025.11432594)
+[4] S. Lahoud, K. Khawam, **Fragment-Level Macro-Diversity Reception in LoRaWAN Networks with LR-FHSS**, *GLOBECOM 2025 - 2025 IEEE Global Communications Conference*, pp. 3262-3267, 2025. [doi](https://doi.org/10.1109/GLOBECOM59602.2025.11432594)
 
 
 <a id="11123307-year"></a>
-[4] K. Khawam, F. Yassine, S. Lahoud, Y. Tang, D. Quadri, S. Martin, **Federated Non-Stochastic Multi-Armed Bandit for Channel Sensing in Cognitive Radio Systems**, *2025 23rd International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)*, pp. 1-6, 2025. [doi](https://doi.org/10.23919/WiOpt66569.2025.11123307)
+[5] K. Khawam, F. Yassine, S. Lahoud, Y. Tang, D. Quadri, S. Martin, **Federated Non-Stochastic Multi-Armed Bandit for Channel Sensing in Cognitive Radio Systems**, *2025 23rd International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)*, pp. 1-6, 2025. [doi](https://doi.org/10.23919/WiOpt66569.2025.11123307)
 
 
 <a id="11309099-year"></a>
-[5] K. Khawam, H. Taleb, S. Lahoud, S. Martin, **Federated Learning Games in Internet of Edges**, *2025 International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)*, pp. 151-159, 2025. [doi](https://doi.org/10.1109/MSWiM67937.2025.11309099)
+[6] K. Khawam, H. Taleb, S. Lahoud, S. Martin, **Federated Learning Games in Internet of Edges**, *2025 International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)*, pp. 151-159, 2025. [doi](https://doi.org/10.1109/MSWiM67937.2025.11309099)
 
 
 <a id="11309920-year"></a>
-[6] A. Delplace, S. Lahoud, K. Khawam, **Exploring LR-FHSS Modulation for Enhanced IoT Connectivity: A Measurement Campaign**, *2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)*, pp. 1-7, 2025. [doi](https://doi.org/10.1109/VTC2025-Fall65116.2025.11309920)
+[7] A. Delplace, S. Lahoud, K. Khawam, **Exploring LR-FHSS Modulation for Enhanced IoT Connectivity: A Measurement Campaign**, *2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)*, pp. 1-7, 2025. [doi](https://doi.org/10.1109/VTC2025-Fall65116.2025.11309920)
 
 
 <a id="11351070-year"></a>
-[7] J.E. Rayess, M. El Helou, S. Lahoud, K. Khawam, **Evaluating Energy Efficiency in LR-FHSS Networks under Successive Interference Cancellation**, *2025 28th International Symposium on Wireless Personal Multimedia Communications (WPMC)*, pp. 1-6, 2025. [doi](https://doi.org/10.1109/WPMC67460.2025.11351070)
+[8] J.E. Rayess, M. El Helou, S. Lahoud, K. Khawam, **Evaluating Energy Efficiency in LR-FHSS Networks under Successive Interference Cancellation**, *2025 28th International Symposium on Wireless Personal Multimedia Communications (WPMC)*, pp. 1-6, 2025. [doi](https://doi.org/10.1109/WPMC67460.2025.11351070)
 
 
 <a id="11072152-year"></a>
-[8] S. Durand, K. Khawam, D. Quadri, S. Lahoud, S. Martin, **Cross-Device Distributed Federated Learning Coalition Formation Game for Constrained IoT**, *IEEE Internet of Things Journal*, vol. 12, no. 18, pp. 37431-37440, 2025. [doi](https://doi.org/10.1109/JIOT.2025.3584417)
+[9] S. Durand, K. Khawam, D. Quadri, S. Lahoud, S. Martin, **Cross-Device Distributed Federated Learning Coalition Formation Game for Constrained IoT**, *IEEE Internet of Things Journal*, vol. 12, no. 18, pp. 37431-37440, 2025. [doi](https://doi.org/10.1109/JIOT.2025.3584417)
 
 
 <a id="11309935-year"></a>
-[9] S. Lahoud, K. Khawam, **Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**, *2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)*, pp. 1-5, 2025. [doi](https://doi.org/10.1109/VTC2025-Fall65116.2025.11309935)
+[10] S. Lahoud, K. Khawam, **Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**, *2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)*, pp. 1-5, 2025. [doi](https://doi.org/10.1109/VTC2025-Fall65116.2025.11309935)
 
 
 <a id="11309854-year"></a>
-[10] K. Khawam, H. Taleb, S. Durand, S. Martin, S. Lahoud, **Adaptive Clustering and Incentive Mechanism for Federated Learning in IoT**, *2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)*, pp. 1-7, 2025. [doi](https://doi.org/10.1109/VTC2025-Fall65116.2025.11309854)
+[11] K. Khawam, H. Taleb, S. Durand, S. Martin, S. Lahoud, **Adaptive Clustering and Incentive Mechanism for Federated Learning in IoT**, *2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)*, pp. 1-7, 2025. [doi](https://doi.org/10.1109/VTC2025-Fall65116.2025.11309854)
 
 
 
