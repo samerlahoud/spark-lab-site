@@ -42,6 +42,16 @@ Open LoRaWAN propagation measurements collected in indoor, suburban, urban, and 
 [View resource](lorawan-measurements-lebanon.qmd)
 :::
 
+::: {.resource-card}
+### [Wi-Fi RFFI Signal-Level Synthetic Traces](wifi-rffi-signal-level-synthetic.qmd)
+
+Synthetic Wi-Fi signal traces generated at the bit level with hardware impairments, designed for RFFI-based impersonation detection research.
+
+`RFFI` `Wi-Fi` `Synthetic` `Impersonation Detection`
+
+[View resource](wifi-rffi-signal-level-synthetic.qmd)
+:::
+
 ## For Lab Members
 
 Team members can contribute new datasets, scripts, notebooks, and reproducibility
