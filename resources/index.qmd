@@ -52,6 +52,16 @@ Synthetic Wi-Fi signal traces generated at the bit level with hardware impairmen
 [View resource](wifi-rffi-signal-level-synthetic.qmd)
 :::
 
+::: {.resource-card}
+### [Wi-Fi RFFI Protocol-Level Emulated Traces](wifi-rffi-protocol-level-emulated.qmd)
+
+Protocol-level emulated Wi-Fi 802.11 signal traces with hardware impairments for RFFI-based impersonation detection.
+
+`RFFI` `Wi-Fi` `Emulated` `Impersonation Detection`
+
+[View resource](wifi-rffi-protocol-level-emulated.qmd)
+:::
+
 ## For Lab Members
 
 Team members can contribute new datasets, scripts, notebooks, and reproducibility
