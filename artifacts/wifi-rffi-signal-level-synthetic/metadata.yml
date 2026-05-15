@@ -1,0 +1,19 @@
+title: "Wi-Fi RFFI Signal-Level Synthetic Traces"
+summary: "Synthetic Wi-Fi signal traces generated at the bit level with hardware impairments for RFFI-based impersonation detection."
+authors:
+  - "Xinyi Li"
+  - "Samer Lahoud"
+  - "Nur Zincir-Heywood"
+year: 2025
+status: "public"
+paper_title: "Unsupervised Anomaly Detection for Wi-Fi Networks using RFFI"
+paper_url: "https://doi.org/10.23919/CNSM67658.2025.11297558"
+artifact_url: "https://github.com/samerlahoud/spark-lab-site"
+code_url: ""
+preview_image: "preview.png"
+tags:
+  - RFFI
+  - Wi-Fi
+  - Synthetic
+  - Impersonation Detection
+maintainer: "Xinyi Li"

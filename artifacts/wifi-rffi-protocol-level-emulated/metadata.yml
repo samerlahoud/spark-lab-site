@@ -1,0 +1,19 @@
+title: "Wi-Fi RFFI Protocol-Level Emulated Traces"
+summary: "Protocol-level emulated Wi-Fi 802.11 signal traces with hardware impairments for RFFI-based impersonation detection."
+authors:
+  - "Xinyi Li"
+  - "Samer Lahoud"
+  - "Nur Zincir-Heywood"
+year: 2025
+status: "public"
+paper_title: "Unsupervised Anomaly Detection for Wi-Fi Networks using RFFI"
+paper_url: "https://doi.org/10.23919/CNSM67658.2025.11297558"
+artifact_url: "https://doi.org/10.5281/zenodo.20186947"
+code_url: ""
+preview_image: "preview.png"
+tags:
+  - RFFI
+  - Wi-Fi
+  - Emulated
+  - Impersonation Detection
+maintainer: "Xinyi Li"
