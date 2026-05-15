@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Resources – Samer Lahoud</title>
+<title>Wi-Fi RFFI Signal-Level Synthetic Traces – Samer Lahoud</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Spark Lab</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../resources/index.html" aria-current="page"> 
+    <a class="nav-link" href="../resources/index.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
@@ -132,14 +132,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#what-you-will-find-here" id="toc-what-you-will-find-here" class="nav-link active" data-scroll-target="#what-you-will-find-here">What You Will Find Here</a></li>
-  <li><a href="#available-resources" id="toc-available-resources" class="nav-link" data-scroll-target="#available-resources">Available Resources</a>
-  <ul class="collapse">
-  <li><a href="#lorawan-measurement-campaigns-in-lebanon" id="toc-lorawan-measurement-campaigns-in-lebanon" class="nav-link" data-scroll-target="#lorawan-measurement-campaigns-in-lebanon">LoRaWAN Measurement Campaigns in Lebanon</a></li>
-  <li><a href="#wi-fi-rffi-signal-level-synthetic-traces" id="toc-wi-fi-rffi-signal-level-synthetic-traces" class="nav-link" data-scroll-target="#wi-fi-rffi-signal-level-synthetic-traces">Wi-Fi RFFI Signal-Level Synthetic Traces</a></li>
-  <li><a href="#wi-fi-rffi-protocol-level-emulated-traces" id="toc-wi-fi-rffi-protocol-level-emulated-traces" class="nav-link" data-scroll-target="#wi-fi-rffi-protocol-level-emulated-traces">Wi-Fi RFFI Protocol-Level Emulated Traces</a></li>
-  </ul></li>
-  <li><a href="#for-lab-members" id="toc-for-lab-members" class="nav-link" data-scroll-target="#for-lab-members">For Lab Members</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#what-is-included" id="toc-what-is-included" class="nav-link" data-scroll-target="#what-is-included">What is included</a></li>
+  <li><a href="#dataset-context" id="toc-dataset-context" class="nav-link" data-scroll-target="#dataset-context">Dataset context</a></li>
+  <li><a href="#why-it-matters" id="toc-why-it-matters" class="nav-link" data-scroll-target="#why-it-matters">Why it matters</a></li>
+  <li><a href="#access" id="toc-access" class="nav-link" data-scroll-target="#access">Access</a></li>
+  <li><a href="#related-publication" id="toc-related-publication" class="nav-link" data-scroll-target="#related-publication">Related publication</a></li>
+  <li><a href="#example-result" id="toc-example-result" class="nav-link" data-scroll-target="#example-result">Example result</a></li>
+  <li><a href="#citation" id="toc-citation" class="nav-link" data-scroll-target="#citation">Citation</a></li>
   </ul>
 </nav>
     </div>
@@ -148,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Resources</h1>
+<h1 class="title">Wi-Fi RFFI Signal-Level Synthetic Traces</h1>
 </div>
 
 
@@ -165,54 +165,56 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This section highlights open research artifacts produced in Spark Lab, including datasets, scripts, reproducibility material, and example results connected to our publications.</p>
-<div class="resource-intro">
-<p>These resources are meant to support reuse, reproducibility, and follow-up research. Each entry is designed to connect an artifact to the paper, measurements, scripts, or outputs that make the work easier to understand and build on.</p>
+<p>This resource provides synthetic Wi-Fi signal traces generated at the bit level with hardware impairments, designed for RFFI-based impersonation detection research.</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>The dataset supports the study of radio frequency fingerprinting identification (RFFI) for detecting device impersonation in Wi-Fi networks. Signals are generated at the bit level using 16-QAM and OFDM modulation, with device-specific hardware impairments including CFO, IQ imbalance, phase noise, and non-linear distortions. Transmission effects are simulated using additive white Gaussian noise and Rayleigh fading channels.</p>
+</section>
+<section id="what-is-included" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-included">What is included</h2>
+<ul>
+<li>IQ traces for 4 legitimate devices under <code>data/legitimate/</code></li>
+<li>IQ traces for 4 attacker devices under <code>data/attacker/</code>, each impersonating a corresponding legitimate device</li>
+<li>hardware impairments: CFO, IQ imbalance, phase noise, non-linear distortion</li>
+<li>channel effects: AWGN and Rayleigh fading</li>
+<li><code>scripts/analyze.py</code> for feature extraction and XGBoost-based device classification</li>
+</ul>
+</section>
+<section id="dataset-context" class="level2">
+<h2 class="anchored" data-anchor-id="dataset-context">Dataset context</h2>
+<p>The dataset was generated to evaluate unsupervised anomaly detection for Wi-Fi impersonation attacks. Each legitimate device has unique hardware fingerprint parameters assigned via a separable parameter grid. Attacker devices share the MAC address of their target legitimate device while retaining distinct hardware characteristics, simulating realistic impersonation scenarios.</p>
+<p>Each <code>.npy</code> file contains <code>1000</code> signal samples per device with shape <code>(1000, signal_length)</code>.</p>
+</section>
+<section id="why-it-matters" class="level2">
+<h2 class="anchored" data-anchor-id="why-it-matters">Why it matters</h2>
+<p>This dataset offers a reproducible setting for evaluating RFFI-based anomaly detection under controlled hardware impairments and channel conditions.</p>
+</section>
+<section id="access" class="level2">
+<h2 class="anchored" data-anchor-id="access">Access</h2>
+<ul>
+<li>Dataset and code: <a href="https://github.com/samerlahoud/spark-lab-site/tree/main/artifacts/wifi-rffi-signal-level-synthetic">GitHub</a></li>
+<li>License: <code>CC BY 4.0</code></li>
+</ul>
+</section>
+<section id="related-publication" class="level2">
+<h2 class="anchored" data-anchor-id="related-publication">Related publication</h2>
+<ul>
+<li>X. Li, S. Lahoud, N. Zincir-Heywood, <em>Unsupervised Anomaly Detection for Wi-Fi Networks using RFFI</em>. 2025 21st International Conference on Network and Service Management (CNSM). <a href="https://doi.org/10.23919/CNSM67658.2025.11297558">DOI</a></li>
+</ul>
+</section>
+<section id="example-result" class="level2">
+<h2 class="anchored" data-anchor-id="example-result">Example result</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../artifacts/wifi-rffi-signal-level-synthetic/preview.png" class="img-fluid figure-img"></p>
+<figcaption>Confusion matrix preview</figcaption>
+</figure>
 </div>
-<section id="what-you-will-find-here" class="level2">
-<h2 class="anchored" data-anchor-id="what-you-will-find-here">What You Will Find Here</h2>
-<div class="resource-pillars">
-<section id="open-artifacts" class="level3 resource-pillar">
-<h3 class="anchored" data-anchor-id="open-artifacts">Open artifacts</h3>
-<p>Public datasets, scripts, and reproducibility material released by the lab.</p>
+<p>This preview shows the XGBoost classification confusion matrix on the synthetic dataset, illustrating the separability of device-specific RF fingerprints across legitimate and attacker devices.</p>
 </section>
-<section id="research-context" class="level3 resource-pillar">
-<h3 class="anchored" data-anchor-id="research-context">Research context</h3>
-<p>Each resource is tied to a paper, project, or experimental contribution.</p>
-</section>
-<section id="example-outputs" class="level3 resource-pillar">
-<h3 class="anchored" data-anchor-id="example-outputs">Example outputs</h3>
-<p>Representative figures or results that help others understand how the artifact can be used.</p>
-</section>
-</div>
-</section>
-<section id="available-resources" class="level2">
-<h2 class="anchored" data-anchor-id="available-resources">Available Resources</h2>
-<section id="lorawan-measurement-campaigns-in-lebanon" class="level3 resource-card">
-<h3 class="anchored" data-anchor-id="lorawan-measurement-campaigns-in-lebanon"><a href="../resources/lorawan-measurements-lebanon.html">LoRaWAN Measurement Campaigns in Lebanon</a></h3>
-<p>Open LoRaWAN propagation measurements collected in indoor, suburban, urban, and rural environments in Lebanon, used to derive path-loss models and evaluate LPWAN coverage.</p>
-<p><code>LPWAN</code> <code>LoRaWAN</code> <code>Propagation</code> <code>Measurement</code></p>
-<p><a href="../resources/lorawan-measurements-lebanon.html">View resource</a></p>
-</section>
-<section id="wi-fi-rffi-signal-level-synthetic-traces" class="level3 resource-card">
-<h3 class="anchored" data-anchor-id="wi-fi-rffi-signal-level-synthetic-traces"><a href="../resources/wifi-rffi-signal-level-synthetic.html">Wi-Fi RFFI Signal-Level Synthetic Traces</a></h3>
-<p>Synthetic Wi-Fi signal traces generated at the bit level with hardware impairments, designed for RFFI-based impersonation detection research.</p>
-<p><code>RFFI</code> <code>Wi-Fi</code> <code>Synthetic</code> <code>Impersonation Detection</code></p>
-<p><a href="../resources/wifi-rffi-signal-level-synthetic.html">View resource</a></p>
-</section>
-<section id="wi-fi-rffi-protocol-level-emulated-traces" class="level3 resource-card">
-<h3 class="anchored" data-anchor-id="wi-fi-rffi-protocol-level-emulated-traces"><a href="../resources/wifi-rffi-protocol-level-emulated.html">Wi-Fi RFFI Protocol-Level Emulated Traces</a></h3>
-<p>Protocol-level emulated Wi-Fi 802.11 signal traces with hardware impairments for RFFI-based impersonation detection.</p>
-<p><code>RFFI</code> <code>Wi-Fi</code> <code>Emulated</code> <code>Impersonation Detection</code></p>
-<p><a href="../resources/wifi-rffi-protocol-level-emulated.html">View resource</a></p>
-</section>
-</section>
-<section id="for-lab-members" class="level2">
-<h2 class="anchored" data-anchor-id="for-lab-members">For Lab Members</h2>
-<p>Team members can contribute new datasets, scripts, notebooks, and reproducibility material through the GitHub repository:</p>
-<p><a href="https://github.com/samerlahoud/spark-lab-site">https://github.com/samerlahoud/spark-lab-site</a></p>
-<p>Start by describing the material in a new folder under <code>artifacts/</code>. When the material is ready for the public website, add a matching page under <code>resources/</code> and link it from this page.</p>
-<p><a href="../resources/contribute.html">Contribution guide</a></p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>If you use this resource, please cite the related publication above.</p>
 
 
 </section>
