@@ -1,0 +1,50 @@
+---
+title: "Semantic Communication for IoT Tutorial"
+---
+
+This resource gathers tutorial material on semantic communication for Internet of Things deployments, with emphasis on Deep Joint Source-Channel Coding, distributed learning, adaptive runtime operation, and semantic-aware radio resource management.
+
+## Overview
+
+Semantic communication shifts the design objective from transmitting bit-perfect messages to delivering task-relevant meaning. For IoT systems, this shift is especially useful when devices operate under tight constraints on bandwidth, latency, energy, computation, and connectivity.
+
+The tutorial starts from centralized semantic communication models and then moves toward distributed, resource-constrained IoT deployments. It connects the foundations of Deep JSCC with practical questions around federated learning, split learning, runtime adaptation, and resource allocation.
+
+## Tutorial Material
+
+- Tutorial handout: [Semantic Communication for IoT](files/SemCom_tutorial.pdf)
+- Demo repository: [samerlahoud/deep-jscc-demo](https://github.com/samerlahoud/deep-jscc-demo)
+- Colab notebook: [Open the Deep JSCC demo in Colab](https://colab.research.google.com/github/samerlahoud/deep-jscc-demo/blob/main/notebooks/demo.ipynb)
+
+## What the Tutorial Covers
+
+- foundations of semantic and task-oriented communication
+- Deep JSCC architectures for wireless image and sensor transmission
+- evaluation metrics for semantic encoders and decoders
+- federated and split learning for SemCom in heterogeneous IoT systems
+- adaptive SemCom operation under changing channel and device conditions
+- semantic-aware scheduling, link adaptation, and resource allocation
+- open challenges around reliability, privacy, fairness, robustness, and standardization
+
+## Hands-On Component
+
+The Deep JSCC demo provides a compact PyTorch implementation for wireless image transmission over noisy channels. It is designed for tutorial use and can support two short demonstrations:
+
+- channel noise and graceful degradation across test SNR values
+- rate-distortion behavior as the bandwidth ratio changes
+
+The repository includes training and evaluation scripts, AWGN and Rayleigh channel models, PSNR and SSIM metrics, reconstruction-grid visualizations, and a quick mode suitable for live demonstrations.
+
+## Learning Outcomes
+
+After working through the material, participants should be able to:
+
+- explain how semantic communication differs from bit-centric communication
+- identify IoT scenarios where task-oriented transmission can provide practical value
+- choose suitable metrics for SemCom-over-wireless experiments
+- compare centralized, federated, and split learning designs for semantic encoders
+- formulate resource management objectives that account for semantic quality, latency, and energy
+
+## Intended Audience
+
+This material is intended for researchers, graduate students, and professionals working in wireless communications, networking, edge intelligence, machine learning, and AI-native IoT systems. Familiarity with wireless networks and basic machine learning concepts is helpful, but the tutorial is structured around system-level design ideas rather than detailed mathematical derivations.

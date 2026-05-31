@@ -266,191 +266,65 @@
     "text": "Alumni\n\nPhD Alumni\n\nZeina Awada — Resource management for network slicing, March 2025\nAli Loubany — LoRaWAN performance optimization: toward efficient IoT networks, June 2023\nFarah Yassine — Radio Resource Management in NB-IoT Networks, July 2023\nHussein Taleb — User Association and RRH Clustering Techniques in Cloud-Radio Access Networks, July 2021\nBachir Lahad — Joint Uplink and Downlink Radio Resource Allocation for Heterogeneous TDD Cellular Networks, December 2020\nHassan Fawaz — Radio Resource Allocation in Full-Duplex Cellular OFDMA Networks, November 2019\nRabah Guedrez — Traffic Engineering for Segment Routing, December 2018\nSoha Farhat — Access Selection and Pricing in Multi-Operator Wireless Networks, July 2016\nMohamad Yassin — Interference Coordination in Wireless Cellular Networks, November 2015\nFarah Moety — Joint Minimization of Power and Delay in Wireless Access Networks, December 2014\nMelhem El Helou — Radio Access Technology Selection in Heterogeneous Wireless Networks, November 2014\nEmna Salhi — Detection and Localization of Link-Level Network Anomalies Using End-to-End Path Monitoring, February 2013\nAhmed Frikha — QoS and Reliability for Next-Generation Networks: Multi-Domain QoS Routing and Multicast Reliability, September 2012\nNabil Djarallah — Network Architectures for Inter-Carrier QoS-Capable Services, November 2011\nAlia Bellabas — Quality of Service Multicast Routing Subject to Multiple Constraints, October 2011\n\n\n\nMaster’s Alumni\n\nRonald Touma — Explainable and Privacy-Preserving Wi-Fi Fingerprinting for Urban Outdoor Positioning, 2025\nAlexis Delplace — Radio Propagation Models for LPWAN: A LoRaWAN Deployment in Halifax, 2024\nIbrahim Ayoub — Machine Learning for Low Power Wide Area Networks, 2021\nZahraa El Attar — Comparison of resource abstraction methods in network virtualization solutions for network slicing, 2021\nJuliana El Rayess — Irregular Repetition in Aloha for LoRaWAN, 2021\nAli Loubany — Adaptive Algorithm for Spreading Factor Selection in LoRaWAN Network with Multiple Gateways, 2019\nWissam Eid — Capacity and Coverage Planning for IoT Access Networks Based on LoRaWAN, 2018\nMahdi Yaakoub — Low Power Wide Area Wireless Networks for IoT: Performance Comparison between LoRaWAN and NB-IoT, 2017\nJoe Saad — Power Control in 5G Full-Duplex Cellular Networks, 2016\nHassan Fawaz — Scheduling in 5G Full-Duplex Cellular Networks, 2016\nKaren Boulos — Dynamic Clustering for Cloud Radio Access Networks, 2015\nMohamad Yassin — Dynamic and Distributed Radio Resource Allocation in Heterogeneous Wireless Networks, 2012\nFarah Moety — Distributed Heuristics for Radio Access Technology Selection, 2011\nKamel Moad — Stability of QoS Routing, 2011\nSiwar Said — Monitoring Multi-Domain Communications, 2010\nAhmed Frikha — QoS Path Computation in Multi-Domain Networks, 2009\nNabil Djarallah — Traffic Engineering in MPLS Multi-Domain Networks, 2008\nRasha Hasan — Toolbox for Traffic Engineering in MPLS Networks, 2008"
   },
   {
-    "objectID": "resources/index.html",
-    "href": "resources/index.html",
-    "title": "Resources",
+    "objectID": "resources/wifi-rffi-protocol-level-emulated.html",
+    "href": "resources/wifi-rffi-protocol-level-emulated.html",
+    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
     "section": "",
-    "text": "This section highlights open research artifacts produced in Spark Lab, including datasets, scripts, reproducibility material, and example results connected to our publications."
+    "text": "This resource provides protocol-level emulated Wi-Fi 802.11 signal traces with hardware impairments, designed for RFFI-based impersonation detection research."
   },
   {
-    "objectID": "resources/index.html#what-you-will-find-here",
-    "href": "resources/index.html#what-you-will-find-here",
-    "title": "Resources",
-    "section": "What You Will Find Here",
-    "text": "What You Will Find Here\n\n\nOpen artifacts\nPublic datasets, scripts, and reproducibility material released by the lab.\n\n\nResearch context\nEach resource is tied to a paper, project, or experimental contribution.\n\n\nExample outputs\nRepresentative figures or results that help others understand how the artifact can be used."
-  },
-  {
-    "objectID": "resources/index.html#available-resources",
-    "href": "resources/index.html#available-resources",
-    "title": "Resources",
-    "section": "Available Resources",
-    "text": "Available Resources\n\nLoRaWAN Measurement Campaigns in Lebanon\nOpen LoRaWAN propagation measurements collected in indoor, suburban, urban, and rural environments in Lebanon, used to derive path-loss models and evaluate LPWAN coverage.\nLPWAN LoRaWAN Propagation Measurement\nView resource\n\n\nWi-Fi RFFI Signal-Level Synthetic Traces\nSynthetic Wi-Fi signal traces generated at the bit level with hardware impairments, designed for RFFI-based impersonation detection research.\nRFFI Wi-Fi Synthetic Impersonation Detection\nView resource\n\n\nWi-Fi RFFI Protocol-Level Emulated Traces\nProtocol-level emulated Wi-Fi 802.11 signal traces with hardware impairments for RFFI-based impersonation detection.\nRFFI Wi-Fi Emulated Impersonation Detection\nView resource"
-  },
-  {
-    "objectID": "resources/index.html#for-lab-members",
-    "href": "resources/index.html#for-lab-members",
-    "title": "Resources",
-    "section": "For Lab Members",
-    "text": "For Lab Members\nTeam members can contribute new datasets, scripts, notebooks, and reproducibility material through the GitHub repository:\nhttps://github.com/samerlahoud/spark-lab-site\nStart by describing the material in a new folder under artifacts/. When the material is ready for the public website, add a matching page under resources/ and link it from this page.\nContribution guide"
-  },
-  {
-    "objectID": "resources/contribute.html",
-    "href": "resources/contribute.html",
-    "title": "Contributing Resources",
-    "section": "",
-    "text": "Students and lab members can contribute new resources by describing their datasets, scripts, notebooks, or reproducibility material in this repository:\nhttps://github.com/samerlahoud/spark-lab-site\nStart with an artifact description under artifacts/. Add a public page under resources/ when the material is ready to appear on the website."
-  },
-  {
-    "objectID": "resources/contribute.html#recommended-structure",
-    "href": "resources/contribute.html#recommended-structure",
-    "title": "Contributing Resources",
-    "section": "Recommended structure",
-    "text": "Recommended structure\nartifacts/\n  artifact-slug/\n    metadata.yml\n    README.md\n    preview.png\n    scripts/\n    data/\n\nresources/\n  artifact-slug.qmd\nUse a short lowercase slug for the folder and page name, with words separated by hyphens. For example, use lorawan-measurements-lebanon instead of a long title with spaces."
-  },
-  {
-    "objectID": "resources/contribute.html#what-to-include",
-    "href": "resources/contribute.html#what-to-include",
-    "title": "Contributing Resources",
-    "section": "What to include",
-    "text": "What to include\n\nmetadata.yml: basic structured information for the artifact\nREADME.md: a human-readable description and usage notes\npreview.png: one representative figure, screenshot, or result\nscripts/: code, notebooks, or helper material\ndata/: only small example files if appropriate\n\nLarge datasets should usually be hosted elsewhere and linked from the metadata and README.\nFor datasets, describe:\n\nwhat the data contains\nhow it was collected or generated\nfile formats and important columns or fields\nexpected size and whether the full data is stored elsewhere\nhow someone should cite or acknowledge the dataset\n\nFor scripts or notebooks, describe:\n\nwhat the script does\nrequired software, packages, or input files\nhow to run it\nexpected outputs\nany limitations, assumptions, or known issues"
-  },
-  {
-    "objectID": "resources/contribute.html#minimum-metadata",
-    "href": "resources/contribute.html#minimum-metadata",
-    "title": "Contributing Resources",
-    "section": "Minimum metadata",
-    "text": "Minimum metadata\ntitle: \"Artifact title\"\nsummary: \"One-sentence description.\"\nauthors:\n  - \"Student Name\"\n  - \"Samer Lahoud\"\nyear: 2026\nstatus: \"public\"\npaper_title: \"Related paper title\"\npaper_url: \"https://example.org/paper\"\nartifact_url: \"https://example.org/resource\"\ncode_url: \"https://github.com/example/repo\"\npreview_image: \"preview.png\"\ntags:\n  - LPWAN\n  - Wireless IoT\nmaintainer: \"Student Name\""
-  },
-  {
-    "objectID": "resources/contribute.html#publishing-workflow",
-    "href": "resources/contribute.html#publishing-workflow",
-    "title": "Contributing Resources",
-    "section": "Publishing workflow",
-    "text": "Publishing workflow\n\nClone the repository from GitHub.\n\ngit clone git@github.com:samerlahoud/spark-lab-site.git\ncd spark-lab-site\nIf you do not use SSH with GitHub, clone with HTTPS instead:\ngit clone https://github.com/samerlahoud/spark-lab-site.git\ncd spark-lab-site\n\nCreate a branch for your contribution.\n\ngit checkout -b add-my-resource\n\nAdd a new folder under artifacts/.\n\nartifacts/\n  my-resource-slug/\n    metadata.yml\n    README.md\n    preview.png\n\nFill in metadata.yml and README.md.\nAdd one preview image, figure, screenshot, or representative result.\nIf the resource is ready to be public, add resources/my-resource-slug.qmd.\nAdd the resource to resources/index.qmd so it appears on the Resources page.\nBuild or preview the site locally.\n\nquarto preview\n\nCommit your changes and push the branch.\n\ngit add artifacts/my-resource-slug resources/my-resource-slug.qmd resources/index.qmd\ngit commit -m \"Add resource: short descriptive title\"\ngit push origin add-my-resource\nIf you are only adding the artifact description for now, omit the resources/ files from git add.\n\nOpen a pull request on GitHub.\n\nThis keeps the repository structured while making it easy to review and publish student contributions."
-  },
-  {
-    "objectID": "resources/contribute.html#public-page-checklist",
-    "href": "resources/contribute.html#public-page-checklist",
-    "title": "Contributing Resources",
-    "section": "Public page checklist",
-    "text": "Public page checklist\nThe public page under resources/ should include:\n\na short overview\nwhat is included\naccess or download instructions\na related paper, report, or project if available\none example figure, screenshot, or result\na citation or acknowledgement note if available\n\nIf the material is not ready to publish yet, contribute only the artifacts/ folder first and explain the current state in the pull request."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Feel free to get in touch."
-  },
-  {
-    "objectID": "contact.html#office",
-    "href": "contact.html#office",
-    "title": "Contact",
-    "section": "Office",
-    "text": "Office\nFaculty of Computer Science\nGoldberg Computer Science Building\n6050 University Avenue\nHalifax, Nova Scotia, Canada"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "This simplified page captures the main research themes from the current site and lab materials."
-  },
-  {
-    "objectID": "research.html#lpwan-radio-propagation",
-    "href": "research.html#lpwan-radio-propagation",
-    "title": "Research",
-    "section": "1. LPWAN Radio Propagation",
-    "text": "1. LPWAN Radio Propagation\nWe studied radio propagation in the sub-GHz band through indoor, outdoor, urban, and rural measurement campaigns. This work produced path loss models tailored to LoRaWAN and helped improve realistic coverage estimation in low power wide area deployments."
-  },
-  {
-    "objectID": "research.html#lpwan-performance-and-reliability",
-    "href": "research.html#lpwan-performance-and-reliability",
-    "title": "Research",
-    "section": "2. LPWAN Performance and Reliability",
-    "text": "2. LPWAN Performance and Reliability\nOur work on LoRaWAN and related LPWAN technologies focuses on:\n\nspreading factor selection\nmulti-gateway optimization\nenergy efficiency\nreinforcement learning for autonomous configuration\nmulti-operator coexistence\n\nThis line of work combines optimization, simulation, and machine learning to improve scalability in dense deployments."
-  },
-  {
-    "objectID": "research.html#full-duplex-wireless-communications",
-    "href": "research.html#full-duplex-wireless-communications",
-    "title": "Research",
-    "section": "3. Full-Duplex Wireless Communications",
-    "text": "3. Full-Duplex Wireless Communications\nWe studied scheduling and power allocation in full-duplex wireless systems, showing how careful radio resource management can significantly improve throughput and reduce delay. This research includes queue-aware scheduling, reinforcement learning approaches, and multi-cell resource allocation."
-  },
-  {
-    "objectID": "research.html#game-theoretic-wireless-networks",
-    "href": "research.html#game-theoretic-wireless-networks",
-    "title": "Research",
-    "section": "4. Game-Theoretic Wireless Networks",
-    "text": "4. Game-Theoretic Wireless Networks\nWe used game-theoretic models to study how network entities make resource allocation decisions in settings such as:\n\nspectrum allocation\nuser association\npower control\nnetwork slicing\nfederated learning on constrained IoT devices\n\nThese models help explain distributed behavior and guide efficient algorithm design."
-  },
-  {
-    "objectID": "research.html#dissemination-and-training",
-    "href": "research.html#dissemination-and-training",
-    "title": "Research",
-    "section": "5. Dissemination and Training",
-    "text": "5. Dissemination and Training\nThis research program has also included tutorials, keynotes, joint educational initiatives, and public outreach activities in IoT and wireless systems."
-  },
-  {
-    "objectID": "resources/wifi-rffi-signal-level-synthetic.html",
-    "href": "resources/wifi-rffi-signal-level-synthetic.html",
-    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
-    "section": "",
-    "text": "This resource provides synthetic Wi-Fi signal traces generated at the bit level with hardware impairments, designed for RFFI-based impersonation detection research."
-  },
-  {
-    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#overview",
-    "href": "resources/wifi-rffi-signal-level-synthetic.html#overview",
-    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
+    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#overview",
+    "href": "resources/wifi-rffi-protocol-level-emulated.html#overview",
+    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
     "section": "Overview",
-    "text": "Overview\nThe dataset supports the study of radio frequency fingerprinting identification (RFFI) for detecting device impersonation in Wi-Fi networks. Signals are generated at the bit level using 16-QAM and OFDM modulation, with device-specific hardware impairments including CFO, IQ imbalance, phase noise, and non-linear distortions. Transmission effects are simulated using additive white Gaussian noise and Rayleigh fading channels."
+    "text": "Overview\nThe dataset supports the study of radio frequency fingerprinting identification (RFFI) for detecting device impersonation in Wi-Fi networks. Signals are emulated using GNU Radio with device-specific hardware impairments including CFO and IQ imbalance, along with basic channel effects. Each legitimate device has a unique hardware fingerprint, while attacker devices share the MAC address of their target legitimate device while retaining distinct hardware characteristics."
   },
   {
-    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#what-is-included",
-    "href": "resources/wifi-rffi-signal-level-synthetic.html#what-is-included",
-    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
+    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#what-is-included",
+    "href": "resources/wifi-rffi-protocol-level-emulated.html#what-is-included",
+    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
     "section": "What is included",
-    "text": "What is included\n\nIQ traces for 4 legitimate devices under data/legitimate/\nIQ traces for 4 attacker devices under data/attacker/, each impersonating a corresponding legitimate device\nhardware impairments: CFO, IQ imbalance, phase noise, non-linear distortion\nchannel effects: AWGN and Rayleigh fading\nscripts/analyze.py for feature extraction and XGBoost-based device classification"
+    "text": "What is included\n\nIQ traces for 4 legitimate devices\nIQ traces for 4 attacker devices, each impersonating a corresponding legitimate device\nhardware impairments: CFO and IQ imbalance\nchannel effects: basic propagation simulation via GNU Radio\nscripts/analyze.py for feature extraction and XGBoost-based device classification"
   },
   {
-    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#dataset-context",
-    "href": "resources/wifi-rffi-signal-level-synthetic.html#dataset-context",
-    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
+    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#dataset-context",
+    "href": "resources/wifi-rffi-protocol-level-emulated.html#dataset-context",
+    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
     "section": "Dataset context",
-    "text": "Dataset context\nThe dataset was generated to evaluate unsupervised anomaly detection for Wi-Fi impersonation attacks. Each legitimate device has unique hardware fingerprint parameters assigned via a separable parameter grid. Attacker devices share the MAC address of their target legitimate device while retaining distinct hardware characteristics, simulating realistic impersonation scenarios.\nEach .npy file contains 1000 signal samples per device with shape (1000, signal_length)."
+    "text": "Dataset context\nEach .npy file contains complex64 IQ samples with a packet length of 3840 samples. The dataset was generated to evaluate unsupervised anomaly detection for Wi-Fi impersonation attacks at the protocol level, complementing the signal-level synthetic dataset.\n\n\n\nFile\nType\nPackets\n\n\n\n\nlegitimate_device_01.npy\nLegitimate\n7919\n\n\nlegitimate_device_02.npy\nLegitimate\n8299\n\n\nlegitimate_device_03.npy\nLegitimate\n7595\n\n\nlegitimate_device_04.npy\nLegitimate\n8854\n\n\nattacker_device_05_impersonates_01.npy\nAttacker\n1351\n\n\nattacker_device_06_impersonates_02.npy\nAttacker\n1167\n\n\nattacker_device_07_impersonates_03.npy\nAttacker\n1630\n\n\nattacker_device_08_impersonates_04.npy\nAttacker\n1999"
   },
   {
-    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#why-it-matters",
-    "href": "resources/wifi-rffi-signal-level-synthetic.html#why-it-matters",
-    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
+    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#why-it-matters",
+    "href": "resources/wifi-rffi-protocol-level-emulated.html#why-it-matters",
+    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
     "section": "Why it matters",
-    "text": "Why it matters\nThis dataset offers a reproducible setting for evaluating RFFI-based anomaly detection under controlled hardware impairments and channel conditions."
+    "text": "Why it matters\nThis dataset offers a reproducible setting for evaluating RFFI-based anomaly detection under protocol-level emulation, providing a more realistic benchmark than purely synthetic signal-level data."
   },
   {
-    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#access",
-    "href": "resources/wifi-rffi-signal-level-synthetic.html#access",
-    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
+    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#access",
+    "href": "resources/wifi-rffi-protocol-level-emulated.html#access",
+    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
     "section": "Access",
-    "text": "Access\n\nDataset and code: GitHub\nLicense: CC BY 4.0"
+    "text": "Access\n\nDataset: Zenodo\nDOI: 10.5281/zenodo.20186947\nLicense: CC BY 4.0"
   },
   {
-    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#related-publication",
-    "href": "resources/wifi-rffi-signal-level-synthetic.html#related-publication",
-    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
+    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#related-publication",
+    "href": "resources/wifi-rffi-protocol-level-emulated.html#related-publication",
+    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
     "section": "Related publication",
     "text": "Related publication\n\nX. Li, S. Lahoud, N. Zincir-Heywood, Unsupervised Anomaly Detection for Wi-Fi Networks using RFFI. 2025 21st International Conference on Network and Service Management (CNSM). DOI"
   },
   {
-    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#example-result",
-    "href": "resources/wifi-rffi-signal-level-synthetic.html#example-result",
-    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
+    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#example-result",
+    "href": "resources/wifi-rffi-protocol-level-emulated.html#example-result",
+    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
     "section": "Example result",
-    "text": "Example result\n\n\n\nConfusion matrix preview\n\n\nThis preview shows the XGBoost classification confusion matrix on the synthetic dataset, illustrating the separability of device-specific RF fingerprints across legitimate and attacker devices."
+    "text": "Example result\n\n\n\nConfusion matrix preview\n\n\nThis preview shows the XGBoost classification confusion matrix on the protocol-level emulated dataset, illustrating the separability of device-specific RF fingerprints across legitimate and attacker devices."
   },
   {
-    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#citation",
-    "href": "resources/wifi-rffi-signal-level-synthetic.html#citation",
-    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
+    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#citation",
+    "href": "resources/wifi-rffi-protocol-level-emulated.html#citation",
+    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
     "section": "Citation",
     "text": "Citation\nIf you use this resource, please cite the related publication above."
   },
@@ -518,67 +392,242 @@
     "text": "Citation\nIf you use this resource, please cite the Zenodo dataset and the related publication above."
   },
   {
-    "objectID": "resources/wifi-rffi-protocol-level-emulated.html",
-    "href": "resources/wifi-rffi-protocol-level-emulated.html",
-    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
+    "objectID": "resources/wifi-rffi-signal-level-synthetic.html",
+    "href": "resources/wifi-rffi-signal-level-synthetic.html",
+    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
     "section": "",
-    "text": "This resource provides protocol-level emulated Wi-Fi 802.11 signal traces with hardware impairments, designed for RFFI-based impersonation detection research."
+    "text": "This resource provides synthetic Wi-Fi signal traces generated at the bit level with hardware impairments, designed for RFFI-based impersonation detection research."
   },
   {
-    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#overview",
-    "href": "resources/wifi-rffi-protocol-level-emulated.html#overview",
-    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
+    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#overview",
+    "href": "resources/wifi-rffi-signal-level-synthetic.html#overview",
+    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
     "section": "Overview",
-    "text": "Overview\nThe dataset supports the study of radio frequency fingerprinting identification (RFFI) for detecting device impersonation in Wi-Fi networks. Signals are emulated using GNU Radio with device-specific hardware impairments including CFO and IQ imbalance, along with basic channel effects. Each legitimate device has a unique hardware fingerprint, while attacker devices share the MAC address of their target legitimate device while retaining distinct hardware characteristics."
+    "text": "Overview\nThe dataset supports the study of radio frequency fingerprinting identification (RFFI) for detecting device impersonation in Wi-Fi networks. Signals are generated at the bit level using 16-QAM and OFDM modulation, with device-specific hardware impairments including CFO, IQ imbalance, phase noise, and non-linear distortions. Transmission effects are simulated using additive white Gaussian noise and Rayleigh fading channels."
   },
   {
-    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#what-is-included",
-    "href": "resources/wifi-rffi-protocol-level-emulated.html#what-is-included",
-    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
+    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#what-is-included",
+    "href": "resources/wifi-rffi-signal-level-synthetic.html#what-is-included",
+    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
     "section": "What is included",
-    "text": "What is included\n\nIQ traces for 4 legitimate devices\nIQ traces for 4 attacker devices, each impersonating a corresponding legitimate device\nhardware impairments: CFO and IQ imbalance\nchannel effects: basic propagation simulation via GNU Radio\nscripts/analyze.py for feature extraction and XGBoost-based device classification"
+    "text": "What is included\n\nIQ traces for 4 legitimate devices under data/legitimate/\nIQ traces for 4 attacker devices under data/attacker/, each impersonating a corresponding legitimate device\nhardware impairments: CFO, IQ imbalance, phase noise, non-linear distortion\nchannel effects: AWGN and Rayleigh fading\nscripts/analyze.py for feature extraction and XGBoost-based device classification"
   },
   {
-    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#dataset-context",
-    "href": "resources/wifi-rffi-protocol-level-emulated.html#dataset-context",
-    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
+    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#dataset-context",
+    "href": "resources/wifi-rffi-signal-level-synthetic.html#dataset-context",
+    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
     "section": "Dataset context",
-    "text": "Dataset context\nEach .npy file contains complex64 IQ samples with a packet length of 3840 samples. The dataset was generated to evaluate unsupervised anomaly detection for Wi-Fi impersonation attacks at the protocol level, complementing the signal-level synthetic dataset.\n\n\n\nFile\nType\nPackets\n\n\n\n\nlegitimate_device_01.npy\nLegitimate\n7919\n\n\nlegitimate_device_02.npy\nLegitimate\n8299\n\n\nlegitimate_device_03.npy\nLegitimate\n7595\n\n\nlegitimate_device_04.npy\nLegitimate\n8854\n\n\nattacker_device_05_impersonates_01.npy\nAttacker\n1351\n\n\nattacker_device_06_impersonates_02.npy\nAttacker\n1167\n\n\nattacker_device_07_impersonates_03.npy\nAttacker\n1630\n\n\nattacker_device_08_impersonates_04.npy\nAttacker\n1999"
+    "text": "Dataset context\nThe dataset was generated to evaluate unsupervised anomaly detection for Wi-Fi impersonation attacks. Each legitimate device has unique hardware fingerprint parameters assigned via a separable parameter grid. Attacker devices share the MAC address of their target legitimate device while retaining distinct hardware characteristics, simulating realistic impersonation scenarios.\nEach .npy file contains 1000 signal samples per device with shape (1000, signal_length)."
   },
   {
-    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#why-it-matters",
-    "href": "resources/wifi-rffi-protocol-level-emulated.html#why-it-matters",
-    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
+    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#why-it-matters",
+    "href": "resources/wifi-rffi-signal-level-synthetic.html#why-it-matters",
+    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
     "section": "Why it matters",
-    "text": "Why it matters\nThis dataset offers a reproducible setting for evaluating RFFI-based anomaly detection under protocol-level emulation, providing a more realistic benchmark than purely synthetic signal-level data."
+    "text": "Why it matters\nThis dataset offers a reproducible setting for evaluating RFFI-based anomaly detection under controlled hardware impairments and channel conditions."
   },
   {
-    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#access",
-    "href": "resources/wifi-rffi-protocol-level-emulated.html#access",
-    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
+    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#access",
+    "href": "resources/wifi-rffi-signal-level-synthetic.html#access",
+    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
     "section": "Access",
-    "text": "Access\n\nDataset: Zenodo\nDOI: 10.5281/zenodo.20186947\nLicense: CC BY 4.0"
+    "text": "Access\n\nDataset and code: GitHub\nLicense: CC BY 4.0"
   },
   {
-    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#related-publication",
-    "href": "resources/wifi-rffi-protocol-level-emulated.html#related-publication",
-    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
+    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#related-publication",
+    "href": "resources/wifi-rffi-signal-level-synthetic.html#related-publication",
+    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
     "section": "Related publication",
     "text": "Related publication\n\nX. Li, S. Lahoud, N. Zincir-Heywood, Unsupervised Anomaly Detection for Wi-Fi Networks using RFFI. 2025 21st International Conference on Network and Service Management (CNSM). DOI"
   },
   {
-    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#example-result",
-    "href": "resources/wifi-rffi-protocol-level-emulated.html#example-result",
-    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
+    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#example-result",
+    "href": "resources/wifi-rffi-signal-level-synthetic.html#example-result",
+    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
     "section": "Example result",
-    "text": "Example result\n\n\n\nConfusion matrix preview\n\n\nThis preview shows the XGBoost classification confusion matrix on the protocol-level emulated dataset, illustrating the separability of device-specific RF fingerprints across legitimate and attacker devices."
+    "text": "Example result\n\n\n\nConfusion matrix preview\n\n\nThis preview shows the XGBoost classification confusion matrix on the synthetic dataset, illustrating the separability of device-specific RF fingerprints across legitimate and attacker devices."
   },
   {
-    "objectID": "resources/wifi-rffi-protocol-level-emulated.html#citation",
-    "href": "resources/wifi-rffi-protocol-level-emulated.html#citation",
-    "title": "Wi-Fi RFFI Protocol-Level Emulated Traces",
+    "objectID": "resources/wifi-rffi-signal-level-synthetic.html#citation",
+    "href": "resources/wifi-rffi-signal-level-synthetic.html#citation",
+    "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
     "section": "Citation",
     "text": "Citation\nIf you use this resource, please cite the related publication above."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This simplified page captures the main research themes from the current site and lab materials."
+  },
+  {
+    "objectID": "research.html#lpwan-radio-propagation",
+    "href": "research.html#lpwan-radio-propagation",
+    "title": "Research",
+    "section": "1. LPWAN Radio Propagation",
+    "text": "1. LPWAN Radio Propagation\nWe studied radio propagation in the sub-GHz band through indoor, outdoor, urban, and rural measurement campaigns. This work produced path loss models tailored to LoRaWAN and helped improve realistic coverage estimation in low power wide area deployments."
+  },
+  {
+    "objectID": "research.html#lpwan-performance-and-reliability",
+    "href": "research.html#lpwan-performance-and-reliability",
+    "title": "Research",
+    "section": "2. LPWAN Performance and Reliability",
+    "text": "2. LPWAN Performance and Reliability\nOur work on LoRaWAN and related LPWAN technologies focuses on:\n\nspreading factor selection\nmulti-gateway optimization\nenergy efficiency\nreinforcement learning for autonomous configuration\nmulti-operator coexistence\n\nThis line of work combines optimization, simulation, and machine learning to improve scalability in dense deployments."
+  },
+  {
+    "objectID": "research.html#full-duplex-wireless-communications",
+    "href": "research.html#full-duplex-wireless-communications",
+    "title": "Research",
+    "section": "3. Full-Duplex Wireless Communications",
+    "text": "3. Full-Duplex Wireless Communications\nWe studied scheduling and power allocation in full-duplex wireless systems, showing how careful radio resource management can significantly improve throughput and reduce delay. This research includes queue-aware scheduling, reinforcement learning approaches, and multi-cell resource allocation."
+  },
+  {
+    "objectID": "research.html#game-theoretic-wireless-networks",
+    "href": "research.html#game-theoretic-wireless-networks",
+    "title": "Research",
+    "section": "4. Game-Theoretic Wireless Networks",
+    "text": "4. Game-Theoretic Wireless Networks\nWe used game-theoretic models to study how network entities make resource allocation decisions in settings such as:\n\nspectrum allocation\nuser association\npower control\nnetwork slicing\nfederated learning on constrained IoT devices\n\nThese models help explain distributed behavior and guide efficient algorithm design."
+  },
+  {
+    "objectID": "research.html#dissemination-and-training",
+    "href": "research.html#dissemination-and-training",
+    "title": "Research",
+    "section": "5. Dissemination and Training",
+    "text": "5. Dissemination and Training\nThis research program has also included tutorials, keynotes, joint educational initiatives, and public outreach activities in IoT and wireless systems."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to get in touch."
+  },
+  {
+    "objectID": "contact.html#office",
+    "href": "contact.html#office",
+    "title": "Contact",
+    "section": "Office",
+    "text": "Office\nFaculty of Computer Science\nGoldberg Computer Science Building\n6050 University Avenue\nHalifax, Nova Scotia, Canada"
+  },
+  {
+    "objectID": "resources/contribute.html",
+    "href": "resources/contribute.html",
+    "title": "Contributing Resources",
+    "section": "",
+    "text": "Students and lab members can contribute new resources by describing their datasets, scripts, notebooks, or reproducibility material in this repository:\nhttps://github.com/samerlahoud/spark-lab-site\nStart with an artifact description under artifacts/. Add a public page under resources/ when the material is ready to appear on the website."
+  },
+  {
+    "objectID": "resources/contribute.html#recommended-structure",
+    "href": "resources/contribute.html#recommended-structure",
+    "title": "Contributing Resources",
+    "section": "Recommended structure",
+    "text": "Recommended structure\nartifacts/\n  artifact-slug/\n    metadata.yml\n    README.md\n    preview.png\n    scripts/\n    data/\n\nresources/\n  artifact-slug.qmd\nUse a short lowercase slug for the folder and page name, with words separated by hyphens. For example, use lorawan-measurements-lebanon instead of a long title with spaces."
+  },
+  {
+    "objectID": "resources/contribute.html#what-to-include",
+    "href": "resources/contribute.html#what-to-include",
+    "title": "Contributing Resources",
+    "section": "What to include",
+    "text": "What to include\n\nmetadata.yml: basic structured information for the artifact\nREADME.md: a human-readable description and usage notes\npreview.png: one representative figure, screenshot, or result\nscripts/: code, notebooks, or helper material\ndata/: only small example files if appropriate\n\nLarge datasets should usually be hosted elsewhere and linked from the metadata and README.\nFor datasets, describe:\n\nwhat the data contains\nhow it was collected or generated\nfile formats and important columns or fields\nexpected size and whether the full data is stored elsewhere\nhow someone should cite or acknowledge the dataset\n\nFor scripts or notebooks, describe:\n\nwhat the script does\nrequired software, packages, or input files\nhow to run it\nexpected outputs\nany limitations, assumptions, or known issues"
+  },
+  {
+    "objectID": "resources/contribute.html#minimum-metadata",
+    "href": "resources/contribute.html#minimum-metadata",
+    "title": "Contributing Resources",
+    "section": "Minimum metadata",
+    "text": "Minimum metadata\ntitle: \"Artifact title\"\nsummary: \"One-sentence description.\"\nauthors:\n  - \"Student Name\"\n  - \"Samer Lahoud\"\nyear: 2026\nstatus: \"public\"\npaper_title: \"Related paper title\"\npaper_url: \"https://example.org/paper\"\nartifact_url: \"https://example.org/resource\"\ncode_url: \"https://github.com/example/repo\"\npreview_image: \"preview.png\"\ntags:\n  - LPWAN\n  - Wireless IoT\nmaintainer: \"Student Name\""
+  },
+  {
+    "objectID": "resources/contribute.html#publishing-workflow",
+    "href": "resources/contribute.html#publishing-workflow",
+    "title": "Contributing Resources",
+    "section": "Publishing workflow",
+    "text": "Publishing workflow\n\nClone the repository from GitHub.\n\ngit clone git@github.com:samerlahoud/spark-lab-site.git\ncd spark-lab-site\nIf you do not use SSH with GitHub, clone with HTTPS instead:\ngit clone https://github.com/samerlahoud/spark-lab-site.git\ncd spark-lab-site\n\nCreate a branch for your contribution.\n\ngit checkout -b add-my-resource\n\nAdd a new folder under artifacts/.\n\nartifacts/\n  my-resource-slug/\n    metadata.yml\n    README.md\n    preview.png\n\nFill in metadata.yml and README.md.\nAdd one preview image, figure, screenshot, or representative result.\nIf the resource is ready to be public, add resources/my-resource-slug.qmd.\nAdd the resource to resources/index.qmd so it appears on the Resources page.\nBuild or preview the site locally.\n\nquarto preview\n\nCommit your changes and push the branch.\n\ngit add artifacts/my-resource-slug resources/my-resource-slug.qmd resources/index.qmd\ngit commit -m \"Add resource: short descriptive title\"\ngit push origin add-my-resource\nIf you are only adding the artifact description for now, omit the resources/ files from git add.\n\nOpen a pull request on GitHub.\n\nThis keeps the repository structured while making it easy to review and publish student contributions."
+  },
+  {
+    "objectID": "resources/contribute.html#public-page-checklist",
+    "href": "resources/contribute.html#public-page-checklist",
+    "title": "Contributing Resources",
+    "section": "Public page checklist",
+    "text": "Public page checklist\nThe public page under resources/ should include:\n\na short overview\nwhat is included\naccess or download instructions\na related paper, report, or project if available\none example figure, screenshot, or result\na citation or acknowledgement note if available\n\nIf the material is not ready to publish yet, contribute only the artifacts/ folder first and explain the current state in the pull request."
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This section highlights open research artifacts produced in Spark Lab, including datasets, scripts, reproducibility material, and example results connected to our publications."
+  },
+  {
+    "objectID": "resources/index.html#what-you-will-find-here",
+    "href": "resources/index.html#what-you-will-find-here",
+    "title": "Resources",
+    "section": "What You Will Find Here",
+    "text": "What You Will Find Here\n\n\nOpen artifacts\nPublic datasets, scripts, and reproducibility material released by the lab.\n\n\nResearch context\nEach resource is tied to a paper, project, or experimental contribution.\n\n\nExample outputs\nRepresentative figures or results that help others understand how the artifact can be used."
+  },
+  {
+    "objectID": "resources/index.html#available-resources",
+    "href": "resources/index.html#available-resources",
+    "title": "Resources",
+    "section": "Available Resources",
+    "text": "Available Resources\n\nSemantic Communication for IoT Tutorial\nTutorial material on SemCom for IoT, covering Deep JSCC, distributed semantic encoder training, adaptive runtime operation, and semantic-aware resource allocation. Includes a downloadable handout and a companion Deep JSCC demo repository.\nSemCom IoT Deep JSCC Tutorial\nView resource\n\n\nLoRaWAN Measurement Campaigns in Lebanon\nOpen LoRaWAN propagation measurements collected in indoor, suburban, urban, and rural environments in Lebanon, used to derive path-loss models and evaluate LPWAN coverage.\nLPWAN LoRaWAN Propagation Measurement\nView resource\n\n\nWi-Fi RFFI Signal-Level Synthetic Traces\nSynthetic Wi-Fi signal traces generated at the bit level with hardware impairments, designed for RFFI-based impersonation detection research.\nRFFI Wi-Fi Synthetic Impersonation Detection\nView resource\n\n\nWi-Fi RFFI Protocol-Level Emulated Traces\nProtocol-level emulated Wi-Fi 802.11 signal traces with hardware impairments for RFFI-based impersonation detection.\nRFFI Wi-Fi Emulated Impersonation Detection\nView resource"
+  },
+  {
+    "objectID": "resources/index.html#for-lab-members",
+    "href": "resources/index.html#for-lab-members",
+    "title": "Resources",
+    "section": "For Lab Members",
+    "text": "For Lab Members\nTeam members can contribute new datasets, scripts, notebooks, and reproducibility material through the GitHub repository:\nhttps://github.com/samerlahoud/spark-lab-site\nStart by describing the material in a new folder under artifacts/. When the material is ready for the public website, add a matching page under resources/ and link it from this page.\nContribution guide"
+  },
+  {
+    "objectID": "resources/semcom-iot-tutorial.html",
+    "href": "resources/semcom-iot-tutorial.html",
+    "title": "Semantic Communication for IoT Tutorial",
+    "section": "",
+    "text": "This resource gathers tutorial material on semantic communication for Internet of Things deployments, with emphasis on Deep Joint Source-Channel Coding, distributed learning, adaptive runtime operation, and semantic-aware radio resource management."
+  },
+  {
+    "objectID": "resources/semcom-iot-tutorial.html#overview",
+    "href": "resources/semcom-iot-tutorial.html#overview",
+    "title": "Semantic Communication for IoT Tutorial",
+    "section": "Overview",
+    "text": "Overview\nSemantic communication shifts the design objective from transmitting bit-perfect messages to delivering task-relevant meaning. For IoT systems, this shift is especially useful when devices operate under tight constraints on bandwidth, latency, energy, computation, and connectivity.\nThe tutorial starts from centralized semantic communication models and then moves toward distributed, resource-constrained IoT deployments. It connects the foundations of Deep JSCC with practical questions around federated learning, split learning, runtime adaptation, and resource allocation."
+  },
+  {
+    "objectID": "resources/semcom-iot-tutorial.html#tutorial-material",
+    "href": "resources/semcom-iot-tutorial.html#tutorial-material",
+    "title": "Semantic Communication for IoT Tutorial",
+    "section": "Tutorial Material",
+    "text": "Tutorial Material\n\nTutorial handout: Semantic Communication for IoT\nDemo repository: samerlahoud/deep-jscc-demo\nColab notebook: Open the Deep JSCC demo in Colab"
+  },
+  {
+    "objectID": "resources/semcom-iot-tutorial.html#what-the-tutorial-covers",
+    "href": "resources/semcom-iot-tutorial.html#what-the-tutorial-covers",
+    "title": "Semantic Communication for IoT Tutorial",
+    "section": "What the Tutorial Covers",
+    "text": "What the Tutorial Covers\n\nfoundations of semantic and task-oriented communication\nDeep JSCC architectures for wireless image and sensor transmission\nevaluation metrics for semantic encoders and decoders\nfederated and split learning for SemCom in heterogeneous IoT systems\nadaptive SemCom operation under changing channel and device conditions\nsemantic-aware scheduling, link adaptation, and resource allocation\nopen challenges around reliability, privacy, fairness, robustness, and standardization"
+  },
+  {
+    "objectID": "resources/semcom-iot-tutorial.html#hands-on-component",
+    "href": "resources/semcom-iot-tutorial.html#hands-on-component",
+    "title": "Semantic Communication for IoT Tutorial",
+    "section": "Hands-On Component",
+    "text": "Hands-On Component\nThe Deep JSCC demo provides a compact PyTorch implementation for wireless image transmission over noisy channels. It is designed for tutorial use and can support two short demonstrations:\n\nchannel noise and graceful degradation across test SNR values\nrate-distortion behavior as the bandwidth ratio changes\n\nThe repository includes training and evaluation scripts, AWGN and Rayleigh channel models, PSNR and SSIM metrics, reconstruction-grid visualizations, and a quick mode suitable for live demonstrations."
+  },
+  {
+    "objectID": "resources/semcom-iot-tutorial.html#learning-outcomes",
+    "href": "resources/semcom-iot-tutorial.html#learning-outcomes",
+    "title": "Semantic Communication for IoT Tutorial",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nAfter working through the material, participants should be able to:\n\nexplain how semantic communication differs from bit-centric communication\nidentify IoT scenarios where task-oriented transmission can provide practical value\nchoose suitable metrics for SemCom-over-wireless experiments\ncompare centralized, federated, and split learning designs for semantic encoders\nformulate resource management objectives that account for semantic quality, latency, and energy"
+  },
+  {
+    "objectID": "resources/semcom-iot-tutorial.html#intended-audience",
+    "href": "resources/semcom-iot-tutorial.html#intended-audience",
+    "title": "Semantic Communication for IoT Tutorial",
+    "section": "Intended Audience",
+    "text": "Intended Audience\nThis material is intended for researchers, graduate students, and professionals working in wireless communications, networking, edge intelligence, machine learning, and AI-native IoT systems. Familiarity with wireless networks and basic machine learning concepts is helpful, but the tutorial is structured around system-level design ideas rather than detailed mathematical derivations."
   },
   {
     "objectID": "index.html",

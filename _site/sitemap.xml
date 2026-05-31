@@ -6,30 +6,14 @@
   </url>
   <url>
     <loc>https://samer.lahoud.fr/publications.html</loc>
-    <lastmod>2026-05-15T17:33:33.316Z</lastmod>
+    <lastmod>2026-05-31T17:36:22.203Z</lastmod>
   </url>
   <url>
     <loc>https://samer.lahoud.fr/lab.html</loc>
     <lastmod>2026-05-01T12:23:48.502Z</lastmod>
   </url>
   <url>
-    <loc>https://samer.lahoud.fr/resources/index.html</loc>
-    <lastmod>2026-05-15T17:32:13.103Z</lastmod>
-  </url>
-  <url>
-    <loc>https://samer.lahoud.fr/resources/contribute.html</loc>
-    <lastmod>2026-05-01T12:43:36.392Z</lastmod>
-  </url>
-  <url>
-    <loc>https://samer.lahoud.fr/contact.html</loc>
-    <lastmod>2026-05-01T12:23:48.498Z</lastmod>
-  </url>
-  <url>
-    <loc>https://samer.lahoud.fr/research.html</loc>
-    <lastmod>2026-05-01T12:23:48.505Z</lastmod>
-  </url>
-  <url>
-    <loc>https://samer.lahoud.fr/resources/wifi-rffi-signal-level-synthetic.html</loc>
+    <loc>https://samer.lahoud.fr/resources/wifi-rffi-protocol-level-emulated.html</loc>
     <lastmod>2026-05-15T17:32:13.104Z</lastmod>
   </url>
   <url>
@@ -37,8 +21,28 @@
     <lastmod>2026-05-01T12:23:48.507Z</lastmod>
   </url>
   <url>
-    <loc>https://samer.lahoud.fr/resources/wifi-rffi-protocol-level-emulated.html</loc>
+    <loc>https://samer.lahoud.fr/resources/wifi-rffi-signal-level-synthetic.html</loc>
     <lastmod>2026-05-15T17:32:13.104Z</lastmod>
+  </url>
+  <url>
+    <loc>https://samer.lahoud.fr/research.html</loc>
+    <lastmod>2026-05-01T12:23:48.505Z</lastmod>
+  </url>
+  <url>
+    <loc>https://samer.lahoud.fr/contact.html</loc>
+    <lastmod>2026-05-01T12:23:48.498Z</lastmod>
+  </url>
+  <url>
+    <loc>https://samer.lahoud.fr/resources/contribute.html</loc>
+    <lastmod>2026-05-01T12:43:36.392Z</lastmod>
+  </url>
+  <url>
+    <loc>https://samer.lahoud.fr/resources/index.html</loc>
+    <lastmod>2026-05-31T15:55:38.034Z</lastmod>
+  </url>
+  <url>
+    <loc>https://samer.lahoud.fr/resources/semcom-iot-tutorial.html</loc>
+    <lastmod>2026-05-31T15:55:29.941Z</lastmod>
   </url>
   <url>
     <loc>https://samer.lahoud.fr/index.html</loc>

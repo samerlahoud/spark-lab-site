@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Resources – Samer Lahoud</title>
+<title>Semantic Communication for IoT Tutorial – Samer Lahoud</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Spark Lab</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../resources/index.html" aria-current="page"> 
+    <a class="nav-link" href="../resources/index.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
@@ -132,15 +132,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#what-you-will-find-here" id="toc-what-you-will-find-here" class="nav-link active" data-scroll-target="#what-you-will-find-here">What You Will Find Here</a></li>
-  <li><a href="#available-resources" id="toc-available-resources" class="nav-link" data-scroll-target="#available-resources">Available Resources</a>
-  <ul class="collapse">
-  <li><a href="#semantic-communication-for-iot-tutorial" id="toc-semantic-communication-for-iot-tutorial" class="nav-link" data-scroll-target="#semantic-communication-for-iot-tutorial">Semantic Communication for IoT Tutorial</a></li>
-  <li><a href="#lorawan-measurement-campaigns-in-lebanon" id="toc-lorawan-measurement-campaigns-in-lebanon" class="nav-link" data-scroll-target="#lorawan-measurement-campaigns-in-lebanon">LoRaWAN Measurement Campaigns in Lebanon</a></li>
-  <li><a href="#wi-fi-rffi-signal-level-synthetic-traces" id="toc-wi-fi-rffi-signal-level-synthetic-traces" class="nav-link" data-scroll-target="#wi-fi-rffi-signal-level-synthetic-traces">Wi-Fi RFFI Signal-Level Synthetic Traces</a></li>
-  <li><a href="#wi-fi-rffi-protocol-level-emulated-traces" id="toc-wi-fi-rffi-protocol-level-emulated-traces" class="nav-link" data-scroll-target="#wi-fi-rffi-protocol-level-emulated-traces">Wi-Fi RFFI Protocol-Level Emulated Traces</a></li>
-  </ul></li>
-  <li><a href="#for-lab-members" id="toc-for-lab-members" class="nav-link" data-scroll-target="#for-lab-members">For Lab Members</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#tutorial-material" id="toc-tutorial-material" class="nav-link" data-scroll-target="#tutorial-material">Tutorial Material</a></li>
+  <li><a href="#what-the-tutorial-covers" id="toc-what-the-tutorial-covers" class="nav-link" data-scroll-target="#what-the-tutorial-covers">What the Tutorial Covers</a></li>
+  <li><a href="#hands-on-component" id="toc-hands-on-component" class="nav-link" data-scroll-target="#hands-on-component">Hands-On Component</a></li>
+  <li><a href="#learning-outcomes" id="toc-learning-outcomes" class="nav-link" data-scroll-target="#learning-outcomes">Learning Outcomes</a></li>
+  <li><a href="#intended-audience" id="toc-intended-audience" class="nav-link" data-scroll-target="#intended-audience">Intended Audience</a></li>
   </ul>
 </nav>
     </div>
@@ -149,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Resources</h1>
+<h1 class="title">Semantic Communication for IoT Tutorial</h1>
 </div>
 
 
@@ -166,60 +163,55 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This section highlights open research artifacts produced in Spark Lab, including datasets, scripts, reproducibility material, and example results connected to our publications.</p>
-<div class="resource-intro">
-<p>These resources are meant to support reuse, reproducibility, and follow-up research. Each entry is designed to connect an artifact to the paper, measurements, scripts, or outputs that make the work easier to understand and build on.</p>
-</div>
-<section id="what-you-will-find-here" class="level2">
-<h2 class="anchored" data-anchor-id="what-you-will-find-here">What You Will Find Here</h2>
-<div class="resource-pillars">
-<section id="open-artifacts" class="level3 resource-pillar">
-<h3 class="anchored" data-anchor-id="open-artifacts">Open artifacts</h3>
-<p>Public datasets, scripts, and reproducibility material released by the lab.</p>
+<p>This resource gathers tutorial material on semantic communication for Internet of Things deployments, with emphasis on Deep Joint Source-Channel Coding, distributed learning, adaptive runtime operation, and semantic-aware radio resource management.</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>Semantic communication shifts the design objective from transmitting bit-perfect messages to delivering task-relevant meaning. For IoT systems, this shift is especially useful when devices operate under tight constraints on bandwidth, latency, energy, computation, and connectivity.</p>
+<p>The tutorial starts from centralized semantic communication models and then moves toward distributed, resource-constrained IoT deployments. It connects the foundations of Deep JSCC with practical questions around federated learning, split learning, runtime adaptation, and resource allocation.</p>
 </section>
-<section id="research-context" class="level3 resource-pillar">
-<h3 class="anchored" data-anchor-id="research-context">Research context</h3>
-<p>Each resource is tied to a paper, project, or experimental contribution.</p>
+<section id="tutorial-material" class="level2">
+<h2 class="anchored" data-anchor-id="tutorial-material">Tutorial Material</h2>
+<ul>
+<li>Tutorial handout: <a href="files/SemCom_tutorial.pdf">Semantic Communication for IoT</a></li>
+<li>Demo repository: <a href="https://github.com/samerlahoud/deep-jscc-demo">samerlahoud/deep-jscc-demo</a></li>
+<li>Colab notebook: <a href="https://colab.research.google.com/github/samerlahoud/deep-jscc-demo/blob/main/notebooks/demo.ipynb">Open the Deep JSCC demo in Colab</a></li>
+</ul>
 </section>
-<section id="example-outputs" class="level3 resource-pillar">
-<h3 class="anchored" data-anchor-id="example-outputs">Example outputs</h3>
-<p>Representative figures or results that help others understand how the artifact can be used.</p>
+<section id="what-the-tutorial-covers" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-tutorial-covers">What the Tutorial Covers</h2>
+<ul>
+<li>foundations of semantic and task-oriented communication</li>
+<li>Deep JSCC architectures for wireless image and sensor transmission</li>
+<li>evaluation metrics for semantic encoders and decoders</li>
+<li>federated and split learning for SemCom in heterogeneous IoT systems</li>
+<li>adaptive SemCom operation under changing channel and device conditions</li>
+<li>semantic-aware scheduling, link adaptation, and resource allocation</li>
+<li>open challenges around reliability, privacy, fairness, robustness, and standardization</li>
+</ul>
 </section>
-</div>
+<section id="hands-on-component" class="level2">
+<h2 class="anchored" data-anchor-id="hands-on-component">Hands-On Component</h2>
+<p>The Deep JSCC demo provides a compact PyTorch implementation for wireless image transmission over noisy channels. It is designed for tutorial use and can support two short demonstrations:</p>
+<ul>
+<li>channel noise and graceful degradation across test SNR values</li>
+<li>rate-distortion behavior as the bandwidth ratio changes</li>
+</ul>
+<p>The repository includes training and evaluation scripts, AWGN and Rayleigh channel models, PSNR and SSIM metrics, reconstruction-grid visualizations, and a quick mode suitable for live demonstrations.</p>
 </section>
-<section id="available-resources" class="level2">
-<h2 class="anchored" data-anchor-id="available-resources">Available Resources</h2>
-<section id="semantic-communication-for-iot-tutorial" class="level3 resource-card">
-<h3 class="anchored" data-anchor-id="semantic-communication-for-iot-tutorial"><a href="../resources/semcom-iot-tutorial.html">Semantic Communication for IoT Tutorial</a></h3>
-<p>Tutorial material on SemCom for IoT, covering Deep JSCC, distributed semantic encoder training, adaptive runtime operation, and semantic-aware resource allocation. Includes a downloadable handout and a companion Deep JSCC demo repository.</p>
-<p><code>SemCom</code> <code>IoT</code> <code>Deep JSCC</code> <code>Tutorial</code></p>
-<p><a href="../resources/semcom-iot-tutorial.html">View resource</a></p>
+<section id="learning-outcomes" class="level2">
+<h2 class="anchored" data-anchor-id="learning-outcomes">Learning Outcomes</h2>
+<p>After working through the material, participants should be able to:</p>
+<ul>
+<li>explain how semantic communication differs from bit-centric communication</li>
+<li>identify IoT scenarios where task-oriented transmission can provide practical value</li>
+<li>choose suitable metrics for SemCom-over-wireless experiments</li>
+<li>compare centralized, federated, and split learning designs for semantic encoders</li>
+<li>formulate resource management objectives that account for semantic quality, latency, and energy</li>
+</ul>
 </section>
-<section id="lorawan-measurement-campaigns-in-lebanon" class="level3 resource-card">
-<h3 class="anchored" data-anchor-id="lorawan-measurement-campaigns-in-lebanon"><a href="../resources/lorawan-measurements-lebanon.html">LoRaWAN Measurement Campaigns in Lebanon</a></h3>
-<p>Open LoRaWAN propagation measurements collected in indoor, suburban, urban, and rural environments in Lebanon, used to derive path-loss models and evaluate LPWAN coverage.</p>
-<p><code>LPWAN</code> <code>LoRaWAN</code> <code>Propagation</code> <code>Measurement</code></p>
-<p><a href="../resources/lorawan-measurements-lebanon.html">View resource</a></p>
-</section>
-<section id="wi-fi-rffi-signal-level-synthetic-traces" class="level3 resource-card">
-<h3 class="anchored" data-anchor-id="wi-fi-rffi-signal-level-synthetic-traces"><a href="../resources/wifi-rffi-signal-level-synthetic.html">Wi-Fi RFFI Signal-Level Synthetic Traces</a></h3>
-<p>Synthetic Wi-Fi signal traces generated at the bit level with hardware impairments, designed for RFFI-based impersonation detection research.</p>
-<p><code>RFFI</code> <code>Wi-Fi</code> <code>Synthetic</code> <code>Impersonation Detection</code></p>
-<p><a href="../resources/wifi-rffi-signal-level-synthetic.html">View resource</a></p>
-</section>
-<section id="wi-fi-rffi-protocol-level-emulated-traces" class="level3 resource-card">
-<h3 class="anchored" data-anchor-id="wi-fi-rffi-protocol-level-emulated-traces"><a href="../resources/wifi-rffi-protocol-level-emulated.html">Wi-Fi RFFI Protocol-Level Emulated Traces</a></h3>
-<p>Protocol-level emulated Wi-Fi 802.11 signal traces with hardware impairments for RFFI-based impersonation detection.</p>
-<p><code>RFFI</code> <code>Wi-Fi</code> <code>Emulated</code> <code>Impersonation Detection</code></p>
-<p><a href="../resources/wifi-rffi-protocol-level-emulated.html">View resource</a></p>
-</section>
-</section>
-<section id="for-lab-members" class="level2">
-<h2 class="anchored" data-anchor-id="for-lab-members">For Lab Members</h2>
-<p>Team members can contribute new datasets, scripts, notebooks, and reproducibility material through the GitHub repository:</p>
-<p><a href="https://github.com/samerlahoud/spark-lab-site">https://github.com/samerlahoud/spark-lab-site</a></p>
-<p>Start by describing the material in a new folder under <code>artifacts/</code>. When the material is ready for the public website, add a matching page under <code>resources/</code> and link it from this page.</p>
-<p><a href="../resources/contribute.html">Contribution guide</a></p>
+<section id="intended-audience" class="level2">
+<h2 class="anchored" data-anchor-id="intended-audience">Intended Audience</h2>
+<p>This material is intended for researchers, graduate students, and professionals working in wireless communications, networking, edge intelligence, machine learning, and AI-native IoT systems. Familiarity with wireless networks and basic machine learning concepts is helpful, but the tutorial is structured around system-level design ideas rather than detailed mathematical derivations.</p>
 
 
 </section>

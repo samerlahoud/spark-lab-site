@@ -33,6 +33,16 @@ Representative figures or results that help others understand how the artifact c
 ## Available Resources
 
 ::: {.resource-card}
+### [Semantic Communication for IoT Tutorial](semcom-iot-tutorial.qmd)
+
+Tutorial material on SemCom for IoT, covering Deep JSCC, distributed semantic encoder training, adaptive runtime operation, and semantic-aware resource allocation. Includes a downloadable handout and a companion Deep JSCC demo repository.
+
+`SemCom` `IoT` `Deep JSCC` `Tutorial`
+
+[View resource](semcom-iot-tutorial.qmd)
+:::
+
+::: {.resource-card}
 ### [LoRaWAN Measurement Campaigns in Lebanon](lorawan-measurements-lebanon.qmd)
 
 Open LoRaWAN propagation measurements collected in indoor, suburban, urban, and rural environments in Lebanon, used to derive path-loss models and evaluate LPWAN coverage.
