@@ -42,6 +42,11 @@ I lead **Spark Lab** at Dalhousie University, where students and collaborators s
 
 ::: {.news-list}
 ::: {.news-item}
+**May 2026**  `Dataset` `RFFI` `Wi-Fi`  
+New datasets released on the [Resources](resources/index.qmd) page: Wi-Fi RFFI Signal-Level Synthetic Traces and Protocol-Level Emulated Traces, supporting impersonation detection research.
+:::
+
+::: {.news-item}
 **May 2026**  `Tutorial` `IEEE CCECE` `Semantic Communication`  
 I will deliver the tutorial **Semantic Communication for Wireless IoT: Frameworks, Optimization, and Open Challenges** at **IEEE CCECE 2026**. [More details](https://ccece2026.ieee.ca/program/tutorials/)
 :::
