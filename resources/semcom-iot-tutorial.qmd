@@ -4,6 +4,26 @@ title: "Semantic Communication for IoT Tutorial"
 
 This resource gathers tutorial material on semantic communication for Internet of Things deployments, with emphasis on Deep Joint Source-Channel Coding, distributed learning, adaptive runtime operation, and semantic-aware radio resource management.
 
+## Presented At
+
+This tutorial, **"Semantic Communication for the Internet of Things: Frameworks, Optimization, and Open Challenges,"** was delivered at the following venues:
+
+::: {.tutorial-venues}
+::: {.tutorial-venue}
+[![](files/ieee-ccece-2026-logo.png)](https://ccece2026.ieee.ca)
+
+**IEEE CCECE 2026**\
+Montreal, Canada · May 18-20, 2026
+:::
+
+::: {.tutorial-venue}
+[![](files/eucnc-6g-summit-2026-logo.jpg)](https://www.eucnc.eu)
+
+**EuCNC & 6G Summit 2026**\
+Málaga, Spain · 2-5 June 2026
+:::
+:::
+
 ## Overview
 
 Semantic communication shifts the design objective from transmitting bit-perfect messages to delivering task-relevant meaning. For IoT systems, this shift is especially useful when devices operate under tight constraints on bandwidth, latency, energy, computation, and connectivity.
@@ -12,7 +32,7 @@ The tutorial starts from centralized semantic communication models and then move
 
 ## Tutorial Material
 
-- Tutorial handout: [Semantic Communication for IoT](files/SemCom_tutorial.pdf)
+- Tutorial handout: [Semantic Communication for IoT](files/semcom-iot-tutorial-handout.pdf)
 - Demo repository: [samerlahoud/deep-jscc-demo](https://github.com/samerlahoud/deep-jscc-demo)
 - Colab notebook: [Open the Deep JSCC demo in Colab](https://colab.research.google.com/github/samerlahoud/deep-jscc-demo/blob/main/notebooks/demo.ipynb)
 

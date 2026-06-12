@@ -588,6 +588,13 @@
     "text": "This resource gathers tutorial material on semantic communication for Internet of Things deployments, with emphasis on Deep Joint Source-Channel Coding, distributed learning, adaptive runtime operation, and semantic-aware radio resource management."
   },
   {
+    "objectID": "resources/semcom-iot-tutorial.html#presented-at",
+    "href": "resources/semcom-iot-tutorial.html#presented-at",
+    "title": "Semantic Communication for IoT Tutorial",
+    "section": "Presented At",
+    "text": "Presented At\nThis tutorial, “Semantic Communication for the Internet of Things: Frameworks, Optimization, and Open Challenges,” was delivered at the following venues:\n\n\n\nIEEE CCECE 2026\nMontreal, Canada · May 18-20, 2026\n\n\n\nEuCNC & 6G Summit 2026\nMálaga, Spain · 2-5 June 2026"
+  },
+  {
     "objectID": "resources/semcom-iot-tutorial.html#overview",
     "href": "resources/semcom-iot-tutorial.html#overview",
     "title": "Semantic Communication for IoT Tutorial",
