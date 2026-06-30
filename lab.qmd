@@ -31,9 +31,9 @@ The lab combines theory, optimization, measurement, simulation, and learning-bas
 
 - **Nathan Chappe** — Halifax digital twin
 - **Noah Jehanno** — Halifax digital twin
-- **Jonathan Earle** - Meshtastic security
-- **Ekin Deveci** - PQC public monitor 
-- **Mariana Carrillo Holguin** - 5G ORAN digital twin
+- **Jonathan Earle** — Meshtastic security
+- **Ekin Deveci** — PQC public monitor 
+- **Mariana Carrillo Holguin** — 5G ORAN digital twin
 
 ## Recent Undergraduate Students
 
