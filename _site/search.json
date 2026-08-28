@@ -392,6 +392,125 @@
     "text": "Citation\nIf you use this resource, please cite the Zenodo dataset and the related publication above."
   },
   {
+    "objectID": "resources/lora-lrfhss-measurement-campaign.html",
+    "href": "resources/lora-lrfhss-measurement-campaign.html",
+    "title": "LoRa and LR-FHSS Measurement Campaign in Halifax",
+    "section": "",
+    "text": "This resource provides open LoRaWAN field measurements collected in Halifax, Nova Scotia, comparing LoRa DR0 with LR-FHSS DR5 and DR6 in the US915 band."
+  },
+  {
+    "objectID": "resources/lora-lrfhss-measurement-campaign.html#overview",
+    "href": "resources/lora-lrfhss-measurement-campaign.html#overview",
+    "title": "LoRa and LR-FHSS Measurement Campaign in Halifax",
+    "section": "Overview",
+    "text": "Overview\nThe dataset supports the experimental study of Long Range Frequency Hopping Spread Spectrum (LR-FHSS) as a physical-layer option for LoRaWAN. It provides a real-world comparison of conventional LoRa DR0 with LR-FHSS DR5 and DR6 in the US915 band, with measurements suitable for packet-reception, propagation, and range analysis."
+  },
+  {
+    "objectID": "resources/lora-lrfhss-measurement-campaign.html#what-is-included",
+    "href": "resources/lora-lrfhss-measurement-campaign.html#what-is-included",
+    "title": "LoRa and LR-FHSS Measurement Campaign in Halifax",
+    "section": "What is included",
+    "text": "What is included\n\na complete measurement dataset in database.db\n7,435 measurement points collected from 5 June to 10 July 2024\nLoRaWAN measurements for LoRa DR0 and LR-FHSS DR5 / DR6\nGPS position, gateway distance, transmit settings, and reception measurements\ndemo.ipynb, a notebook showing how to load and explore the data"
+  },
+  {
+    "objectID": "resources/lora-lrfhss-measurement-campaign.html#measurement-context",
+    "href": "resources/lora-lrfhss-measurement-campaign.html#measurement-context",
+    "title": "LoRa and LR-FHSS Measurement Campaign in Halifax",
+    "section": "Measurement context",
+    "text": "Measurement context\nThe campaign was designed to compare LoRa and LR-FHSS under the same deployment conditions. A fixed gateway at Dalhousie University received packets from a mobile transmitter carried through urban and suburban areas of Halifax.\nMeasurements were collected from 5 June to 10 July 2024 while walking through the city. The resulting dataset contains 7,435 measurement points over about 85 km, covering dense urban streets as well as more open suburban environments.\nThe transmitting node used a Semtech LR1110MB1LCKS board mounted on a NUCLEO-L476RG microcontroller, while a Raspberry Pi logged packet information and combined it with GPS coordinates from a smartphone.\nThe receiving gateway was a Kerlink Wirnet iBTS installed on the roof of the Goldberg building at Dalhousie University, approximately 12 m above ground level and 60 m above sea level. This distinction is relevant when interpreting measurements across the Halifax Peninsula, where both local building height and terrain elevation contribute to the gateway geometry. Packets were transmitted every 10 s at 22 dBm with a 4-byte LoRaWAN payload.\nThe campaign alternated the following data-rate configurations:\n\n\n\nData rate\nModulation\nConfiguration\nCoding rate\n\n\n\n\nDR0\nLoRa\nSF10, 125 kHz\n4/5\n\n\nDR5\nLR-FHSS\n1.523 MHz\n1/3\n\n\nDR6\nLR-FHSS\n1.523 MHz\n2/3"
+  },
+  {
+    "objectID": "resources/lora-lrfhss-measurement-campaign.html#why-it-matters",
+    "href": "resources/lora-lrfhss-measurement-campaign.html#why-it-matters",
+    "title": "LoRa and LR-FHSS Measurement Campaign in Halifax",
+    "section": "Why it matters",
+    "text": "Why it matters\nThis campaign provides a common real-world basis for comparing LoRa and LR-FHSS under the same deployment conditions. The measurements support analyses of packet reception, propagation, and range across the Halifax Peninsula and surrounding urban and suburban environments, and can be reused for model validation and future LPWAN studies."
+  },
+  {
+    "objectID": "resources/lora-lrfhss-measurement-campaign.html#access",
+    "href": "resources/lora-lrfhss-measurement-campaign.html#access",
+    "title": "LoRa and LR-FHSS Measurement Campaign in Halifax",
+    "section": "Access",
+    "text": "Access\n\nDataset and code: GitHub\nLicense: MIT"
+  },
+  {
+    "objectID": "resources/lora-lrfhss-measurement-campaign.html#related-publication",
+    "href": "resources/lora-lrfhss-measurement-campaign.html#related-publication",
+    "title": "LoRa and LR-FHSS Measurement Campaign in Halifax",
+    "section": "Related publication",
+    "text": "Related publication\n\nA. Delplace, S. Lahoud, K. Khawam, Exploring LR-FHSS Modulation for Enhanced IoT Connectivity: A Measurement Campaign. 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall), pp. 1–7, 2025. DOI"
+  },
+  {
+    "objectID": "resources/lora-lrfhss-measurement-campaign.html#example-result",
+    "href": "resources/lora-lrfhss-measurement-campaign.html#example-result",
+    "title": "LoRa and LR-FHSS Measurement Campaign in Halifax",
+    "section": "Example result",
+    "text": "Example result\n\n\n\nPacket reception rate versus gateway distance\n\n\nThis preview illustrates LR-FHSS surpassing LoRa with DR5 across the measured distance range, while DR6 provides the corresponding comparison at the higher LR-FHSS coding rate."
+  },
+  {
+    "objectID": "resources/lora-lrfhss-measurement-campaign.html#citation",
+    "href": "resources/lora-lrfhss-measurement-campaign.html#citation",
+    "title": "LoRa and LR-FHSS Measurement Campaign in Halifax",
+    "section": "Citation",
+    "text": "Citation\nIf you use this resource, please cite the related publication above and acknowledge the public dataset repository."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to get in touch."
+  },
+  {
+    "objectID": "contact.html#office",
+    "href": "contact.html#office",
+    "title": "Contact",
+    "section": "Office",
+    "text": "Office\nFaculty of Computer Science\nGoldberg Computer Science Building\n6050 University Avenue\nHalifax, Nova Scotia, Canada"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This simplified page captures the main research themes from the current site and lab materials."
+  },
+  {
+    "objectID": "research.html#lpwan-radio-propagation",
+    "href": "research.html#lpwan-radio-propagation",
+    "title": "Research",
+    "section": "1. LPWAN Radio Propagation",
+    "text": "1. LPWAN Radio Propagation\nWe studied radio propagation in the sub-GHz band through indoor, outdoor, urban, and rural measurement campaigns. This work produced path loss models tailored to LoRaWAN and helped improve realistic coverage estimation in low power wide area deployments."
+  },
+  {
+    "objectID": "research.html#lpwan-performance-and-reliability",
+    "href": "research.html#lpwan-performance-and-reliability",
+    "title": "Research",
+    "section": "2. LPWAN Performance and Reliability",
+    "text": "2. LPWAN Performance and Reliability\nOur work on LoRaWAN and related LPWAN technologies focuses on:\n\nspreading factor selection\nmulti-gateway optimization\nenergy efficiency\nreinforcement learning for autonomous configuration\nmulti-operator coexistence\n\nThis line of work combines optimization, simulation, and machine learning to improve scalability in dense deployments."
+  },
+  {
+    "objectID": "research.html#full-duplex-wireless-communications",
+    "href": "research.html#full-duplex-wireless-communications",
+    "title": "Research",
+    "section": "3. Full-Duplex Wireless Communications",
+    "text": "3. Full-Duplex Wireless Communications\nWe studied scheduling and power allocation in full-duplex wireless systems, showing how careful radio resource management can significantly improve throughput and reduce delay. This research includes queue-aware scheduling, reinforcement learning approaches, and multi-cell resource allocation."
+  },
+  {
+    "objectID": "research.html#game-theoretic-wireless-networks",
+    "href": "research.html#game-theoretic-wireless-networks",
+    "title": "Research",
+    "section": "4. Game-Theoretic Wireless Networks",
+    "text": "4. Game-Theoretic Wireless Networks\nWe used game-theoretic models to study how network entities make resource allocation decisions in settings such as:\n\nspectrum allocation\nuser association\npower control\nnetwork slicing\nfederated learning on constrained IoT devices\n\nThese models help explain distributed behavior and guide efficient algorithm design."
+  },
+  {
+    "objectID": "research.html#dissemination-and-training",
+    "href": "research.html#dissemination-and-training",
+    "title": "Research",
+    "section": "5. Dissemination and Training",
+    "text": "5. Dissemination and Training\nThis research program has also included tutorials, keynotes, joint educational initiatives, and public outreach activities in IoT and wireless systems."
+  },
+  {
     "objectID": "resources/wifi-rffi-signal-level-synthetic.html",
     "href": "resources/wifi-rffi-signal-level-synthetic.html",
     "title": "Wi-Fi RFFI Signal-Level Synthetic Traces",
@@ -455,62 +574,6 @@
     "text": "Citation\nIf you use this resource, please cite the related publication above."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "This simplified page captures the main research themes from the current site and lab materials."
-  },
-  {
-    "objectID": "research.html#lpwan-radio-propagation",
-    "href": "research.html#lpwan-radio-propagation",
-    "title": "Research",
-    "section": "1. LPWAN Radio Propagation",
-    "text": "1. LPWAN Radio Propagation\nWe studied radio propagation in the sub-GHz band through indoor, outdoor, urban, and rural measurement campaigns. This work produced path loss models tailored to LoRaWAN and helped improve realistic coverage estimation in low power wide area deployments."
-  },
-  {
-    "objectID": "research.html#lpwan-performance-and-reliability",
-    "href": "research.html#lpwan-performance-and-reliability",
-    "title": "Research",
-    "section": "2. LPWAN Performance and Reliability",
-    "text": "2. LPWAN Performance and Reliability\nOur work on LoRaWAN and related LPWAN technologies focuses on:\n\nspreading factor selection\nmulti-gateway optimization\nenergy efficiency\nreinforcement learning for autonomous configuration\nmulti-operator coexistence\n\nThis line of work combines optimization, simulation, and machine learning to improve scalability in dense deployments."
-  },
-  {
-    "objectID": "research.html#full-duplex-wireless-communications",
-    "href": "research.html#full-duplex-wireless-communications",
-    "title": "Research",
-    "section": "3. Full-Duplex Wireless Communications",
-    "text": "3. Full-Duplex Wireless Communications\nWe studied scheduling and power allocation in full-duplex wireless systems, showing how careful radio resource management can significantly improve throughput and reduce delay. This research includes queue-aware scheduling, reinforcement learning approaches, and multi-cell resource allocation."
-  },
-  {
-    "objectID": "research.html#game-theoretic-wireless-networks",
-    "href": "research.html#game-theoretic-wireless-networks",
-    "title": "Research",
-    "section": "4. Game-Theoretic Wireless Networks",
-    "text": "4. Game-Theoretic Wireless Networks\nWe used game-theoretic models to study how network entities make resource allocation decisions in settings such as:\n\nspectrum allocation\nuser association\npower control\nnetwork slicing\nfederated learning on constrained IoT devices\n\nThese models help explain distributed behavior and guide efficient algorithm design."
-  },
-  {
-    "objectID": "research.html#dissemination-and-training",
-    "href": "research.html#dissemination-and-training",
-    "title": "Research",
-    "section": "5. Dissemination and Training",
-    "text": "5. Dissemination and Training\nThis research program has also included tutorials, keynotes, joint educational initiatives, and public outreach activities in IoT and wireless systems."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Feel free to get in touch."
-  },
-  {
-    "objectID": "contact.html#office",
-    "href": "contact.html#office",
-    "title": "Contact",
-    "section": "Office",
-    "text": "Office\nFaculty of Computer Science\nGoldberg Computer Science Building\n6050 University Avenue\nHalifax, Nova Scotia, Canada"
-  },
-  {
     "objectID": "resources/contribute.html",
     "href": "resources/contribute.html",
     "title": "Contributing Resources",
@@ -571,7 +634,7 @@
     "href": "resources/index.html#available-resources",
     "title": "Resources",
     "section": "Available Resources",
-    "text": "Available Resources\n\nSemantic Communication for IoT Tutorial\nTutorial material on SemCom for IoT, covering Deep JSCC, distributed semantic encoder training, adaptive runtime operation, and semantic-aware resource allocation. Includes a downloadable handout and a companion Deep JSCC demo repository.\nSemCom IoT Deep JSCC Tutorial\nView resource\n\n\nLoRaWAN Measurement Campaigns in Lebanon\nOpen LoRaWAN propagation measurements collected in indoor, suburban, urban, and rural environments in Lebanon, used to derive path-loss models and evaluate LPWAN coverage.\nLPWAN LoRaWAN Propagation Measurement\nView resource\n\n\nWi-Fi RFFI Signal-Level Synthetic Traces\nSynthetic Wi-Fi signal traces generated at the bit level with hardware impairments, designed for RFFI-based impersonation detection research.\nRFFI Wi-Fi Synthetic Impersonation Detection\nView resource\n\n\nWi-Fi RFFI Protocol-Level Emulated Traces\nProtocol-level emulated Wi-Fi 802.11 signal traces with hardware impairments for RFFI-based impersonation detection.\nRFFI Wi-Fi Emulated Impersonation Detection\nView resource"
+    "text": "Available Resources\n\nSemantic Communication for IoT Tutorial\nTutorial material on SemCom for IoT, covering Deep JSCC, distributed semantic encoder training, adaptive runtime operation, and semantic-aware resource allocation. Includes a downloadable handout and a companion Deep JSCC demo repository.\nSemCom IoT Deep JSCC Tutorial\nView resource\n\n\nLoRaWAN Measurement Campaigns in Lebanon\nOpen LoRaWAN propagation measurements collected in indoor, suburban, urban, and rural environments in Lebanon, used to derive path-loss models and evaluate LPWAN coverage.\nLPWAN LoRaWAN Propagation Measurement\nView resource\n\n\nLoRa and LR-FHSS Measurement Campaign in Halifax\nOpen real-world LoRaWAN measurements collected across Halifax, comparing LoRa DR0 with LR-FHSS DR5/DR6 in the US915 band and providing an SQLite dataset plus an analysis notebook.\nLPWAN LoRaWAN LR-FHSS Measurement\nView resource\n\n\nWi-Fi RFFI Signal-Level Synthetic Traces\nSynthetic Wi-Fi signal traces generated at the bit level with hardware impairments, designed for RFFI-based impersonation detection research.\nRFFI Wi-Fi Synthetic Impersonation Detection\nView resource\n\n\nWi-Fi RFFI Protocol-Level Emulated Traces\nProtocol-level emulated Wi-Fi 802.11 signal traces with hardware impairments for RFFI-based impersonation detection.\nRFFI Wi-Fi Emulated Impersonation Detection\nView resource"
   },
   {
     "objectID": "resources/index.html#for-lab-members",

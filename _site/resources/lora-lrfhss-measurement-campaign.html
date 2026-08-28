@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Resources – Samer Lahoud</title>
+<title>LoRa and LR-FHSS Measurement Campaign in Halifax – Samer Lahoud</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Spark Lab</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../resources/index.html" aria-current="page"> 
+    <a class="nav-link" href="../resources/index.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
@@ -132,16 +132,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#what-you-will-find-here" id="toc-what-you-will-find-here" class="nav-link active" data-scroll-target="#what-you-will-find-here">What You Will Find Here</a></li>
-  <li><a href="#available-resources" id="toc-available-resources" class="nav-link" data-scroll-target="#available-resources">Available Resources</a>
-  <ul class="collapse">
-  <li><a href="#semantic-communication-for-iot-tutorial" id="toc-semantic-communication-for-iot-tutorial" class="nav-link" data-scroll-target="#semantic-communication-for-iot-tutorial">Semantic Communication for IoT Tutorial</a></li>
-  <li><a href="#lorawan-measurement-campaigns-in-lebanon" id="toc-lorawan-measurement-campaigns-in-lebanon" class="nav-link" data-scroll-target="#lorawan-measurement-campaigns-in-lebanon">LoRaWAN Measurement Campaigns in Lebanon</a></li>
-  <li><a href="#lora-and-lr-fhss-measurement-campaign-in-halifax" id="toc-lora-and-lr-fhss-measurement-campaign-in-halifax" class="nav-link" data-scroll-target="#lora-and-lr-fhss-measurement-campaign-in-halifax">LoRa and LR-FHSS Measurement Campaign in Halifax</a></li>
-  <li><a href="#wi-fi-rffi-signal-level-synthetic-traces" id="toc-wi-fi-rffi-signal-level-synthetic-traces" class="nav-link" data-scroll-target="#wi-fi-rffi-signal-level-synthetic-traces">Wi-Fi RFFI Signal-Level Synthetic Traces</a></li>
-  <li><a href="#wi-fi-rffi-protocol-level-emulated-traces" id="toc-wi-fi-rffi-protocol-level-emulated-traces" class="nav-link" data-scroll-target="#wi-fi-rffi-protocol-level-emulated-traces">Wi-Fi RFFI Protocol-Level Emulated Traces</a></li>
-  </ul></li>
-  <li><a href="#for-lab-members" id="toc-for-lab-members" class="nav-link" data-scroll-target="#for-lab-members">For Lab Members</a></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#what-is-included" id="toc-what-is-included" class="nav-link" data-scroll-target="#what-is-included">What is included</a></li>
+  <li><a href="#measurement-context" id="toc-measurement-context" class="nav-link" data-scroll-target="#measurement-context">Measurement context</a></li>
+  <li><a href="#why-it-matters" id="toc-why-it-matters" class="nav-link" data-scroll-target="#why-it-matters">Why it matters</a></li>
+  <li><a href="#access" id="toc-access" class="nav-link" data-scroll-target="#access">Access</a></li>
+  <li><a href="#related-publication" id="toc-related-publication" class="nav-link" data-scroll-target="#related-publication">Related publication</a></li>
+  <li><a href="#example-result" id="toc-example-result" class="nav-link" data-scroll-target="#example-result">Example result</a></li>
+  <li><a href="#citation" id="toc-citation" class="nav-link" data-scroll-target="#citation">Citation</a></li>
   </ul>
 </nav>
     </div>
@@ -150,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Resources</h1>
+<h1 class="title">LoRa and LR-FHSS Measurement Campaign in Halifax</h1>
 </div>
 
 
@@ -167,66 +165,89 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This section highlights open research artifacts produced in Spark Lab, including datasets, scripts, reproducibility material, and example results connected to our publications.</p>
-<div class="resource-intro">
-<p>These resources are meant to support reuse, reproducibility, and follow-up research. Each entry is designed to connect an artifact to the paper, measurements, scripts, or outputs that make the work easier to understand and build on.</p>
+<p>This resource provides open LoRaWAN field measurements collected in Halifax, Nova Scotia, comparing LoRa DR0 with LR-FHSS DR5 and DR6 in the <code>US915</code> band.</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>The dataset supports the experimental study of Long Range Frequency Hopping Spread Spectrum (LR-FHSS) as a physical-layer option for LoRaWAN. It provides a real-world comparison of conventional LoRa <code>DR0</code> with LR-FHSS <code>DR5</code> and <code>DR6</code> in the <code>US915</code> band, with measurements suitable for packet-reception, propagation, and range analysis.</p>
+</section>
+<section id="what-is-included" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-included">What is included</h2>
+<ul>
+<li>a complete measurement dataset in <code>database.db</code></li>
+<li><code>7,435</code> measurement points collected from 5 June to 10 July 2024</li>
+<li>LoRaWAN measurements for LoRa <code>DR0</code> and LR-FHSS <code>DR5</code> / <code>DR6</code></li>
+<li>GPS position, gateway distance, transmit settings, and reception measurements</li>
+<li><code>demo.ipynb</code>, a notebook showing how to load and explore the data</li>
+</ul>
+</section>
+<section id="measurement-context" class="level2">
+<h2 class="anchored" data-anchor-id="measurement-context">Measurement context</h2>
+<p>The campaign was designed to compare LoRa and LR-FHSS under the same deployment conditions. A fixed gateway at Dalhousie University received packets from a mobile transmitter carried through urban and suburban areas of Halifax.</p>
+<p>Measurements were collected from 5 June to 10 July 2024 while walking through the city. The resulting dataset contains <code>7,435</code> measurement points over about <code>85 km</code>, covering dense urban streets as well as more open suburban environments.</p>
+<p>The transmitting node used a Semtech LR1110MB1LCKS board mounted on a NUCLEO-L476RG microcontroller, while a Raspberry Pi logged packet information and combined it with GPS coordinates from a smartphone.</p>
+<p>The receiving gateway was a Kerlink Wirnet iBTS installed on the roof of the Goldberg building at Dalhousie University, approximately <code>12 m</code> above ground level and <code>60 m</code> above sea level. This distinction is relevant when interpreting measurements across the Halifax Peninsula, where both local building height and terrain elevation contribute to the gateway geometry. Packets were transmitted every <code>10 s</code> at <code>22 dBm</code> with a <code>4-byte</code> LoRaWAN payload.</p>
+<p>The campaign alternated the following data-rate configurations:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Data rate</th>
+<th>Modulation</th>
+<th>Configuration</th>
+<th>Coding rate</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>DR0</td>
+<td>LoRa</td>
+<td>SF10, 125 kHz</td>
+<td>4/5</td>
+</tr>
+<tr class="even">
+<td>DR5</td>
+<td>LR-FHSS</td>
+<td>1.523 MHz</td>
+<td>1/3</td>
+</tr>
+<tr class="odd">
+<td>DR6</td>
+<td>LR-FHSS</td>
+<td>1.523 MHz</td>
+<td>2/3</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="why-it-matters" class="level2">
+<h2 class="anchored" data-anchor-id="why-it-matters">Why it matters</h2>
+<p>This campaign provides a common real-world basis for comparing LoRa and LR-FHSS under the same deployment conditions. The measurements support analyses of packet reception, propagation, and range across the Halifax Peninsula and surrounding urban and suburban environments, and can be reused for model validation and future LPWAN studies.</p>
+</section>
+<section id="access" class="level2">
+<h2 class="anchored" data-anchor-id="access">Access</h2>
+<ul>
+<li>Dataset and code: <a href="https://github.com/AlexisDel/LoRa-LRFHSS-Measurement-Campaign">GitHub</a></li>
+<li>License: <code>MIT</code></li>
+</ul>
+</section>
+<section id="related-publication" class="level2">
+<h2 class="anchored" data-anchor-id="related-publication">Related publication</h2>
+<ul>
+<li>A. Delplace, S. Lahoud, K. Khawam, <em>Exploring LR-FHSS Modulation for Enhanced IoT Connectivity: A Measurement Campaign</em>. 2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall), pp.&nbsp;1–7, 2025. <a href="https://doi.org/10.1109/VTC2025-Fall65116.2025.11309920">DOI</a></li>
+</ul>
+</section>
+<section id="example-result" class="level2">
+<h2 class="anchored" data-anchor-id="example-result">Example result</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../artifacts/lora-lrfhss-measurement-campaign/preview.png" class="img-fluid figure-img"></p>
+<figcaption>Packet reception rate versus gateway distance</figcaption>
+</figure>
 </div>
-<section id="what-you-will-find-here" class="level2">
-<h2 class="anchored" data-anchor-id="what-you-will-find-here">What You Will Find Here</h2>
-<div class="resource-pillars">
-<section id="open-artifacts" class="level3 resource-pillar">
-<h3 class="anchored" data-anchor-id="open-artifacts">Open artifacts</h3>
-<p>Public datasets, scripts, and reproducibility material released by the lab.</p>
+<p>This preview illustrates LR-FHSS surpassing LoRa with <code>DR5</code> across the measured distance range, while <code>DR6</code> provides the corresponding comparison at the higher LR-FHSS coding rate.</p>
 </section>
-<section id="research-context" class="level3 resource-pillar">
-<h3 class="anchored" data-anchor-id="research-context">Research context</h3>
-<p>Each resource is tied to a paper, project, or experimental contribution.</p>
-</section>
-<section id="example-outputs" class="level3 resource-pillar">
-<h3 class="anchored" data-anchor-id="example-outputs">Example outputs</h3>
-<p>Representative figures or results that help others understand how the artifact can be used.</p>
-</section>
-</div>
-</section>
-<section id="available-resources" class="level2">
-<h2 class="anchored" data-anchor-id="available-resources">Available Resources</h2>
-<section id="semantic-communication-for-iot-tutorial" class="level3 resource-card">
-<h3 class="anchored" data-anchor-id="semantic-communication-for-iot-tutorial"><a href="../resources/semcom-iot-tutorial.html">Semantic Communication for IoT Tutorial</a></h3>
-<p>Tutorial material on SemCom for IoT, covering Deep JSCC, distributed semantic encoder training, adaptive runtime operation, and semantic-aware resource allocation. Includes a downloadable handout and a companion Deep JSCC demo repository.</p>
-<p><code>SemCom</code> <code>IoT</code> <code>Deep JSCC</code> <code>Tutorial</code></p>
-<p><a href="../resources/semcom-iot-tutorial.html">View resource</a></p>
-</section>
-<section id="lorawan-measurement-campaigns-in-lebanon" class="level3 resource-card">
-<h3 class="anchored" data-anchor-id="lorawan-measurement-campaigns-in-lebanon"><a href="../resources/lorawan-measurements-lebanon.html">LoRaWAN Measurement Campaigns in Lebanon</a></h3>
-<p>Open LoRaWAN propagation measurements collected in indoor, suburban, urban, and rural environments in Lebanon, used to derive path-loss models and evaluate LPWAN coverage.</p>
-<p><code>LPWAN</code> <code>LoRaWAN</code> <code>Propagation</code> <code>Measurement</code></p>
-<p><a href="../resources/lorawan-measurements-lebanon.html">View resource</a></p>
-</section>
-<section id="lora-and-lr-fhss-measurement-campaign-in-halifax" class="level3 resource-card">
-<h3 class="anchored" data-anchor-id="lora-and-lr-fhss-measurement-campaign-in-halifax"><a href="../resources/lora-lrfhss-measurement-campaign.html">LoRa and LR-FHSS Measurement Campaign in Halifax</a></h3>
-<p>Open real-world LoRaWAN measurements collected across Halifax, comparing LoRa DR0 with LR-FHSS DR5/DR6 in the US915 band and providing an SQLite dataset plus an analysis notebook.</p>
-<p><code>LPWAN</code> <code>LoRaWAN</code> <code>LR-FHSS</code> <code>Measurement</code></p>
-<p><a href="../resources/lora-lrfhss-measurement-campaign.html">View resource</a></p>
-</section>
-<section id="wi-fi-rffi-signal-level-synthetic-traces" class="level3 resource-card">
-<h3 class="anchored" data-anchor-id="wi-fi-rffi-signal-level-synthetic-traces"><a href="../resources/wifi-rffi-signal-level-synthetic.html">Wi-Fi RFFI Signal-Level Synthetic Traces</a></h3>
-<p>Synthetic Wi-Fi signal traces generated at the bit level with hardware impairments, designed for RFFI-based impersonation detection research.</p>
-<p><code>RFFI</code> <code>Wi-Fi</code> <code>Synthetic</code> <code>Impersonation Detection</code></p>
-<p><a href="../resources/wifi-rffi-signal-level-synthetic.html">View resource</a></p>
-</section>
-<section id="wi-fi-rffi-protocol-level-emulated-traces" class="level3 resource-card">
-<h3 class="anchored" data-anchor-id="wi-fi-rffi-protocol-level-emulated-traces"><a href="../resources/wifi-rffi-protocol-level-emulated.html">Wi-Fi RFFI Protocol-Level Emulated Traces</a></h3>
-<p>Protocol-level emulated Wi-Fi 802.11 signal traces with hardware impairments for RFFI-based impersonation detection.</p>
-<p><code>RFFI</code> <code>Wi-Fi</code> <code>Emulated</code> <code>Impersonation Detection</code></p>
-<p><a href="../resources/wifi-rffi-protocol-level-emulated.html">View resource</a></p>
-</section>
-</section>
-<section id="for-lab-members" class="level2">
-<h2 class="anchored" data-anchor-id="for-lab-members">For Lab Members</h2>
-<p>Team members can contribute new datasets, scripts, notebooks, and reproducibility material through the GitHub repository:</p>
-<p><a href="https://github.com/samerlahoud/spark-lab-site">https://github.com/samerlahoud/spark-lab-site</a></p>
-<p>Start by describing the material in a new folder under <code>artifacts/</code>. When the material is ready for the public website, add a matching page under <code>resources/</code> and link it from this page.</p>
-<p><a href="../resources/contribute.html">Contribution guide</a></p>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<p>If you use this resource, please cite the related publication above and acknowledge the public dataset repository.</p>
 
 
 </section>
