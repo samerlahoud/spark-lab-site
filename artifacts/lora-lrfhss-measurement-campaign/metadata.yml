@@ -1,0 +1,21 @@
+title: "LoRa and LR-FHSS Measurement Campaign in Halifax"
+summary: "Open real-world LoRaWAN measurements collected in Halifax, Canada, comparing LoRa and LR-FHSS performance in the US915 band across urban and suburban environments."
+authors:
+- "Alexis Delplace"
+- "Samer Lahoud"
+- "Kinda Khawam"
+year: 2025
+status: "public"
+paper_title: "Exploring LR-FHSS Modulation for Enhanced IoT Connectivity: A Measurement Campaign"
+paper_url: "https://doi.org/10.1109/VTC2025-Fall65116.2025.11309920"
+artifact_url: "https://github.com/AlexisDel/LoRa-LRFHSS-Measurement-Campaign"
+code_url: "https://github.com/AlexisDel/LoRa-LRFHSS-Measurement-Campaign/blob/main/demo.ipynb"
+preview_image: "preview.png"
+tags:
+- LPWAN
+- LoRaWAN
+- LR-FHSS
+- LoRa
+- Measurement
+- Dataset
+maintainer: "Alexis Delplace"

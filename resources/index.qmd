@@ -53,6 +53,15 @@ Open LoRaWAN propagation measurements collected in indoor, suburban, urban, and 
 :::
 
 ::: {.resource-card}
+### [LoRa and LR-FHSS Measurement Campaign in Halifax](lora-lrfhss-measurement-campaign.qmd)
+
+Open real-world LoRaWAN measurements collected across Halifax, comparing LoRa DR0 with LR-FHSS DR5/DR6 in the US915 band and providing an SQLite dataset plus an analysis notebook.
+
+`LPWAN` `LoRaWAN` `LR-FHSS` `Measurement`
+
+[View resource](lora-lrfhss-measurement-campaign.qmd)
+:::
+::: {.resource-card}
 ### [Wi-Fi RFFI Signal-Level Synthetic Traces](wifi-rffi-signal-level-synthetic.qmd)
 
 Synthetic Wi-Fi signal traces generated at the bit level with hardware impairments, designed for RFFI-based impersonation detection research.
