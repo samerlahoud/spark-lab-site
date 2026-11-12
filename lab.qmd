@@ -10,10 +10,11 @@ The lab combines theory, optimization, measurement, simulation, and learning-bas
 
 ## Current Research Directions
 
-- Anomaly detection in wireless networks
-- Low Power Wide Area Networks for wireless IoT
-- Wireless coexistence in unlicensed spectrum
-- Seamless transitions between cellular networks
+- Anomaly detection and RF fingerprinting for wireless security
+- Low-power wide-area networks for wireless IoT (LoRa, LR-FHSS)
+- Wireless coexistence and spectrum monitoring in unlicensed bands
+- Semantic and task-oriented communication for IoT
+- Wireless digital twins
 
 ## Faculty
 
@@ -22,26 +23,27 @@ The lab combines theory, optimization, measurement, simulation, and learning-bas
 
 ## Current PhD Students
 
-- **Jingxiang Huang** — Intelligent LPWAN coexistence techniques using machine learning
-- **Juliana El Rayess** — Modelling and optimization of reliability in LPWANs
-- **Alexis Delplace** — AI-driven techniques for radio map estimation and applications in the unlicensed sub-GHz spectrum
-- **Xinyi Li** — Federated anti-jamming techniques for low-power wide area networks
+- **Jingxiang Huang** — Coexistence of low-power wide-area networks in unlicensed sub-GHz bands
+- **Alexis Delplace** — Wireless digital twins for the unlicensed sub-GHz spectrum (joint PhD, Dalhousie University and Université Paris-Saclay)
+- **Xinyi Li** — Physical-layer signatures for anomaly detection in wireless networks
+- **Ehsan Baratnezhad** — Detecting and mitigating protocol-level threats in heterogeneous wireless IoT networks
 
-## Current Undergraduate Students
+## Incoming PhD Students
 
-- **Nathan Chappe** — Halifax digital twin
-- **Noah Jehanno** — Halifax digital twin
-- **Jonathan Earle** — Meshtastic security
-- **Ekin Deveci** — PQC public monitor 
-- **Mariana Carrillo Holguin** — 5G ORAN digital twin
+- **Xingyu Zhu** — Task-oriented communications for spectrum monitoring (starting January 2027)
 
 ## Recent Undergraduate Students
 
-- **Juliette Savard** — Reproducible interference rejection for LPWAN technologies
+- **Mariana Carrillo Holguin** — Jamming detection using a private 5G O-RAN platform (Mitacs Globalink)
+- **Ekin Deveci** — A public monitor for web adoption of post-quantum cryptography
+- **Jonathan Earle** — LPWAN mesh deployment and optimization using Meshtastic
+- **Juliette Savard** — Battery depletion attacks on wireless Thread networks; reproducible interference rejection for LPWAN technologies
+- **Nathan Chappe** — Halifax wireless digital twin
+- **Noah Jehanno** — Halifax wireless digital twin
 - **Anas Alhadi** — Robust header compression in wireless IoT networks
-- **Maeva Donatien** — AI/ML functions in 5G open radio access networks
-- **Kenzo Froger** — WiFi fingerprinting
-- **Morgan Mootoosamy** — WiFi fingerprinting
+- **Maëva Donatien** — AI/ML functions in 5G open radio access networks
+- **Kenzo Froger** — Outdoor measurement campaign for WiFi fingerprinting
+- **Morgan Mootoosamy** — Outdoor measurement campaign for WiFi fingerprinting
 - **Daniel Faigle** — Low power relays in LoRaWAN networks
 - **Malek Achour** — Prototype of an AI-enabled radio access network
 - **Mohamed Djoncounda Sissoko** — Jamming of frequency hopping communications in LoRaWAN networks
@@ -50,18 +52,19 @@ The lab combines theory, optimization, measurement, simulation, and learning-bas
 ## Recent Postdoctoral Researchers
 
 - **Farah Yassine** — Federated learning for channel sensing in wireless IoT networks
-- **Hassan Fawaz** — Multi-operator LoRaWAN deployments
+- **Hassan Fawaz** — Cooperation in multi-operator LoRaWAN deployments
 - **Duc-Tuyen Ta** — Machine learning for LoRaWAN
 
 ## Alumni
 
 ### PhD Alumni
 
-- **Zeina Awada** — Resource management for network slicing, March 2025
-- **Ali Loubany** — LoRaWAN performance optimization: toward efficient IoT networks, June 2023
+- **Juliana El Rayess** — Reliability and Energy Efficiency for Channel Access in Massive IoT, October 2026
+- **Zeina Awada** — Enabling Multi-Tenant RAN Slicing in 5G Networks, March 2025
 - **Farah Yassine** — Radio Resource Management in NB-IoT Networks, July 2023
+- **Ali Loubany** — LoRaWAN Performance Optimization: Towards Efficient IoT Networks, June 2023
 - **Hussein Taleb** — User Association and RRH Clustering Techniques in Cloud-Radio Access Networks, July 2021
-- **Bachir Lahad** — Joint Uplink and Downlink Radio Resource Allocation for Heterogeneous TDD Cellular Networks, December 2020
+- **Bachir Lahad** — Joint Uplink-Downlink Radio Resource Allocation in 5G HetNets, December 2020
 - **Hassan Fawaz** — Radio Resource Allocation in Full-Duplex Cellular OFDMA Networks, November 2019
 - **Rabah Guedrez** — Traffic Engineering for Segment Routing, December 2018
 - **Soha Farhat** — Access Selection and Pricing in Multi-Operator Wireless Networks, July 2016
@@ -75,8 +78,9 @@ The lab combines theory, optimization, measurement, simulation, and learning-bas
 
 ### Master's Alumni
 
+- **Xinyi Li** — Anomaly Detection Using Radio Frequency Fingerprinting, 2025
 - **Ronald Touma** — Explainable and Privacy-Preserving Wi-Fi Fingerprinting for Urban Outdoor Positioning, 2025
-- **Alexis Delplace** — Radio Propagation Models for LPWAN: A LoRaWAN Deployment in Halifax, 2024
+- **Alexis Delplace** — Radio Propagation Models for Low-Power Wide-Area Networks: A LoRaWAN Deployment in Halifax, 2024
 - **Ibrahim Ayoub** — Machine Learning for Low Power Wide Area Networks, 2021
 - **Zahraa El Attar** — Comparison of resource abstraction methods in network virtualization solutions for network slicing, 2021
 - **Juliana El Rayess** — Irregular Repetition in Aloha for LoRaWAN, 2021
